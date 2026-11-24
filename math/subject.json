@@ -196,6 +196,18 @@
             "lessons/lin-04.md"
           ],
           "test": "tests/lin-test.md"
+        },
+        {
+          "id": "graph",
+          "title": "Graphing lines",
+          "lessons": [
+            "lessons/graph-01.md",
+            "lessons/graph-02.md",
+            "lessons/graph-03.md",
+            "lessons/graph-04.md",
+            "lessons/graph-05.md"
+          ],
+          "test": "tests/graph-test.md"
         }
       ]
     },
