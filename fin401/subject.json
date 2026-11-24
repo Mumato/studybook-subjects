@@ -1,0 +1,44 @@
+{
+  "name": "FIN 401",
+  "version": 1,
+  "description": "Managerial Finance II: how companies decide what to invest in, how to pay for it, and what it's worth.",
+  "intro": "intro.md",
+  "parts": [
+    {
+      "id": "review",
+      "title": "Part 1: Review of FIN 300",
+      "chapters": [
+        {
+          "id": "tvm",
+          "title": "Time value of money",
+          "lessons": [
+            "lessons/tvm-01.md",
+            "lessons/tvm-02.md",
+            "lessons/tvm-03.md"
+          ],
+          "test": "tests/tvm-test.md"
+        },
+        {
+          "id": "bnd",
+          "title": "Bonds",
+          "lessons": [
+            "lessons/bnd-01.md",
+            "lessons/bnd-02.md",
+            "lessons/bnd-03.md"
+          ],
+          "test": "tests/bnd-test.md"
+        },
+        {
+          "id": "stk",
+          "title": "Stocks",
+          "lessons": [
+            "lessons/stk-01.md",
+            "lessons/stk-02.md",
+            "lessons/stk-03.md"
+          ],
+          "test": "tests/stk-test.md"
+        }
+      ]
+    }
+  ]
+}

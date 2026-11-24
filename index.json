@@ -1,6 +1,27 @@
 {
   "subjects": [
     {
+      "id": "fin401",
+      "version": 1,
+      "files": {
+        "CREDITS.md": "6d3ca7f59cf1cabe4609e677fb4bab9893430f87d37571f3da891d9f6534cd0a",
+        "intro.md": "d813bf3eb03436d8567c799e58c0abb0ff3bc0567c944a5972252492745bd848",
+        "lessons/bnd-01.md": "bdfef717873f6d23aa132dd516e16154ae92eb0c1aa9b1780b0e0ce0b1797022",
+        "lessons/bnd-02.md": "27fddb9de6a27ea14092b59c2fd2325a0a5eeec52b5c08374599dc42b7615e66",
+        "lessons/bnd-03.md": "a59dd7e45432a1b3661b3f2423fe1580f300b0291c3c6d12c854d1242988e690",
+        "lessons/stk-01.md": "63bba55bd73c02e55b914ef8573ef033032d4f216c613f6896d0260f6b1c48d1",
+        "lessons/stk-02.md": "e23d597429814bd74fa63167f79c0ae6d5fc3aec0f7c34414c3aa7e24106bc9c",
+        "lessons/stk-03.md": "607e90a7e7ce073450cf6171fb6126ba77a6ab5a0a7c50e03a777fc01a150fe2",
+        "lessons/tvm-01.md": "cfa8e97dc380965358cda1b3efbd24fa49dff86d0d9b4b584a41e06b9d1ac2cf",
+        "lessons/tvm-02.md": "5477a397a25892967ddefbb9b6ecf1f0e65631500d8933d21e6aceab00a72c6e",
+        "lessons/tvm-03.md": "1de0c60282c37fbfd06199c49c399f5e1f2340e94b738753afb62d1577c0fbb4",
+        "subject.json": "2296e2fcc2b7165a3a06d9855678dfa2736c9972eae2cea4a6877584cce39b83",
+        "tests/bnd-test.md": "e94a731eca9f28adadfdb51711d1c8ac710263ce1287e4a6861d20ffa65ac02e",
+        "tests/stk-test.md": "7b56bb50c6ddc0f3ba708b8b1d05c3de66f76c033fa4ccd874551a09fabbd149",
+        "tests/tvm-test.md": "ee2ac3849b965957723a7c0cdaaa495c763ed053b087ee94b9b2e69a1b6f6f31"
+      }
+    },
+    {
       "id": "math",
       "version": 11,
       "files": {
