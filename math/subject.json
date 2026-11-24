@@ -231,6 +231,18 @@
             "lessons/poly-05.md"
           ],
           "test": "tests/poly-test.md"
+        },
+        {
+          "id": "fact",
+          "title": "Factoring",
+          "lessons": [
+            "lessons/fact-01.md",
+            "lessons/fact-02.md",
+            "lessons/fact-03.md",
+            "lessons/fact-04.md",
+            "lessons/fact-05.md"
+          ],
+          "test": "tests/fact-test.md"
         }
       ]
     },
