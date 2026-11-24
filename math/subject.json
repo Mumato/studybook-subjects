@@ -17,6 +17,16 @@
             "lessons/wn-03.md"
           ],
           "test": "tests/wn-test.md"
+        },
+        {
+          "id": "mul",
+          "title": "Multiplication",
+          "lessons": [
+            "lessons/mul-01.md",
+            "lessons/mul-02.md",
+            "lessons/mul-03.md"
+          ],
+          "test": "tests/mul-test.md"
         }
       ]
     },
