@@ -260,6 +260,17 @@
             "lessons/quad-04.md"
           ],
           "test": "tests/quad-test.md"
+        },
+        {
+          "id": "ratx",
+          "title": "Rational expressions",
+          "lessons": [
+            "lessons/ratx-01.md",
+            "lessons/ratx-02.md",
+            "lessons/ratx-03.md",
+            "lessons/ratx-04.md"
+          ],
+          "test": "tests/ratx-test.md"
         }
       ]
     }
