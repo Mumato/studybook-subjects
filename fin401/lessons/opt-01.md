@@ -9,7 +9,8 @@ An option is the **right, but not the obligation**, to buy or sell something at 
 - **American** options can be exercised any time before expiry; **European** only at expiry.
 - The buyer pays a **premium**; the seller (**writer**) collects it and must deliver if the buyer exercises.
 - Payoff at expiry when the stock price is $S$:
-$$\text{call: } \max(S - K,\,0) \qquad \text{put: } \max(K - S,\,0)$$
+$$\text{call: } \max(S - K,\,0)$$
+$$\text{put: } \max(K - S,\,0)$$
 - **Profit** = payoff − premium paid.
 :::
 

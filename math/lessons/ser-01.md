@@ -10,7 +10,7 @@ An infinite series $\sum a_n$ **converges** if its partial sums $S_n = a_1 + \cd
 :::
 
 ::: example
-$\sum_{n=1}^{\infty}\frac{1}{n(n + 1)} = \sum\left(\frac{1}{n} - \frac{1}{n + 1}\right) = \left(1 - \frac{1}{2}\right) + \left(\frac{1}{2} - \frac{1}{3}\right) + \cdots$. Almost everything cancels (it **telescopes**), and $S_n = 1 - \frac{1}{n + 1} \to 1$.
+$\sum_{n=1}^{\infty}\frac{1}{n(n + 1)} = \sum\left(\frac{1}{n} - \frac{1}{n + 1}\right)$, which is $\left(1 - \frac{1}{2}\right) + \left(\frac{1}{2} - \frac{1}{3}\right) + \cdots$. Almost everything cancels (it **telescopes**), and $S_n = 1 - \frac{1}{n + 1} \to 1$.
 :::
 
 ::: problem id=p1 type=numeric answer="1"

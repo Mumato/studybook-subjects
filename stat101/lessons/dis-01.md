@@ -14,7 +14,7 @@ A **random variable** turns a chance outcome into a number: the number of heads,
 ::: example
 X = 0, 1, 2, 3 with probabilities 0.1, 0.3, 0.4, 0.2.
 $\mu = 0(0.1) + 1(0.3) + 2(0.4) + 3(0.2) = 1.7$.
-$\sigma^2 = (-1.7)^2(0.1) + (-0.7)^2(0.3) + (0.3)^2(0.4) + (1.3)^2(0.2) = 0.81$, so $\sigma = 0.9$.
+$\sigma^2 = (-1.7)^2(0.1) + (-0.7)^2(0.3)$ $+ (0.3)^2(0.4) + (1.3)^2(0.2) = 0.81$, so $\sigma = 0.9$.
 :::
 
 ::: problem id=p1 type=numeric answer="0.15"
@@ -29,7 +29,7 @@ solution: $0 + 0.35 + 0.60 + 0.45 = 1.4$.
 
 ::: problem id=p3 type=numeric answer="0.94" tolerance=0.01
 Same X (mean 1.4). Find the variance $\sigma^2$.
-solution: $(1.96)(0.2) + (0.16)(0.35) + (0.36)(0.3) + (2.56)(0.15) = 0.392 + 0.056 + 0.108 + 0.384 = 0.94$.
+solution: $(1.96)(0.2) + (0.16)(0.35) + (0.36)(0.3) + (2.56)(0.15)$, which is $0.392 + 0.056 + 0.108 + 0.384 = 0.94$.
 :::
 
 ::: problem id=p4 type=numeric answer="0.45"

@@ -45,7 +45,7 @@ Revenue minus costs is \$600, tax 25%, depreciation \$150, capex \$100 and NWC r
 - [x] \$357.5
 - [ ] \$507.5
 - [ ] \$320.0
-solution: $600 \times 0.75 + 0.25 \times 150 - 100 - 30 = 450 + 37.5 - 130 = 357.5$.
+solution: $600 \times 0.75 + 0.25 \times 150 - 100 - 30$, which is $450 + 37.5 - 130 = 357.5$.
 :::
 
 ::: problem id=t6 type=choice

@@ -25,7 +25,7 @@ solution: $200 \times 0.30 = 60$.
 
 ::: problem id=p2 type=numeric answer="4.583" tolerance=0.01
 Claimed shares 30%, 20%, 20%, 30%; a sample of 200 gives 70, 35, 45, 50. Expected: 60, 40, 40, 60. What is $\chi^2$? (3 decimals)
-solution: $\frac{100}{60} + \frac{25}{40} + \frac{25}{40} + \frac{100}{60} = 1.667 + 0.625 + 0.625 + 1.667 = 4.583$.
+solution: $\frac{100}{60} + \frac{25}{40} + \frac{25}{40} + \frac{100}{60}$, which is $1.667 + 0.625 + 0.625 + 1.667 = 4.583$.
 :::
 
 ::: problem id=p3 type=numeric answer="3"

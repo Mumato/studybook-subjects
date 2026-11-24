@@ -7,7 +7,8 @@ An acquisition is a project: it makes sense only if what you get exceeds what yo
 ::: rule
 - **Takeover premium** = (offer price − pre-bid price) ÷ pre-bid price.
 - For the acquirer:
-$$NPV = \text{synergies} - \text{premium paid} \qquad (\text{premium paid} = \text{price paid} - \text{target's standalone value})$$
+$$NPV = \text{synergies} - \text{premium paid}$$
+where the **premium paid** is the price paid minus the target's standalone value.
 - Highest sensible price for the target = standalone value + synergies.
 - **Stock deal:** the **exchange ratio** is the number of acquirer shares given per target share $= \dfrac{\text{offer price per target share}}{\text{acquirer share price}}$.
 - **EPS bootstrapping:** buying a firm with a lower P/E with shares raises EPS, but creates no value by itself.

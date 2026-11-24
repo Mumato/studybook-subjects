@@ -8,7 +8,8 @@ A continuous variable (a time, a weight) can take any value in a range, so we ca
 - A **density curve** sits on or above the x-axis and has total area 1. $P(a < X < b)$ is the area between $a$ and $b$.
 - For a continuous variable, $P(X = a) = 0$, so $<$ and $\le$ give the same answer.
 - **Uniform** on $[a, b]$: every value equally likely, a flat curve of height $\frac{1}{b - a}$.
-$$P(c < X < d) = \frac{d - c}{b - a}, \quad \mu = \frac{a + b}{2}, \quad \sigma = \frac{b - a}{\sqrt{12}}$$
+$$P(c < X < d) = \frac{d - c}{b - a}$$
+$$\mu = \frac{a + b}{2}, \quad \sigma = \frac{b - a}{\sqrt{12}}$$
 :::
 
 ::: example

@@ -13,7 +13,8 @@ Drop the minus sign. Between two points, use the **midpoint method**: divide eac
 
 ::: example
 The price rises from \$10 to \$12 and the quantity falls from 100 to 80.
-$$\%\Delta Q = \frac{-20}{90} = -22.2\%, \quad \%\Delta P = \frac{2}{11} = 18.2\%$$
+$$\%\Delta Q = \frac{-20}{90} = -22.2\%$$
+$$\%\Delta P = \frac{2}{11} = 18.2\%$$
 $E_d = 22.2 / 18.2 = 1.22$: elastic.
 :::
 

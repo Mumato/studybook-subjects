@@ -57,5 +57,5 @@ solution: $\ln|x| - \ln|x + 3| + C$.
 ::: problem id=p8 type=numeric answer="ln(4/3)"
 $\int_2^3 \frac{1}{x(x - 1)}\,dx = ?$ (exact)
 hint: $\frac{1}{x(x - 1)} = \frac{1}{x - 1} - \frac{1}{x}$.
-solution: $[\ln(x - 1) - \ln x]_2^3 = (\ln 2 - \ln 3) - (0 - \ln 2) = 2\ln 2 - \ln 3 = \ln\frac{4}{3}$.
+solution: $[\ln(x - 1) - \ln x]_2^3 = (\ln 2 - \ln 3) - (0 - \ln 2)$, which is $2\ln 2 - \ln 3 = \ln\frac{4}{3}$.
 :::

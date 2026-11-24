@@ -69,5 +69,5 @@ solution: The \$50 is a sunk cost. Compare only what's left: \$60 beats \$40.
 ::: problem id=p8 type=numeric answer="20000" creative=true
 A farmer can rent her field to a neighbour for \$5,000 a year, or plant corn. Planting costs \$12,000 for seed and fuel and takes 200 hours she could have worked at a job paying \$15 an hour. What is the full opportunity cost of planting corn, in dollars?
 hint: Money spent, plus the rent she gives up, plus the wages she gives up.
-solution: $12000 + 5000 + 200 \times 15 = 12000 + 5000 + 3000 = \$20{,}000$. If the corn sells for less than that, she's better off renting the field and taking the job.
+solution: $12000 + 5000 + 200 \times 15$, which is $12000 + 5000 + 3000 = \$20{,}000$. If the corn sells for less than that, she's better off renting the field and taking the job.
 :::

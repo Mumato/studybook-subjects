@@ -47,7 +47,7 @@ solution: $(e - e) - (0 - 1) = 1$.
 ::: problem id=p6 type=expression answer="(x^2-2x+2)e^x" form=antiderivative
 $\int x^2e^x\,dx = ?$
 hint: Use parts twice.
-solution: $x^2e^x - \int 2xe^x\,dx = x^2e^x - 2(xe^x - e^x) = (x^2 - 2x + 2)e^x + C$.
+solution: $x^2e^x - \int 2xe^x\,dx = x^2e^x - 2(xe^x - e^x)$, which is $(x^2 - 2x + 2)e^x + C$.
 :::
 
 ::: problem id=p7 type=choice

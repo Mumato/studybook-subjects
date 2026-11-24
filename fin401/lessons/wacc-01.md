@@ -13,7 +13,8 @@ $$r_{wacc} = \frac{E}{V}\,r_E + \frac{P}{V}\,r_P + \frac{D}{V}\,r_D\,(1 - T_c)$$
 
 ::: example
 Equity \$600M at 12%, debt \$400M at 6%, tax 25%:
-$$r_{wacc} = 0.6 \times 12\% + 0.4 \times 6\% \times 0.75 = 7.2\% + 1.8\% = 9\%$$
+$$r_{wacc} = 0.6 \times 12\% + 0.4 \times 6\% \times 0.75$$
+$$r_{wacc} = 7.2\% + 1.8\% = 9\%$$
 :::
 
 ::: problem id=p1 type=numeric answer="5.92" tolerance=0.01
@@ -52,5 +53,5 @@ solution: The WACC is about what investors expect **now**, on what their claims 
 ::: problem id=p7 type=numeric answer="8.5" tolerance=0.01 creative=true
 A firm is 50% common equity (12%), 10% preferred shares (7%) and 40% debt (6%); the tax rate is 25%. What is its WACC? Type the percent.
 hint: Preferred dividends aren't tax-deductible: no tax adjustment for them.
-solution: $0.5 \times 12 + 0.1 \times 7 + 0.4 \times 6 \times 0.75 = 6 + 0.7 + 1.8 = 8.5\%$.
+solution: $0.5 \times 12 + 0.1 \times 7 + 0.4 \times 6 \times 0.75$, which is $6 + 0.7 + 1.8 = 8.5\%$.
 :::

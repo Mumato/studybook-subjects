@@ -16,7 +16,8 @@ First-year tax rules have changed over the years: use the version your textbook 
 
 ::: example
 A \$100,000 machine, CCA rate 20%, tax 25%, cost of capital 10%:
-$$PV = \frac{100000 \times 0.2 \times 0.25}{0.2 + 0.1} \times \frac{1.05}{1.10} = 15909.09$$
+$$PV = \frac{100000 \times 0.2 \times 0.25}{0.2 + 0.1} \times \frac{1.05}{1.10}$$
+$$PV = 15909.09$$
 :::
 
 ::: problem id=p1 type=numeric answer="8788.27" tolerance=1

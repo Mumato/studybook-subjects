@@ -6,7 +6,7 @@ Dividends aren't the only way firms pay shareholders, and some firms pay none. T
 
 ::: rule
 **Total payout model:** discount all payouts (dividends **and** share buybacks), then divide by shares:
-$$P_0 = \frac{PV(\text{future total dividends and buybacks})}{\text{shares outstanding}}$$
+$$P_0 = \frac{PV(\text{total dividends and buybacks})}{\text{shares outstanding}}$$
 **Discounted free cash flow model:** discount the firm's free cash flows at the **WACC** to get its **enterprise value** $V_0$. Then
 $$\text{Equity} = V_0 + \text{cash} - \text{debt} \qquad P_0 = \frac{\text{Equity}}{\text{shares}}$$
 :::

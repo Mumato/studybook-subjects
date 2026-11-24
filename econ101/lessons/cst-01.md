@@ -66,5 +66,5 @@ solution: The business pays less than what the owner gives up to run it.
 
 ::: problem id=p8 type=numeric answer="222000" creative=true
 Maya earns \$70,000 at her job. She could open a café instead: rent and supplies would cost \$150,000 a year, and she'd put in \$40,000 of savings that now earn 5%. How much yearly revenue does the café need just to match staying at her job (zero economic profit), in dollars?
-solution: All costs: $150000 + 70000 + 0.05 \times 40000 = 150000 + 70000 + 2000 = \$222{,}000$.
+solution: All costs: $150000 + 70000 + 0.05 \times 40000$, which is $150000 + 70000 + 2000 = \$222{,}000$.
 :::

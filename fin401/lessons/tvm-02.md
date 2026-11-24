@@ -8,7 +8,8 @@ Many cash flows repeat: loan payments, rent, coupons. Instead of discounting eac
 A **perpetuity** pays $C$ every period forever, starting in one period:
 $$PV = \frac{C}{r}$$
 An **annuity** pays $C$ every period for $n$ periods, starting in one period:
-$$PV = \frac{C}{r}\left(1 - \frac{1}{(1+r)^n}\right) \qquad FV = \frac{C}{r}\left((1+r)^n - 1\right)$$
+$$PV = \frac{C}{r}\left(1 - \frac{1}{(1+r)^n}\right)$$
+$$FV = \frac{C}{r}\left((1+r)^n - 1\right)$$
 If the first payment is **today** (an annuity due), multiply by $(1 + r)$.
 :::
 

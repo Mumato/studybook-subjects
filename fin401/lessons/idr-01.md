@@ -13,7 +13,8 @@ where $r$ is the project's **cost of capital**.
 
 ::: example
 Pay \$100 today to get \$40 a year for 3 years, at 8%:
-$$NPV = -100 + \frac{40}{0.08}\left(1 - \frac{1}{1.08^3}\right) = -100 + 103.08 = 3.08$$
+$$NPV = -100 + \frac{40}{0.08}\left(1 - \frac{1}{1.08^3}\right)$$
+$$NPV = -100 + 103.08 = 3.08$$
 Positive, so take it: it adds \$3.08 of value.
 :::
 

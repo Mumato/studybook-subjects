@@ -25,7 +25,7 @@ solution: Equal group sizes: $(11.5 + 14 + 12)/3 = 12.5$.
 
 ::: problem id=p2 type=numeric answer="14"
 Same groups. What is $SSB$?
-solution: $4(11.5 - 12.5)^2 + 4(14 - 12.5)^2 + 4(12 - 12.5)^2 = 4 + 9 + 1 = 14$.
+solution: $4(11.5 - 12.5)^2 + 4(14 - 12.5)^2 + 4(12 - 12.5)^2$, which is $4 + 9 + 1 = 14$.
 :::
 
 ::: problem id=p3 type=numeric answer="7"

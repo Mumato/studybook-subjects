@@ -5,8 +5,9 @@ title: Free cash flow and project NPV
 Earnings aren't cash. Free cash flow fixes that, and its NPV decides the project.
 
 ::: rule
-$$FCF = \text{unlevered net income} + \text{depreciation} - \text{capital expenditures} - \Delta NWC$$
-Equivalently: $FCF = (\text{revenue} - \text{costs})(1 - T_c) - \text{capex} - \Delta NWC + T_c \times \text{depreciation}$.
+$$FCF = \text{unlevered net income} + \text{depreciation}$$
+$$- \text{capital expenditures} - \Delta NWC$$
+Equivalently: $FCF = (\text{revenue} - \text{costs})(1 - T_c)$ $- \text{capex} - \Delta NWC + T_c \times \text{depreciation}$.
 - Depreciation isn't paid in cash, but it lowers taxes: the **depreciation tax shield** is $T_c \times$ depreciation.
 - **Net working capital** (inventory, receivables minus payables) ties up cash; increases are a cost and the NWC usually comes back at the end.
 Discount the FCFs at the project's cost of capital to get the NPV.

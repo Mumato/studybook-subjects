@@ -7,7 +7,8 @@ Options are everywhere in companies: in their equity, their convertible bonds an
 ::: rule
 - **Equity is a call option** on the firm's assets, with the debt's face value as the strike: shareholders get $\max(V - D,\,0)$ at maturity.
 - **Convertible bond:** can be swapped for a fixed number of shares (the **conversion ratio**).
-$$\text{conversion price} = \frac{\text{face value}}{\text{conversion ratio}} \qquad \text{conversion value} = \text{ratio} \times S$$
+$$\text{conversion price} = \frac{\text{face value}}{\text{conversion ratio}}$$
+$$\text{conversion value} = \text{ratio} \times S$$
 Convert at maturity if the conversion value beats the face value. Convertibles pay lower coupons, since the conversion option has value.
 - **Warrants** are calls issued by the firm itself; exercising them creates new shares.
 :::
