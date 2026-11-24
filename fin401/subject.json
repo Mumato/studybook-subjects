@@ -1,6 +1,6 @@
 {
   "name": "FIN401",
-  "version": 4,
+  "version": 5,
   "description": "Managerial Finance II: how companies decide what to invest in, how to pay for it, and what it's worth.",
   "intro": "intro.md",
   "parts": [
@@ -144,6 +144,38 @@
           "title": "Practice exam C",
           "lessons": [],
           "test": "tests/midc-test.md"
+        }
+      ]
+    },
+    {
+      "id": "raise",
+      "title": "Part 6: Raising capital",
+      "chapters": [
+        {
+          "id": "eqd",
+          "title": "Raising equity and debt",
+          "lessons": [
+            "lessons/eqd-01.md",
+            "lessons/eqd-02.md",
+            "lessons/eqd-03.md"
+          ],
+          "test": "tests/eqd-test.md"
+        }
+      ]
+    },
+    {
+      "id": "options",
+      "title": "Part 7: Options",
+      "chapters": [
+        {
+          "id": "opt",
+          "title": "Options",
+          "lessons": [
+            "lessons/opt-01.md",
+            "lessons/opt-02.md",
+            "lessons/opt-03.md"
+          ],
+          "test": "tests/opt-test.md"
         }
       ]
     }

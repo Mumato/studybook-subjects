@@ -28,6 +28,8 @@ Each chapter ends with a **test**, mostly multiple choice like the course exams.
 - Part 4: Capital structure (Modigliani-Miller, taxes, distress, agency, pecking order)
 - Part 5: Payout policy (dividends, buybacks, taxes, signals)
 - Midterm practice: three practice exams covering Parts 1-5, multiple choice like the real midterm
-- More parts are on their way: raising capital, options, risk management, mergers and acquisitions, and corporate governance, plus final practice exams.
+- Part 6: Raising capital (venture capital, IPOs, rights offers, debt)
+- Part 7: Options (calls, puts, put-call parity, convertibles)
+- More parts are on their way: risk management, mergers and acquisitions, and corporate governance, plus final practice exams.
 
 This book is a study aid, written for StudyBook. It isn't your course's official material, and it must not be used to answer graded work like MyLabs.
