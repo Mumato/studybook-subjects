@@ -124,7 +124,20 @@
     {
       "id": "prealg",
       "title": "Part 3: Pre-algebra",
-      "chapters": []
+      "chapters": [
+        {
+          "id": "int",
+          "title": "Integers",
+          "lessons": [
+            "lessons/int-01.md",
+            "lessons/int-02.md",
+            "lessons/int-03.md",
+            "lessons/int-04.md",
+            "lessons/int-05.md"
+          ],
+          "test": "tests/int-test.md"
+        }
+      ]
     }
   ]
 }
