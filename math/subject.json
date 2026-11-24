@@ -424,6 +424,23 @@
           "test": "tests/int1-test.md"
         }
       ]
+    },
+    {
+      "id": "calc2",
+      "title": "Part 9: Calculus II",
+      "chapters": [
+        {
+          "id": "tech",
+          "title": "Integration techniques",
+          "lessons": [
+            "lessons/tech-01.md",
+            "lessons/tech-02.md",
+            "lessons/tech-03.md",
+            "lessons/tech-04.md"
+          ],
+          "test": "tests/tech-test.md"
+        }
+      ]
     }
   ]
 }
