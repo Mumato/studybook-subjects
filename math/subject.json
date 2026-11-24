@@ -311,6 +311,16 @@
             "lessons/ang-04.md"
           ],
           "test": "tests/ang-test.md"
+        },
+        {
+          "id": "trig",
+          "title": "Right-triangle trigonometry",
+          "lessons": [
+            "lessons/trig-01.md",
+            "lessons/trig-02.md",
+            "lessons/trig-03.md"
+          ],
+          "test": "tests/trig-test.md"
         }
       ]
     }
