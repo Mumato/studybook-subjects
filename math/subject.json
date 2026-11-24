@@ -439,6 +439,17 @@
             "lessons/tech-04.md"
           ],
           "test": "tests/tech-test.md"
+        },
+        {
+          "id": "iapp",
+          "title": "Applications of integrals",
+          "lessons": [
+            "lessons/iapp-01.md",
+            "lessons/iapp-02.md",
+            "lessons/iapp-03.md",
+            "lessons/iapp-04.md"
+          ],
+          "test": "tests/iapp-test.md"
         }
       ]
     }
