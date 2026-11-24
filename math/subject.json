@@ -245,6 +245,23 @@
           "test": "tests/fact-test.md"
         }
       ]
+    },
+    {
+      "id": "alg2",
+      "title": "Part 5: Algebra II",
+      "chapters": [
+        {
+          "id": "quad",
+          "title": "Quadratics",
+          "lessons": [
+            "lessons/quad-01.md",
+            "lessons/quad-02.md",
+            "lessons/quad-03.md",
+            "lessons/quad-04.md"
+          ],
+          "test": "tests/quad-test.md"
+        }
+      ]
     }
   ]
 }
