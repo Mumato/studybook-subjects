@@ -2,10 +2,11 @@
   "subjects": [
     {
       "id": "math",
-      "version": 9,
+      "version": 10,
       "files": {
-        "CREDITS.md": "5a5c76b743f18626ae26a875e70cf3344fa6b6712e9575634dd0635eeff9c634",
+        "CREDITS.md": "707d848e34792f97977e63cda56035c638ee2c1eac5980f1555e3e8ca3c099e8",
         "assets/arrays.png": "5e54c4dbfff06533db60d3c424e40565263577b7f154231530d50b82d93a7e88",
+        "book_gui/math_gui.png": "6de5d5cc8f5d6532ffb480b366c6f8c30174b153511ba93fef77d34e2233c316",
         "intro.md": "ca415642e1452ad85eb54a93b3556e995487b0641b443dcf4d0bbff595eaffc8",
         "lessons/ang-01.md": "eb8d681102a1dc01ef4c366afa4870a3c10831d0f5facd1ed10d9b7f1d859e0a",
         "lessons/ang-02.md": "572d025433269d94f33b92f8ef6f279ebb3509fb71e00afc1d772a236263a474",
@@ -154,7 +155,7 @@
         "lessons/wp-01.md": "dac1547a461406ef02bcaf1c7797ce524cc45125dc4de3402977271b0acd0f08",
         "lessons/wp-02.md": "ded9308bcd7d2417c25831cf00c6894c04ff389be6f3617a04acd8e82daf69dc",
         "lessons/wp-03.md": "31c9ea97b5c8741cc898c4f230a11afa2f59bf1fe0dfd5371edab932c6689ae8",
-        "subject.json": "4c667255f95d1c16055eadf68b0430387b3e9240f072dec2a01f50c1cb0ca48e",
+        "subject.json": "6d2aa61d76614c138e3eb2699ec1b50247bb4b01817cd5916f6142ec218d96b9",
         "tests/ang-test.md": "3985cd77730c68f15db4a6307adb589e21c24bc9639b5408d3717955cbc6d42b",
         "tests/app-test.md": "95545ce050e13169bb24312848d5f850eb1e9c6cedc4acbe8006c6d484d56126",
         "tests/dec-test.md": "22c6c24a3ccecae924c5baae50094deb23ff7c5d15e5328f8ce9668303a5d362",
