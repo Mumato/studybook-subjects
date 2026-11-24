@@ -23,6 +23,10 @@ segment 4.2,0 4.2,1.15 1
 segment 2.2,0 4.2,1.15 2
 :::
 
+::: example
+$\cos 45°$: in the 45-45-90 triangle, adjacent 1 over hypotenuse $\sqrt{2}$ gives $\frac{1}{\sqrt{2}} = \frac{\sqrt{2}}{2}$.
+:::
+
 Type roots as sqrt, like sqrt(2)/2.
 
 ::: problem id=p1 type=numeric answer="sqrt(2)/2"
