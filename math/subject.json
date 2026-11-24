@@ -1,6 +1,6 @@
 {
   "name": "Math",
-  "version": 5,
+  "version": 6,
   "description": "From multiplication and division to calculus, one step at a time.",
   "intro": "intro.md",
   "parts": [
@@ -245,11 +245,6 @@
           "test": "tests/fact-test.md"
         }
       ]
-    },
-    {
-      "id": "alg2",
-      "title": "Part 5: Algebra II",
-      "chapters": []
     }
   ]
 }
