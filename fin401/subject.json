@@ -1,6 +1,6 @@
 {
   "name": "FIN401",
-  "version": 3,
+  "version": 4,
   "description": "Managerial Finance II: how companies decide what to invest in, how to pay for it, and what it's worth.",
   "intro": "intro.md",
   "parts": [
@@ -104,6 +104,46 @@
             "lessons/cs2-03.md"
           ],
           "test": "tests/cs2-test.md"
+        }
+      ]
+    },
+    {
+      "id": "payout",
+      "title": "Part 5: Payout policy",
+      "chapters": [
+        {
+          "id": "pay",
+          "title": "Payout policy",
+          "lessons": [
+            "lessons/pay-01.md",
+            "lessons/pay-02.md",
+            "lessons/pay-03.md"
+          ],
+          "test": "tests/pay-test.md"
+        }
+      ]
+    },
+    {
+      "id": "midterm",
+      "title": "Midterm practice",
+      "chapters": [
+        {
+          "id": "mida",
+          "title": "Practice exam A",
+          "lessons": [],
+          "test": "tests/mida-test.md"
+        },
+        {
+          "id": "midb",
+          "title": "Practice exam B",
+          "lessons": [],
+          "test": "tests/midb-test.md"
+        },
+        {
+          "id": "midc",
+          "title": "Practice exam C",
+          "lessons": [],
+          "test": "tests/midc-test.md"
         }
       ]
     }
