@@ -282,6 +282,18 @@
             "lessons/rad-04.md"
           ],
           "test": "tests/rad-test.md"
+        },
+        {
+          "id": "fun",
+          "title": "Functions",
+          "lessons": [
+            "lessons/fun-01.md",
+            "lessons/fun-02.md",
+            "lessons/fun-03.md",
+            "lessons/fun-04.md",
+            "lessons/fun-05.md"
+          ],
+          "test": "tests/fun-test.md"
         }
       ]
     }
