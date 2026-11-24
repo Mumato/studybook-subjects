@@ -85,6 +85,18 @@
             "lessons/frop-05.md"
           ],
           "test": "tests/frop-test.md"
+        },
+        {
+          "id": "dec",
+          "title": "Decimals",
+          "lessons": [
+            "lessons/dec-01.md",
+            "lessons/dec-02.md",
+            "lessons/dec-03.md",
+            "lessons/dec-04.md",
+            "lessons/dec-05.md"
+          ],
+          "test": "tests/dec-test.md"
         }
       ]
     },
