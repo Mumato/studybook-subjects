@@ -62,7 +62,19 @@
     {
       "id": "fdp",
       "title": "Part 2: Fractions, decimals, percents",
-      "chapters": []
+      "chapters": [
+        {
+          "id": "fr",
+          "title": "Fractions",
+          "lessons": [
+            "lessons/fr-01.md",
+            "lessons/fr-02.md",
+            "lessons/fr-03.md",
+            "lessons/fr-04.md"
+          ],
+          "test": "tests/fr-test.md"
+        }
+      ]
     },
     {
       "id": "prealg",
