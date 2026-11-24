@@ -360,6 +360,17 @@
             "lessons/pre-03.md"
           ],
           "test": "tests/pre-test.md"
+        },
+        {
+          "id": "seq",
+          "title": "Sequences and series",
+          "lessons": [
+            "lessons/seq-01.md",
+            "lessons/seq-02.md",
+            "lessons/seq-03.md",
+            "lessons/seq-04.md"
+          ],
+          "test": "tests/seq-test.md"
         }
       ]
     }
