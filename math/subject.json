@@ -334,6 +334,24 @@
           "test": "tests/unit-test.md"
         }
       ]
+    },
+    {
+      "id": "precalc",
+      "title": "Part 7: Precalculus",
+      "chapters": [
+        {
+          "id": "exp",
+          "title": "Exponentials and logarithms",
+          "lessons": [
+            "lessons/exp-01.md",
+            "lessons/exp-02.md",
+            "lessons/exp-03.md",
+            "lessons/exp-04.md",
+            "lessons/exp-05.md"
+          ],
+          "test": "tests/exp-test.md"
+        }
+      ]
     }
   ]
 }
