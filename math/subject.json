@@ -46,6 +46,16 @@
             "lessons/ord-02.md"
           ],
           "test": "tests/ord-test.md"
+        },
+        {
+          "id": "fac",
+          "title": "Factors and multiples",
+          "lessons": [
+            "lessons/fac-01.md",
+            "lessons/fac-02.md",
+            "lessons/fac-03.md"
+          ],
+          "test": "tests/fac-test.md"
         }
       ]
     },
