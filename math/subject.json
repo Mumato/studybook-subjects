@@ -73,6 +73,18 @@
             "lessons/fr-04.md"
           ],
           "test": "tests/fr-test.md"
+        },
+        {
+          "id": "frop",
+          "title": "Fraction operations",
+          "lessons": [
+            "lessons/frop-01.md",
+            "lessons/frop-02.md",
+            "lessons/frop-03.md",
+            "lessons/frop-04.md",
+            "lessons/frop-05.md"
+          ],
+          "test": "tests/frop-test.md"
         }
       ]
     },
