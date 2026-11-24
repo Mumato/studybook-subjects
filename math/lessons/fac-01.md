@@ -33,10 +33,8 @@ How many of these divide by 5? 15, 22, 40, 75, 91
 solution: 15, 40 and 75 end in 0 or 5: **3** of them.
 :::
 
-::: problem id=p3 type=choice
-Does 1,236 divide by 9?
-- [ ] yes
-- [x] no
+::: problem id=p3 type=text answers="no"
+Does 1,236 divide by 9? Type yes or no.
 solution: $1 + 2 + 3 + 6 = 12$, and 12 doesn't divide by 9, so **no**.
 :::
 

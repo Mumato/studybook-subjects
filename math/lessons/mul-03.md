@@ -40,11 +40,9 @@ What number goes in the box? $7 \times (10 + 3) = 7 \times 10 + 7 \times \square
 solution: The distributive property multiplies 7 by each part: the box is **3**.
 :::
 
-::: problem id=p4 type=choice
-$5 \times 8 = 8 \times 5$ shows which property?
-- [x] commutative
-- [ ] associative
-- [ ] distributive
+::: problem id=p4 type=text answers="commutative;commutative property;the commutative property"
+$5 \times 8 = 8 \times 5$ shows which property? Type its name.
+hint: Commutative, associative or distributive?
 solution: Only the order changed, so it's the **commutative** property.
 :::
 

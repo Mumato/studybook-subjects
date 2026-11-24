@@ -57,10 +57,8 @@ What is the largest prime factor of 150?
 solution: $150 = 2 \times 75 = 2 \times 3 \times 25 = 2 \times 3 \times 5^2$. The largest prime is **5**.
 :::
 
-::: problem id=p7 type=choice
-Is 1 a prime number?
-- [ ] yes
-- [x] no
+::: problem id=p7 type=text answers="no"
+Is 1 a prime number? Type yes or no.
 solution: A prime needs exactly two different factors. 1 has only one factor, so it is **not** prime.
 :::
 

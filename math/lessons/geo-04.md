@@ -39,10 +39,8 @@ A right triangle has both legs equal to 1. How long is the hypotenuse? Type sqrt
 solution: $c^2 = 1 + 1 = 2$, so $c = \sqrt{2} \approx 1.41$.
 :::
 
-::: problem id=p5 type=choice
-Can a triangle with sides 7, 24 and 25 be a right triangle?
-- [x] yes
-- [ ] no
+::: problem id=p5 type=text answers="yes"
+Can a triangle with sides 7, 24 and 25 be a right triangle? Type yes or no.
 solution: $7^2 + 24^2 = 49 + 576 = 625 = 25^2$, so **yes**.
 :::
 

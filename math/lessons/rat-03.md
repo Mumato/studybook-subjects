@@ -51,10 +51,8 @@ hint: The top must be $3 \times 4$.
 solution: $x + 1 = 12$, so $x = 11$.
 :::
 
-::: problem id=p7 type=choice
-Is $\frac{4}{6} = \frac{10}{15}$ a true proportion?
-- [x] yes
-- [ ] no
+::: problem id=p7 type=text answers="yes"
+Is $\frac{4}{6} = \frac{10}{15}$ a true proportion? Type yes or no.
 solution: Cross-multiply: $4 \times 15 = 60$ and $6 \times 10 = 60$. They match, so **yes**.
 :::
 
