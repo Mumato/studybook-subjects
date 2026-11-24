@@ -1,0 +1,16 @@
+{
+  "subjects": [
+    {
+      "id": "math",
+      "version": 1,
+      "files": {
+        "assets/arrays.png": "5e54c4dbfff06533db60d3c424e40565263577b7f154231530d50b82d93a7e88",
+        "intro.md": "0eec259b2d0c2bdc9f482192409a6ac9129845816d3b00ca0aad8422645b5e5a",
+        "lessons/l1.md": "b2a1cf8c27291e1fd336b4fa362f64e797110bd73dfdb68f328e1f2c59a24209",
+        "lessons/l2.md": "0299317009cfc786661fb6b3640547ae3cd5ac1dea6e314c71e179aa396e8f10",
+        "subject.json": "be5c9bf1f4d721537b1c9b48fa20b302d354c1c9f78ecb0fde4119c1db47dfb4",
+        "tests/mult.md": "466a76be88a466eb410289b22531440439665ec1be56643ac36bcfe5bb863c27"
+      }
+    }
+  ]
+}
