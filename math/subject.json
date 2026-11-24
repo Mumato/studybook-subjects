@@ -373,6 +373,23 @@
           "test": "tests/seq-test.md"
         }
       ]
+    },
+    {
+      "id": "calc1",
+      "title": "Part 8: Calculus I",
+      "chapters": [
+        {
+          "id": "lim",
+          "title": "Limits",
+          "lessons": [
+            "lessons/lim-01.md",
+            "lessons/lim-02.md",
+            "lessons/lim-03.md",
+            "lessons/lim-04.md"
+          ],
+          "test": "tests/lim-test.md"
+        }
+      ]
     }
   ]
 }
