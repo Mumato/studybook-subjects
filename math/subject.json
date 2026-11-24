@@ -350,6 +350,16 @@
             "lessons/exp-05.md"
           ],
           "test": "tests/exp-test.md"
+        },
+        {
+          "id": "pre",
+          "title": "Polynomial and rational functions",
+          "lessons": [
+            "lessons/pre-01.md",
+            "lessons/pre-02.md",
+            "lessons/pre-03.md"
+          ],
+          "test": "tests/pre-test.md"
         }
       ]
     }
