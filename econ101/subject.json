@@ -1,0 +1,232 @@
+{
+  "name": "ECON101",
+  "version": 1,
+  "description": "Principles of Microeconomics: how people, firms and markets make choices when resources are scarce.",
+  "intro": "intro.md",
+  "parts": [
+    {
+      "id": "think",
+      "title": "Part 1: Thinking like an economist",
+      "chapters": [
+        {
+          "id": "sca",
+          "title": "Scarcity and choice",
+          "lessons": [
+            "lessons/sca-01.md",
+            "lessons/sca-02.md",
+            "lessons/sca-03.md"
+          ],
+          "test": "tests/sca-test.md"
+        },
+        {
+          "id": "trd",
+          "title": "Comparative advantage and trade",
+          "lessons": [
+            "lessons/trd-01.md",
+            "lessons/trd-02.md"
+          ],
+          "test": "tests/trd-test.md"
+        }
+      ]
+    },
+    {
+      "id": "sd",
+      "title": "Part 2: Supply and demand",
+      "chapters": [
+        {
+          "id": "dem",
+          "title": "Demand, supply and equilibrium",
+          "lessons": [
+            "lessons/dem-01.md",
+            "lessons/dem-02.md",
+            "lessons/dem-03.md",
+            "lessons/dem-04.md"
+          ],
+          "test": "tests/dem-test.md"
+        },
+        {
+          "id": "ctrl",
+          "title": "Price controls and surplus",
+          "lessons": [
+            "lessons/ctrl-01.md",
+            "lessons/ctrl-02.md"
+          ],
+          "test": "tests/ctrl-test.md"
+        }
+      ]
+    },
+    {
+      "id": "el",
+      "title": "Part 3: Elasticity",
+      "chapters": [
+        {
+          "id": "ela",
+          "title": "Elasticity",
+          "lessons": [
+            "lessons/ela-01.md",
+            "lessons/ela-02.md",
+            "lessons/ela-03.md"
+          ],
+          "test": "tests/ela-test.md"
+        }
+      ]
+    },
+    {
+      "id": "cc",
+      "title": "Part 4: Consumer choice",
+      "chapters": [
+        {
+          "id": "con",
+          "title": "Utility and choice",
+          "lessons": [
+            "lessons/con-01.md",
+            "lessons/con-02.md",
+            "lessons/con-03.md"
+          ],
+          "test": "tests/con-test.md"
+        }
+      ]
+    },
+    {
+      "id": "pr",
+      "title": "Part 5: Production and costs",
+      "chapters": [
+        {
+          "id": "cst",
+          "title": "Costs of production",
+          "lessons": [
+            "lessons/cst-01.md",
+            "lessons/cst-02.md",
+            "lessons/cst-03.md",
+            "lessons/cst-04.md"
+          ],
+          "test": "tests/cst-test.md"
+        }
+      ]
+    },
+    {
+      "id": "mid",
+      "title": "Midterm practice",
+      "chapters": [
+        {
+          "id": "mida",
+          "title": "Practice exam A",
+          "lessons": [],
+          "test": "tests/mida-test.md"
+        },
+        {
+          "id": "midb",
+          "title": "Practice exam B",
+          "lessons": [],
+          "test": "tests/midb-test.md"
+        }
+      ]
+    },
+    {
+      "id": "comp",
+      "title": "Part 6: Perfect competition",
+      "chapters": [
+        {
+          "id": "pc",
+          "title": "Perfect competition",
+          "lessons": [
+            "lessons/pc-01.md",
+            "lessons/pc-02.md",
+            "lessons/pc-03.md"
+          ],
+          "test": "tests/pc-test.md"
+        }
+      ]
+    },
+    {
+      "id": "mono",
+      "title": "Part 7: Monopoly",
+      "chapters": [
+        {
+          "id": "mon",
+          "title": "Monopoly",
+          "lessons": [
+            "lessons/mon-01.md",
+            "lessons/mon-02.md",
+            "lessons/mon-03.md"
+          ],
+          "test": "tests/mon-test.md"
+        }
+      ]
+    },
+    {
+      "id": "olig",
+      "title": "Part 8: Monopolistic competition and oligopoly",
+      "chapters": [
+        {
+          "id": "oli",
+          "title": "Imperfect competition",
+          "lessons": [
+            "lessons/oli-01.md",
+            "lessons/oli-02.md",
+            "lessons/oli-03.md"
+          ],
+          "test": "tests/oli-test.md"
+        }
+      ]
+    },
+    {
+      "id": "fail",
+      "title": "Part 9: Market failure and government",
+      "chapters": [
+        {
+          "id": "ext",
+          "title": "Externalities",
+          "lessons": [
+            "lessons/ext-01.md",
+            "lessons/ext-02.md"
+          ],
+          "test": "tests/ext-test.md"
+        },
+        {
+          "id": "pub",
+          "title": "Public goods and information",
+          "lessons": [
+            "lessons/pub-01.md",
+            "lessons/pub-02.md"
+          ],
+          "test": "tests/pub-test.md"
+        }
+      ]
+    },
+    {
+      "id": "labr",
+      "title": "Part 10: Labour and income",
+      "chapters": [
+        {
+          "id": "lab",
+          "title": "Labour markets and inequality",
+          "lessons": [
+            "lessons/lab-01.md",
+            "lessons/lab-02.md",
+            "lessons/lab-03.md"
+          ],
+          "test": "tests/lab-test.md"
+        }
+      ]
+    },
+    {
+      "id": "fin",
+      "title": "Final practice",
+      "chapters": [
+        {
+          "id": "fina",
+          "title": "Practice exam A",
+          "lessons": [],
+          "test": "tests/fina-test.md"
+        },
+        {
+          "id": "finb",
+          "title": "Practice exam B",
+          "lessons": [],
+          "test": "tests/finb-test.md"
+        }
+      ]
+    }
+  ]
+}
