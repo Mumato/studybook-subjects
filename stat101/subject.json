@@ -1,0 +1,237 @@
+{
+  "name": "STAT101",
+  "version": 1,
+  "description": "Introductory Statistics: describing data, probability, and drawing conclusions from samples.",
+  "intro": "intro.md",
+  "parts": [
+    {
+      "id": "data",
+      "title": "Part 1: Data and sampling",
+      "chapters": [
+        {
+          "id": "dat",
+          "title": "Data and sampling",
+          "lessons": [
+            "lessons/dat-01.md",
+            "lessons/dat-02.md",
+            "lessons/dat-03.md"
+          ],
+          "test": "tests/dat-test.md"
+        }
+      ]
+    },
+    {
+      "id": "desc",
+      "title": "Part 2: Describing data",
+      "chapters": [
+        {
+          "id": "dsc",
+          "title": "Center, spread and shape",
+          "lessons": [
+            "lessons/dsc-01.md",
+            "lessons/dsc-02.md",
+            "lessons/dsc-03.md",
+            "lessons/dsc-04.md"
+          ],
+          "test": "tests/dsc-test.md"
+        }
+      ]
+    },
+    {
+      "id": "prob",
+      "title": "Part 3: Probability",
+      "chapters": [
+        {
+          "id": "prb",
+          "title": "Probability rules",
+          "lessons": [
+            "lessons/prb-01.md",
+            "lessons/prb-02.md",
+            "lessons/prb-03.md",
+            "lessons/prb-04.md"
+          ],
+          "test": "tests/prb-test.md"
+        }
+      ]
+    },
+    {
+      "id": "rv",
+      "title": "Part 4: Discrete random variables",
+      "chapters": [
+        {
+          "id": "dis",
+          "title": "Discrete distributions",
+          "lessons": [
+            "lessons/dis-01.md",
+            "lessons/dis-02.md",
+            "lessons/dis-03.md"
+          ],
+          "test": "tests/dis-test.md"
+        }
+      ]
+    },
+    {
+      "id": "norm",
+      "title": "Part 5: The normal distribution",
+      "chapters": [
+        {
+          "id": "nrm",
+          "title": "Normal distributions",
+          "lessons": [
+            "lessons/nrm-01.md",
+            "lessons/nrm-02.md",
+            "lessons/nrm-03.md"
+          ],
+          "test": "tests/nrm-test.md"
+        }
+      ]
+    },
+    {
+      "id": "mid",
+      "title": "Midterm practice",
+      "chapters": [
+        {
+          "id": "mida",
+          "title": "Practice exam A",
+          "lessons": [],
+          "test": "tests/mida-test.md"
+        },
+        {
+          "id": "midb",
+          "title": "Practice exam B",
+          "lessons": [],
+          "test": "tests/midb-test.md"
+        }
+      ]
+    },
+    {
+      "id": "samp",
+      "title": "Part 6: Sampling distributions",
+      "chapters": [
+        {
+          "id": "clt",
+          "title": "The central limit theorem",
+          "lessons": [
+            "lessons/clt-01.md",
+            "lessons/clt-02.md",
+            "lessons/clt-03.md"
+          ],
+          "test": "tests/clt-test.md"
+        }
+      ]
+    },
+    {
+      "id": "conf",
+      "title": "Part 7: Confidence intervals",
+      "chapters": [
+        {
+          "id": "ci",
+          "title": "Confidence intervals",
+          "lessons": [
+            "lessons/ci-01.md",
+            "lessons/ci-02.md",
+            "lessons/ci-03.md"
+          ],
+          "test": "tests/ci-test.md"
+        }
+      ]
+    },
+    {
+      "id": "hyp",
+      "title": "Part 8: Hypothesis tests",
+      "chapters": [
+        {
+          "id": "hyp",
+          "title": "Hypothesis testing",
+          "lessons": [
+            "lessons/hyp-01.md",
+            "lessons/hyp-02.md",
+            "lessons/hyp-03.md",
+            "lessons/hyp-04.md"
+          ],
+          "test": "tests/hyp-test.md"
+        }
+      ]
+    },
+    {
+      "id": "two",
+      "title": "Part 9: Comparing two groups",
+      "chapters": [
+        {
+          "id": "two",
+          "title": "Two-sample inference",
+          "lessons": [
+            "lessons/two-01.md",
+            "lessons/two-02.md",
+            "lessons/two-03.md"
+          ],
+          "test": "tests/two-test.md"
+        }
+      ]
+    },
+    {
+      "id": "chis",
+      "title": "Part 10: Chi-square tests",
+      "chapters": [
+        {
+          "id": "chi",
+          "title": "Chi-square tests",
+          "lessons": [
+            "lessons/chi-01.md",
+            "lessons/chi-02.md"
+          ],
+          "test": "tests/chi-test.md"
+        }
+      ]
+    },
+    {
+      "id": "regr",
+      "title": "Part 11: Correlation and regression",
+      "chapters": [
+        {
+          "id": "reg",
+          "title": "Linear regression",
+          "lessons": [
+            "lessons/reg-01.md",
+            "lessons/reg-02.md",
+            "lessons/reg-03.md"
+          ],
+          "test": "tests/reg-test.md"
+        }
+      ]
+    },
+    {
+      "id": "anov",
+      "title": "Part 12: ANOVA",
+      "chapters": [
+        {
+          "id": "anv",
+          "title": "One-way ANOVA",
+          "lessons": [
+            "lessons/anv-01.md",
+            "lessons/anv-02.md"
+          ],
+          "test": "tests/anv-test.md"
+        }
+      ]
+    },
+    {
+      "id": "fin",
+      "title": "Final practice",
+      "chapters": [
+        {
+          "id": "fina",
+          "title": "Practice exam A",
+          "lessons": [],
+          "test": "tests/fina-test.md"
+        },
+        {
+          "id": "finb",
+          "title": "Practice exam B",
+          "lessons": [],
+          "test": "tests/finb-test.md"
+        }
+      ]
+    }
+  ]
+}
