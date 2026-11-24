@@ -136,6 +136,17 @@
             "lessons/int-05.md"
           ],
           "test": "tests/int-test.md"
+        },
+        {
+          "id": "expr",
+          "title": "Expressions",
+          "lessons": [
+            "lessons/expr-01.md",
+            "lessons/expr-02.md",
+            "lessons/expr-03.md",
+            "lessons/expr-04.md"
+          ],
+          "test": "tests/expr-test.md"
         }
       ]
     }
