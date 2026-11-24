@@ -97,6 +97,17 @@
             "lessons/dec-05.md"
           ],
           "test": "tests/dec-test.md"
+        },
+        {
+          "id": "pct",
+          "title": "Percents",
+          "lessons": [
+            "lessons/pct-01.md",
+            "lessons/pct-02.md",
+            "lessons/pct-03.md",
+            "lessons/pct-04.md"
+          ],
+          "test": "tests/pct-test.md"
         }
       ]
     },
