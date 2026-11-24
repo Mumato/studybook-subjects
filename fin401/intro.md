@@ -1,6 +1,6 @@
-## Welcome to FIN 401
+## Welcome to FIN401
 
-This book follows the topics of **FIN 401: Managerial Finance II** (corporate finance), in the order of the course schedule. Each chapter notes the matching chapter of *Fundamentals of Corporate Finance* (Berk, DeMarzo, Harford, Stangeland, Marosi), so you can use it next to your textbook.
+This book follows the topics of **FIN401: Managerial Finance II** (corporate finance), in the order of the course schedule. Each chapter notes the matching chapter of *Fundamentals of Corporate Finance* (Berk, DeMarzo, Harford, Stangeland, Marosi), so you can use it next to your textbook.
 
 ### How a lesson works
 
@@ -22,8 +22,10 @@ Each chapter ends with a **test**, mostly multiple choice like the course exams.
 
 ### The course
 
-- Part 1: Review of FIN 300 (time value of money, bonds, stocks)
+- Part 1: Review of FIN300 (time value of money, bonds, stocks)
 - Part 2: Capital budgeting (NPV, IRR, free cash flow, CCA)
-- More parts are on their way: cost of capital, capital structure, payout policy, raising capital, options, risk management, mergers and acquisitions, and corporate governance, plus midterm and final practice exams.
+- Part 3: Cost of capital (WACC, CAPM)
+- Part 4: Capital structure (Modigliani-Miller, taxes, distress, agency, pecking order)
+- More parts are on their way: payout policy, raising capital, options, risk management, mergers and acquisitions, and corporate governance, plus midterm and final practice exams.
 
 This book is a study aid, written for StudyBook. It isn't your course's official material, and it must not be used to answer graded work like MyLabs.

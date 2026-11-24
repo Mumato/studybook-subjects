@@ -2,16 +2,21 @@
   "subjects": [
     {
       "id": "fin401",
-      "version": 2,
+      "version": 3,
       "files": {
-        "CREDITS.md": "6d3ca7f59cf1cabe4609e677fb4bab9893430f87d37571f3da891d9f6534cd0a",
-        "intro.md": "9ad8e65954ff0b2f08ab8b42a8c20ef6c0eb0823ad6d069550c46e9c0d39d925",
+        "CREDITS.md": "2096a89750ef72691d370623d4bc1540109385e161561457dbe5c774d45e1222",
+        "intro.md": "0d4c7cf80a68983184fafc6df681e01fee072130b43f65266ed541b5204a0b17",
         "lessons/bnd-01.md": "bdfef717873f6d23aa132dd516e16154ae92eb0c1aa9b1780b0e0ce0b1797022",
         "lessons/bnd-02.md": "27fddb9de6a27ea14092b59c2fd2325a0a5eeec52b5c08374599dc42b7615e66",
         "lessons/bnd-03.md": "a59dd7e45432a1b3661b3f2423fe1580f300b0291c3c6d12c854d1242988e690",
         "lessons/cap-01.md": "4ebc2302506163e4eed5c67c276ddf2cca3c2492f011a384226d49a7e597dcf6",
         "lessons/cap-02.md": "bc351bbc71903569d6985b9b2866e0e97b4d3a60dc362fe53abd86124f0c40f1",
         "lessons/cap-03.md": "33428a8225cb9cc5cbf80a910fcce75139f1ebba950fe8085b21cdc605da72c4",
+        "lessons/cs1-01.md": "a9e60dd2c9bf20a35d4d2e691b9fce27bdbb50d03fce61bb599ef5ff00fd9c87",
+        "lessons/cs1-02.md": "23cf50942d63c18d5b68af5377474ab227eccf4daefa7d8d095cb351032b0cea",
+        "lessons/cs2-01.md": "03627867df8ade32f88a2539f8bca4c2f8bb50e0e7a0e576b59703aa27cc6a37",
+        "lessons/cs2-02.md": "6c2101495f96ba6214c05aa3dc45e53b221c3d023224ebb2fd00ac2c64a20491",
+        "lessons/cs2-03.md": "1d45b3d53d18ad2824b198534248871dcce84a5785a1ffffaed062053ceed4b7",
         "lessons/idr-01.md": "dab02776283a4e0ce6d5187a808ef72f8a141053a84361bff9ee431d3cbb90be",
         "lessons/idr-02.md": "c46dd07c67e10e3815919acaf267e3abcb74acc5217312e343234f05a7a9f5b4",
         "lessons/idr-03.md": "28a0a320cf6f523bf0975e2bb06cd811e0a5736d80d9136a3dc5bbf23368f0e3",
@@ -21,12 +26,18 @@
         "lessons/tvm-01.md": "cfa8e97dc380965358cda1b3efbd24fa49dff86d0d9b4b584a41e06b9d1ac2cf",
         "lessons/tvm-02.md": "5477a397a25892967ddefbb9b6ecf1f0e65631500d8933d21e6aceab00a72c6e",
         "lessons/tvm-03.md": "1de0c60282c37fbfd06199c49c399f5e1f2340e94b738753afb62d1577c0fbb4",
-        "subject.json": "470320f0db9f07bd6f30bba278e2001e6ae63720ccaa379732bbd53040af8470",
+        "lessons/wacc-01.md": "3bf05a6b2aae69255b5d01f9b9d4eb101ca90db8bc806775009dcb35134c8a49",
+        "lessons/wacc-02.md": "48b406c02ef18728de53ff68e1f072b5aab5033eed2219b7164c48e5b5fc92c9",
+        "lessons/wacc-03.md": "c5dd5c8f775b82e2bd98226b87c0b2a27edcd3ab88b6d96606f553882dff2bda",
+        "subject.json": "065717d722abe84f1e6f1c4a023661b6d6d7d8e4b49658618f98a61139251b44",
         "tests/bnd-test.md": "e94a731eca9f28adadfdb51711d1c8ac710263ce1287e4a6861d20ffa65ac02e",
         "tests/cap-test.md": "83581f212c27dfbecb54a579eaabf611857eedbedf9bb02b704bd7949104d006",
+        "tests/cs1-test.md": "b7bc73f2d1c256be70bf32c2f3834026ce800f33cface775f982f1d93f2701cd",
+        "tests/cs2-test.md": "6ff5850ede7c56dedea43f31336bc5b59e937d31d60445386d036188b07589ec",
         "tests/idr-test.md": "a98fa46dcfdc5dad5a958682d2ebd53437c039c6f4bb837c424bd75723bf6534",
         "tests/stk-test.md": "7b56bb50c6ddc0f3ba708b8b1d05c3de66f76c033fa4ccd874551a09fabbd149",
-        "tests/tvm-test.md": "ee2ac3849b965957723a7c0cdaaa495c763ed053b087ee94b9b2e69a1b6f6f31"
+        "tests/tvm-test.md": "ee2ac3849b965957723a7c0cdaaa495c763ed053b087ee94b9b2e69a1b6f6f31",
+        "tests/wacc-test.md": "60234805ed0a973d1175375e6560969c89845a640bb9440017c94e2b69b41450"
       }
     },
     {
