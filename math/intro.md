@@ -7,3 +7,5 @@ Every lesson gives you **a rule**, **a worked example** and then **practice prob
 Chapters end with a **test**. Pass it with 80% and the chapter is complete. Already know a topic? Take its test straight away.
 
 You can type answers like `3/4`, `0.75`, `2x+1` or `sqrt(2)`.
+
+Tip: the dot in the bottom-left corner of the book shows whether your progress is shared.

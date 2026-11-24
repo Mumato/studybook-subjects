@@ -1,6 +1,6 @@
 {
   "name": "Math",
-  "version": 1,
+  "version": 2,
   "description": "A small sample course. The full course downloads automatically.",
   "intro": "intro.md",
   "parts": [
