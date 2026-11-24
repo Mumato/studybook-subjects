@@ -108,6 +108,16 @@
             "lessons/pct-04.md"
           ],
           "test": "tests/pct-test.md"
+        },
+        {
+          "id": "rat",
+          "title": "Ratios, rates and proportions",
+          "lessons": [
+            "lessons/rat-01.md",
+            "lessons/rat-02.md",
+            "lessons/rat-03.md"
+          ],
+          "test": "tests/rat-test.md"
         }
       ]
     },
