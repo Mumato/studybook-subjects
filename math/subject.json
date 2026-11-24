@@ -296,6 +296,23 @@
           "test": "tests/fun-test.md"
         }
       ]
+    },
+    {
+      "id": "geotrig",
+      "title": "Part 6: Geometry and trigonometry",
+      "chapters": [
+        {
+          "id": "ang",
+          "title": "Angles and triangles",
+          "lessons": [
+            "lessons/ang-01.md",
+            "lessons/ang-02.md",
+            "lessons/ang-03.md",
+            "lessons/ang-04.md"
+          ],
+          "test": "tests/ang-test.md"
+        }
+      ]
     }
   ]
 }
