@@ -321,6 +321,17 @@
             "lessons/trig-03.md"
           ],
           "test": "tests/trig-test.md"
+        },
+        {
+          "id": "unit",
+          "title": "The unit circle",
+          "lessons": [
+            "lessons/unit-01.md",
+            "lessons/unit-02.md",
+            "lessons/unit-03.md",
+            "lessons/unit-04.md"
+          ],
+          "test": "tests/unit-test.md"
         }
       ]
     }
