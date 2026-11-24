@@ -30,6 +30,9 @@ Each chapter ends with a **test**, mostly multiple choice like the course exams.
 - Midterm practice: three practice exams covering Parts 1-5, multiple choice like the real midterm
 - Part 6: Raising capital (venture capital, IPOs, rights offers, debt)
 - Part 7: Options (calls, puts, put-call parity, convertibles)
-- More parts are on their way: risk management, mergers and acquisitions, and corporate governance, plus final practice exams.
+- Part 8: Risk management (futures, marking to market, exchange rate hedging)
+- Part 9: Mergers and acquisitions (synergies, premiums, exchange ratios, defences)
+- Part 10: Corporate governance (boards, executive pay, control, regulation)
+- Final practice: three cumulative practice exams, multiple choice like the real final
 
 This book is a study aid, written for StudyBook. It isn't your course's official material, and it must not be used to answer graded work like MyLabs.

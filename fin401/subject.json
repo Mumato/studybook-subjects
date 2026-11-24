@@ -1,6 +1,6 @@
 {
   "name": "FIN401",
-  "version": 5,
+  "version": 6,
   "description": "Managerial Finance II: how companies decide what to invest in, how to pay for it, and what it's worth.",
   "intro": "intro.md",
   "parts": [
@@ -176,6 +176,78 @@
             "lessons/opt-03.md"
           ],
           "test": "tests/opt-test.md"
+        }
+      ]
+    },
+    {
+      "id": "risk",
+      "title": "Part 8: Risk management",
+      "chapters": [
+        {
+          "id": "rsk",
+          "title": "Risk management",
+          "lessons": [
+            "lessons/rsk-01.md",
+            "lessons/rsk-02.md",
+            "lessons/rsk-03.md"
+          ],
+          "test": "tests/rsk-test.md"
+        }
+      ]
+    },
+    {
+      "id": "mna",
+      "title": "Part 9: Mergers and acquisitions",
+      "chapters": [
+        {
+          "id": "mna",
+          "title": "Mergers and acquisitions",
+          "lessons": [
+            "lessons/mna-01.md",
+            "lessons/mna-02.md",
+            "lessons/mna-03.md"
+          ],
+          "test": "tests/mna-test.md"
+        }
+      ]
+    },
+    {
+      "id": "gov",
+      "title": "Part 10: Corporate governance",
+      "chapters": [
+        {
+          "id": "gov",
+          "title": "Corporate governance",
+          "lessons": [
+            "lessons/gov-01.md",
+            "lessons/gov-02.md",
+            "lessons/gov-03.md"
+          ],
+          "test": "tests/gov-test.md"
+        }
+      ]
+    },
+    {
+      "id": "final",
+      "title": "Final practice",
+      "chapters": [
+        {
+          "id": "fina",
+          "title": "Practice exam A",
+          "lessons": [],
+          "test": "tests/fina-test.md"
+        },
+        {
+          "id": "finb",
+          "title": "Practice exam B",
+          "lessons": [],
+          "test": "tests/finb-test.md"
+        },
+        {
+          "id": "finc",
+          "title": "Practice exam C",
+          "lessons": [],
+          "test": "tests/finc-test.md"
         }
       ]
     }
