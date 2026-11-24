@@ -450,6 +450,17 @@
             "lessons/iapp-04.md"
           ],
           "test": "tests/iapp-test.md"
+        },
+        {
+          "id": "ser",
+          "title": "Series",
+          "lessons": [
+            "lessons/ser-01.md",
+            "lessons/ser-02.md",
+            "lessons/ser-03.md",
+            "lessons/ser-04.md"
+          ],
+          "test": "tests/ser-test.md"
         }
       ]
     }
