@@ -388,6 +388,18 @@
             "lessons/lim-04.md"
           ],
           "test": "tests/lim-test.md"
+        },
+        {
+          "id": "der",
+          "title": "Derivatives",
+          "lessons": [
+            "lessons/der-01.md",
+            "lessons/der-02.md",
+            "lessons/der-03.md",
+            "lessons/der-04.md",
+            "lessons/der-05.md"
+          ],
+          "test": "tests/der-test.md"
         }
       ]
     }
