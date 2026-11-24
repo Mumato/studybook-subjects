@@ -400,6 +400,17 @@
             "lessons/der-05.md"
           ],
           "test": "tests/der-test.md"
+        },
+        {
+          "id": "app",
+          "title": "Applications of derivatives",
+          "lessons": [
+            "lessons/app-01.md",
+            "lessons/app-02.md",
+            "lessons/app-03.md",
+            "lessons/app-04.md"
+          ],
+          "test": "tests/app-test.md"
         }
       ]
     }
