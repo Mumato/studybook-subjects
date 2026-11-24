@@ -208,6 +208,17 @@
             "lessons/graph-05.md"
           ],
           "test": "tests/graph-test.md"
+        },
+        {
+          "id": "sys",
+          "title": "Systems of equations",
+          "lessons": [
+            "lessons/sys-01.md",
+            "lessons/sys-02.md",
+            "lessons/sys-03.md",
+            "lessons/sys-04.md"
+          ],
+          "test": "tests/sys-test.md"
         }
       ]
     },
