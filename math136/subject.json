@@ -1,0 +1,219 @@
+{
+  "name": "MATH136",
+  "version": 1,
+  "description": "Linear Algebra: systems of equations, vectors, matrices, determinants, eigenvalues and orthogonality.",
+  "intro": "intro.md",
+  "parts": [
+    {
+      "id": "sys",
+      "title": "Part 1: Systems of linear equations",
+      "chapters": [
+        {
+          "id": "sys",
+          "title": "Systems and row reduction",
+          "lessons": [
+            "lessons/sys-01.md",
+            "lessons/sys-02.md",
+            "lessons/sys-03.md"
+          ],
+          "test": "tests/sys-test.md"
+        }
+      ]
+    },
+    {
+      "id": "vec",
+      "title": "Part 2: Vectors",
+      "chapters": [
+        {
+          "id": "vec",
+          "title": "Vectors and the dot product",
+          "lessons": [
+            "lessons/vec-01.md",
+            "lessons/vec-02.md",
+            "lessons/vec-03.md",
+            "lessons/vec-04.md"
+          ],
+          "test": "tests/vec-test.md"
+        }
+      ]
+    },
+    {
+      "id": "geo",
+      "title": "Part 3: Lines and planes",
+      "chapters": [
+        {
+          "id": "lp",
+          "title": "Lines and planes",
+          "lessons": [
+            "lessons/lp-01.md",
+            "lessons/lp-02.md"
+          ],
+          "test": "tests/lp-test.md"
+        }
+      ]
+    },
+    {
+      "id": "mat",
+      "title": "Part 4: Matrix algebra",
+      "chapters": [
+        {
+          "id": "mat",
+          "title": "Matrix algebra",
+          "lessons": [
+            "lessons/mat-01.md",
+            "lessons/mat-02.md",
+            "lessons/mat-03.md",
+            "lessons/mat-04.md"
+          ],
+          "test": "tests/mat-test.md"
+        }
+      ]
+    },
+    {
+      "id": "det",
+      "title": "Part 5: Determinants",
+      "chapters": [
+        {
+          "id": "det",
+          "title": "Determinants",
+          "lessons": [
+            "lessons/det-01.md",
+            "lessons/det-02.md",
+            "lessons/det-03.md"
+          ],
+          "test": "tests/det-test.md"
+        }
+      ]
+    },
+    {
+      "id": "mid",
+      "title": "Midterm practice",
+      "chapters": [
+        {
+          "id": "mida",
+          "title": "Practice exam A",
+          "lessons": [],
+          "test": "tests/mida-test.md"
+        },
+        {
+          "id": "midb",
+          "title": "Practice exam B",
+          "lessons": [],
+          "test": "tests/midb-test.md"
+        }
+      ]
+    },
+    {
+      "id": "sub",
+      "title": "Part 6: Subspaces",
+      "chapters": [
+        {
+          "id": "sub",
+          "title": "Span, independence and bases",
+          "lessons": [
+            "lessons/sub-01.md",
+            "lessons/sub-02.md",
+            "lessons/sub-03.md"
+          ],
+          "test": "tests/sub-test.md"
+        }
+      ]
+    },
+    {
+      "id": "rank",
+      "title": "Part 7: Rank",
+      "chapters": [
+        {
+          "id": "rnk",
+          "title": "Rank and nullity",
+          "lessons": [
+            "lessons/rnk-01.md",
+            "lessons/rnk-02.md"
+          ],
+          "test": "tests/rnk-test.md"
+        }
+      ]
+    },
+    {
+      "id": "lin",
+      "title": "Part 8: Linear transformations",
+      "chapters": [
+        {
+          "id": "lt",
+          "title": "Linear transformations",
+          "lessons": [
+            "lessons/lt-01.md",
+            "lessons/lt-02.md",
+            "lessons/lt-03.md"
+          ],
+          "test": "tests/lt-test.md"
+        }
+      ]
+    },
+    {
+      "id": "eig",
+      "title": "Part 9: Eigenvalues",
+      "chapters": [
+        {
+          "id": "eig",
+          "title": "Eigenvalues and diagonalization",
+          "lessons": [
+            "lessons/eig-01.md",
+            "lessons/eig-02.md",
+            "lessons/eig-03.md"
+          ],
+          "test": "tests/eig-test.md"
+        }
+      ]
+    },
+    {
+      "id": "orth",
+      "title": "Part 10: Orthogonality",
+      "chapters": [
+        {
+          "id": "ort",
+          "title": "Orthogonality and least squares",
+          "lessons": [
+            "lessons/ort-01.md",
+            "lessons/ort-02.md",
+            "lessons/ort-03.md"
+          ],
+          "test": "tests/ort-test.md"
+        }
+      ]
+    },
+    {
+      "id": "appl",
+      "title": "Part 11: Applications",
+      "chapters": [
+        {
+          "id": "app",
+          "title": "Markov chains and dynamics",
+          "lessons": [
+            "lessons/app-01.md",
+            "lessons/app-02.md"
+          ],
+          "test": "tests/app-test.md"
+        }
+      ]
+    },
+    {
+      "id": "fin",
+      "title": "Final practice",
+      "chapters": [
+        {
+          "id": "fina",
+          "title": "Practice exam A",
+          "lessons": [],
+          "test": "tests/fina-test.md"
+        },
+        {
+          "id": "finb",
+          "title": "Practice exam B",
+          "lessons": [],
+          "test": "tests/finb-test.md"
+        }
+      ]
+    }
+  ]
+}
