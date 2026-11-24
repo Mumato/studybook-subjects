@@ -147,6 +147,17 @@
             "lessons/expr-04.md"
           ],
           "test": "tests/expr-test.md"
+        },
+        {
+          "id": "eq",
+          "title": "Equations",
+          "lessons": [
+            "lessons/eq-01.md",
+            "lessons/eq-02.md",
+            "lessons/eq-03.md",
+            "lessons/eq-04.md"
+          ],
+          "test": "tests/eq-test.md"
         }
       ]
     }
