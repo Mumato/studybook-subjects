@@ -16,6 +16,7 @@ function walk(dir) {
 	const out = [];
 	for (const name of readdirSync(dir)) {
 		if (name.startsWith(".")) continue; // .git, .github, .managed, temp folders
+		if (dir !== root && name === "teachers.txt" && readdirSync(dir).includes("subject.json")) continue; // read live by the mod, not downloaded
 		const p = join(dir, name);
 		if (statSync(p).isDirectory()) out.push(...walk(p));
 		else out.push(p);

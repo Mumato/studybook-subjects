@@ -13,3 +13,11 @@ Each subject can have its own book art in `<subject>/book_gui/`:
 - `<subject>_book.png` (optional): the **open book** background. Same layout as the default book: 272×178, or a bigger copy with the same shape (544×356, ...). Without it the default book is used.
 
 Both download like the lessons: upload, and they show up the next time the book is opened. A wrong size means the default is used.
+
+## Teachers
+
+`<subject>/teachers.txt` lists a course's teachers, one Minecraft username per line (`#` starts a comment).
+Teachers who open a student's book (the student's signed copy, or their name under Friends) can mark lessons done,
+reset them, pass or clear tests, and add bookmarks; the student's game applies the changes the next time they open
+their book. The mod reads this file straight from GitHub, so edits take effect within about a minute without a new
+course version (it isn't listed in `index.json`).
