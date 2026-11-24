@@ -181,6 +181,28 @@
           "test": "tests/geo-test.md"
         }
       ]
+    },
+    {
+      "id": "alg1",
+      "title": "Part 4: Algebra I",
+      "chapters": [
+        {
+          "id": "lin",
+          "title": "Linear equations and inequalities",
+          "lessons": [
+            "lessons/lin-01.md",
+            "lessons/lin-02.md",
+            "lessons/lin-03.md",
+            "lessons/lin-04.md"
+          ],
+          "test": "tests/lin-test.md"
+        }
+      ]
+    },
+    {
+      "id": "alg2",
+      "title": "Part 5: Algebra II",
+      "chapters": []
     }
   ]
 }
