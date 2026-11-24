@@ -4,8 +4,31 @@
   "description": "From multiplication and division to calculus, one step at a time.",
   "intro": "intro.md",
   "parts": [
-    {"id": "arith", "title": "Part 1: Arithmetic", "chapters": []},
-    {"id": "fdp", "title": "Part 2: Fractions, decimals, percents", "chapters": []},
-    {"id": "prealg", "title": "Part 3: Pre-algebra", "chapters": []}
+    {
+      "id": "arith",
+      "title": "Part 1: Arithmetic",
+      "chapters": [
+        {
+          "id": "wn",
+          "title": "Whole numbers",
+          "lessons": [
+            "lessons/wn-01.md",
+            "lessons/wn-02.md",
+            "lessons/wn-03.md"
+          ],
+          "test": "tests/wn-test.md"
+        }
+      ]
+    },
+    {
+      "id": "fdp",
+      "title": "Part 2: Fractions, decimals, percents",
+      "chapters": []
+    },
+    {
+      "id": "prealg",
+      "title": "Part 3: Pre-algebra",
+      "chapters": []
+    }
   ]
 }
