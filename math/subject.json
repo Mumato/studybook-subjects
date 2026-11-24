@@ -219,6 +219,18 @@
             "lessons/sys-04.md"
           ],
           "test": "tests/sys-test.md"
+        },
+        {
+          "id": "poly",
+          "title": "Exponents and polynomials",
+          "lessons": [
+            "lessons/poly-01.md",
+            "lessons/poly-02.md",
+            "lessons/poly-03.md",
+            "lessons/poly-04.md",
+            "lessons/poly-05.md"
+          ],
+          "test": "tests/poly-test.md"
         }
       ]
     },
