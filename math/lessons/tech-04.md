@@ -13,7 +13,7 @@ Key fact: $\int_1^{\infty} \frac{1}{x^p}\,dx$ converges exactly when $p > 1$, to
 :::
 
 ::: example
-$\int_1^{\infty} \frac{1}{x^2}\,dx = \lim_{b \to \infty}\left[-\frac{1}{x}\right]_1^b = \lim_{b \to \infty}\left(1 - \frac{1}{b}\right) = 1$.
+$\int_1^{\infty} \frac{1}{x^2}\,dx = \lim_{b \to \infty}\left[-\frac{1}{x}\right]_1^b = \lim_{b \to \infty}\left(1 - \frac{1}{b}\right) = 1$
 :::
 
 ::: graph

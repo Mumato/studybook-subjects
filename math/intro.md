@@ -16,7 +16,7 @@ Each chapter ends with a **test**. Score 80% or more and the chapter is complete
 
 ### Typing answers
 
-You can type `3/4`, `0.75`, `2 1/3` (a mixed number), `25%`, `2x+1`, `x^2`, `sqrt(2)`, `pi` and `ln(5)`. Equivalent answers count: `1/2`, `0.5` and `2/4` are all right. Word answers like `yes` or `or` ignore capital letters. A degree sign is fine: `55°` and `55` both work.
+You can type `3/4`, `0.75`, `2 1/3` (a mixed number), `25%`, `2x+1`, `x^2`, `sqrt(2)`, `pi`, `ln(5)`, `e^x` and `xcos(x)`. Equivalent answers count: `1/2`, `0.5` and `2/4` are all right. Word answers like `yes` or `or` ignore capital letters. A degree sign is fine: `55°` and `55` both work.
 
 Some problems show a **graph**: click on it to place a point, or click the parts of a shape to shade them, then press **Check**.
 
@@ -29,4 +29,7 @@ Some problems show a **graph**: click on it to place a point, or click the parts
 - Part 5: Algebra II
 - Part 6: Geometry and trigonometry
 - Part 7: Precalculus
-- Parts 8 and 9 (Calculus I and II) arrive as they are written. Your book downloads them by itself.
+- Part 8: Calculus I (limits, derivatives, integrals)
+- Part 9: Calculus II (integration techniques, applications, series)
+
+New lessons and fixes download into your book by themselves.

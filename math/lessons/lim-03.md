@@ -11,17 +11,6 @@ title: One-sided limits and limits at infinity
 $\lim_{x \to \infty} \frac{3x^2 + 1}{x^2 - 5} = 3$: equal degrees, so divide the leading coefficients.
 :::
 
-::: graph
-x -2..4
-y -1..4
-segment -2,1 1,1 blue
-segment 1,3 4,3 blue
-point 1,1 blue
-point 1,3 blue open
-:::
-
-The graph above has a jump at $x = 1$.
-
 ::: problem id=p1 type=numeric answer="0"
 $\lim_{x \to \infty} \frac{1}{x} = ?$
 solution: Huge x makes $\frac{1}{x}$ tiny: **0**.
@@ -36,6 +25,17 @@ solution: Equal degrees: $\frac{2}{1} = 2$.
 $\lim_{x \to \infty} \frac{5x}{x^2 + 1} = ?$
 solution: The bottom's degree is bigger: **0**.
 :::
+
+::: graph
+x -2..4
+y -1..4
+segment -2,1 1,1 blue
+segment 1,3 4,3 blue
+point 1,1 blue
+point 1,3 blue open
+:::
+
+The graph above has a jump at $x = 1$.
 
 ::: problem id=p4 type=numeric answer="1"
 In the jump graph above, what is $\lim_{x \to 1^-} f(x)$?
