@@ -37,6 +37,15 @@
             "lessons/div-03.md"
           ],
           "test": "tests/div-test.md"
+        },
+        {
+          "id": "ord",
+          "title": "Exponents and order of operations",
+          "lessons": [
+            "lessons/ord-01.md",
+            "lessons/ord-02.md"
+          ],
+          "test": "tests/ord-test.md"
         }
       ]
     },
