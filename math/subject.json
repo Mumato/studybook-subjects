@@ -27,6 +27,16 @@
             "lessons/mul-03.md"
           ],
           "test": "tests/mul-test.md"
+        },
+        {
+          "id": "div",
+          "title": "Division",
+          "lessons": [
+            "lessons/div-01.md",
+            "lessons/div-02.md",
+            "lessons/div-03.md"
+          ],
+          "test": "tests/div-test.md"
         }
       ]
     },
