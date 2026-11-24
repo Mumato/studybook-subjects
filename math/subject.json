@@ -1,11 +1,11 @@
 {
   "name": "Math",
-  "version": 2,
-  "description": "A small sample course. The full course downloads automatically.",
+  "version": 3,
+  "description": "From multiplication and division to calculus, one step at a time.",
   "intro": "intro.md",
   "parts": [
-    {"id": "arith", "title": "Arithmetic", "chapters": [
-      {"id": "mult", "title": "Multiplication", "lessons": ["lessons/l1.md", "lessons/l2.md"], "test": "tests/mult.md"}
-    ]}
+    {"id": "arith", "title": "Part 1: Arithmetic", "chapters": []},
+    {"id": "fdp", "title": "Part 2: Fractions, decimals, percents", "chapters": []},
+    {"id": "prealg", "title": "Part 3: Pre-algebra", "chapters": []}
   ]
 }
