@@ -15,8 +15,28 @@ title: Perimeter and area
 A rectangle 8 cm by 5 cm. Perimeter: $8 + 5 + 8 + 5 = 26$ cm. Area: $8 \times 5 = 40$ cm².
 :::
 
+::: graph
+x -1..9
+y -1..6
+axes off
+grid off
+polygon 0,0 8,0 8,5 0,5 fill
+label 4,-0.6 8 cm
+label 8.7,2.5 5
+:::
+
 ::: example
 A triangle with base 10 m and height 6 m: $A = \frac{1}{2} \times 10 \times 6 = 30$ m².
+:::
+
+::: graph
+x -1..11
+y -1..7
+axes off
+grid off
+polygon 0,0 10,0 3,6 fill
+segment 3,0 3,6 6 blue
+label 5,-0.6 base 10
 :::
 
 ::: problem id=p1 type=numeric answer="22"

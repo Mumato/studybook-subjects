@@ -14,6 +14,17 @@ To find a leg instead: $a^2 = c^2 - b^2$.
 Legs 3 and 4: $c^2 = 9 + 16 = 25$, so $c = 5$.
 :::
 
+::: graph
+x -1..5
+y -1..4
+axes off
+grid off
+polygon 0,0 4,0 4,3 fill
+segment 0,0 4,0 4
+segment 4,0 4,3 3
+segment 0,0 4,3 c = 5 red
+:::
+
 ::: example
 Hypotenuse 13 and one leg 5: $a^2 = 169 - 25 = 144$, so $a = 12$.
 :::

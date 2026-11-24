@@ -16,6 +16,12 @@ The **absolute value** $|a|$ is the distance from 0, so it is never negative: $|
 Which is bigger, $-5$ or $-2$? $-2$ is further right on the number line, so $-2 > -5$.
 :::
 
+::: graph
+numberline -6..6
+point -5 A
+point -2 B blue
+:::
+
 ::: example
 $|-7| = 7$ and $|7| = 7$: both are 7 steps from 0.
 :::
@@ -58,10 +64,12 @@ Which is the smallest?
 solution: $-6$ is furthest left on the number line.
 :::
 
-::: problem id=p7 type=numeric answer="5"
-How many integers are strictly between $-3$ and $3$?
-hint: List them.
-solution: $-2, -1, 0, 1, 2$: **5** integers.
+::: problem id=p7 type=point answer="-4"
+Mark $-4$ on the number line.
+graph:
+numberline -6..6
+hint: Negative numbers are left of 0.
+solution: Count 4 steps left from 0.
 :::
 
 ::: problem id=p8 type=numeric answer="6"

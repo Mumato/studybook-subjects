@@ -43,9 +43,14 @@ Which is bigger?
 solution: 0.7 = 0.70, and 70 hundredths is more than 68.
 :::
 
-::: problem id=p5 type=numeric answer="8"
-Round 7.5 to the nearest whole number.
-solution: The tenths digit is 5, so round up: **8**.
+::: problem id=p5 type=point answer="2.7" step=0.1
+Mark 2.7 on the number line.
+graph:
+numberline 2..3
+ticks 0.1
+labels 0.5
+hint: Each small step is one tenth.
+solution: 2.7 is 7 tenths past 2: the seventh tick after 2.
 :::
 
 ::: problem id=p6 type=numeric answer="3.405"

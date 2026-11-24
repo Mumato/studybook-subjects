@@ -11,6 +11,18 @@ For a circle with **radius** r (centre to edge):
 $\pi \approx 3.14159$. You can leave answers "in terms of π", like $6\pi$, or round them.
 :::
 
+::: graph
+x -4..4
+y -4..4
+axes off
+grid off
+circle 0,0 3
+point 0,0
+segment 0,0 3,0 r blue
+segment 0,-3 0,3 red
+label 0.45,1.6 d
+:::
+
 ::: example
 Radius 3 cm. $C = 2\pi \times 3 = 6\pi \approx 18.85$ cm. $A = \pi \times 3^2 = 9\pi \approx 28.27$ cm².
 :::

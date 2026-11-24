@@ -1,6 +1,6 @@
 {
   "name": "Math",
-  "version": 4,
+  "version": 5,
   "description": "From multiplication and division to calculus, one step at a time.",
   "intro": "intro.md",
   "parts": [

@@ -33,9 +33,13 @@ hint: Different signs: subtract, then take the sign of the bigger one.
 solution: $10 - 4 = 6$, and 10 is negative: **−6**.
 :::
 
-::: problem id=p4 type=numeric answer="0"
-$-6 + 6 = ?$
-solution: A number plus its opposite is **0**.
+::: problem id=p4 type=point answer="2"
+Start at $-3$ and move 5 to the right. Click where you land.
+graph:
+numberline -6..6
+point -3 start
+hint: Adding a positive number moves right.
+solution: $-3 + 5 = 2$.
 :::
 
 ::: problem id=p5 type=numeric answer="5"
