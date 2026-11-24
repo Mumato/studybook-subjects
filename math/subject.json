@@ -411,6 +411,17 @@
             "lessons/app-04.md"
           ],
           "test": "tests/app-test.md"
+        },
+        {
+          "id": "int1",
+          "title": "Integrals",
+          "lessons": [
+            "lessons/int1-01.md",
+            "lessons/int1-02.md",
+            "lessons/int1-03.md",
+            "lessons/int1-04.md"
+          ],
+          "test": "tests/int1-test.md"
         }
       ]
     }
