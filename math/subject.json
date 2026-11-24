@@ -271,6 +271,17 @@
             "lessons/ratx-04.md"
           ],
           "test": "tests/ratx-test.md"
+        },
+        {
+          "id": "rad",
+          "title": "Radicals",
+          "lessons": [
+            "lessons/rad-01.md",
+            "lessons/rad-02.md",
+            "lessons/rad-03.md",
+            "lessons/rad-04.md"
+          ],
+          "test": "tests/rad-test.md"
         }
       ]
     }
