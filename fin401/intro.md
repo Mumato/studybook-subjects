@@ -23,6 +23,7 @@ Each chapter ends with a **test**, mostly multiple choice like the course exams.
 ### The course
 
 - Part 1: Review of FIN 300 (time value of money, bonds, stocks)
-- More parts are on their way: capital budgeting, cost of capital, capital structure, payout policy, raising capital, options, risk management, mergers and acquisitions, and corporate governance, plus midterm and final practice exams.
+- Part 2: Capital budgeting (NPV, IRR, free cash flow, CCA)
+- More parts are on their way: cost of capital, capital structure, payout policy, raising capital, options, risk management, mergers and acquisitions, and corporate governance, plus midterm and final practice exams.
 
 This book is a study aid, written for StudyBook. It isn't your course's official material, and it must not be used to answer graded work like MyLabs.

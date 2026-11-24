@@ -1,12 +1,12 @@
 {
   "name": "FIN 401",
-  "version": 1,
+  "version": 2,
   "description": "Managerial Finance II: how companies decide what to invest in, how to pay for it, and what it's worth.",
   "intro": "intro.md",
   "parts": [
     {
       "id": "review",
-      "title": "Part 1: Review of FIN 300",
+      "title": "Part 1: FIN 300 review",
       "chapters": [
         {
           "id": "tvm",
@@ -37,6 +37,32 @@
             "lessons/stk-03.md"
           ],
           "test": "tests/stk-test.md"
+        }
+      ]
+    },
+    {
+      "id": "capbud",
+      "title": "Part 2: Capital budgeting",
+      "chapters": [
+        {
+          "id": "idr",
+          "title": "Investment decision rules",
+          "lessons": [
+            "lessons/idr-01.md",
+            "lessons/idr-02.md",
+            "lessons/idr-03.md"
+          ],
+          "test": "tests/idr-test.md"
+        },
+        {
+          "id": "cap",
+          "title": "Capital budgeting",
+          "lessons": [
+            "lessons/cap-01.md",
+            "lessons/cap-02.md",
+            "lessons/cap-03.md"
+          ],
+          "test": "tests/cap-test.md"
         }
       ]
     }
