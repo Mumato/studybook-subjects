@@ -335,10 +335,10 @@
     },
     {
       "id": "math136",
-      "version": 1,
+      "version": 2,
       "files": {
         "CREDITS.md": "09b63acaa371250635e2f0038a842207a3580c675dca524738005b9cb6fc6737",
-        "book_gui/math136_gui.png": "42a9477022e8de5424e1493f0be8253cf5f9243ac0d3e67d911965720bcedce9",
+        "book_gui/math136_gui.png": "e30a28cd97355e43df1e97fc0cc276888164430a75b24da30c5d9b44266bc2fd",
         "intro.md": "cffb4fd640620eb9840a6b8210f14c494d0c25bfa93420dab6c478283a217525",
         "lessons/app-01.md": "bf6b79d550b118fbba4fa938297f41e3647053df9d0aeee2ec22ae4cf02a0658",
         "lessons/app-02.md": "2f169a153443afd2c13cec717325adfb9ae22cd2de4a6d2f1ce51f631ffdcf27",
@@ -372,7 +372,7 @@
         "lessons/vec-02.md": "890c4e362ad3a1e5f250cc53e7aa252e7fdaf5d58b90e7ea0e2685b38b6eef89",
         "lessons/vec-03.md": "a02ec726ff72a89a374b85e863d151f4b9edc893522e403b34516bc0b0613d4b",
         "lessons/vec-04.md": "8d109fc25e2c2b6ecf43163cbd6666787a47a4cca6981652c30fc8fd77f7cfdc",
-        "subject.json": "8408d57c1f17b920f8aa5510821a8c00dd91af3a4eae8d02e0b6e5c63e694688",
+        "subject.json": "9ecc755a9f2ee137c185df290f8dd93f2559932ce602c0010d8b5175701b63d8",
         "teachers.txt": "4e67d3b3f97f263dd4c73db1e1adeb8ffa882a23da85c2683410068ee3fcb0dd",
         "tests/app-test.md": "a6473fc00aa00905e12cdc9e072174d6549ee80523fd9d96adb6b5e6faab9596",
         "tests/det-test.md": "4d2a809f9431ef0452781140f12756c74feea60afaaf02e1eccc9dddc1d3c995",
