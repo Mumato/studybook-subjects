@@ -158,6 +158,16 @@
             "lessons/eq-04.md"
           ],
           "test": "tests/eq-test.md"
+        },
+        {
+          "id": "wp",
+          "title": "Word problems and inequalities",
+          "lessons": [
+            "lessons/wp-01.md",
+            "lessons/wp-02.md",
+            "lessons/wp-03.md"
+          ],
+          "test": "tests/wp-test.md"
         }
       ]
     }
