@@ -168,6 +168,17 @@
             "lessons/wp-03.md"
           ],
           "test": "tests/wp-test.md"
+        },
+        {
+          "id": "geo",
+          "title": "Geometry basics",
+          "lessons": [
+            "lessons/geo-01.md",
+            "lessons/geo-02.md",
+            "lessons/geo-03.md",
+            "lessons/geo-04.md"
+          ],
+          "test": "tests/geo-test.md"
         }
       ]
     }
