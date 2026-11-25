@@ -1,0 +1,41 @@
+{
+  "name": "JPN101",
+  "version": 1,
+  "description": "Elementary Japanese I: hiragana, katakana, everyday conversation and your first kanji, from zero.",
+  "intro": "intro.md",
+  "parts": [
+    {
+      "id": "hir",
+      "title": "Part 1: Hiragana",
+      "chapters": [
+        {
+          "id": "hir",
+          "title": "Reading and writing hiragana",
+          "lessons": [
+            "lessons/hir-01.md",
+            "lessons/hir-02.md",
+            "lessons/hir-03.md",
+            "lessons/hir-04.md",
+            "lessons/hir-05.md"
+          ],
+          "test": "tests/hir-test.md"
+        }
+      ]
+    },
+    {
+      "id": "gre",
+      "title": "Part 2: Greetings and introductions",
+      "chapters": [
+        {
+          "id": "gre",
+          "title": "Greetings and introducing yourself",
+          "lessons": [
+            "lessons/gre-01.md",
+            "lessons/gre-02.md"
+          ],
+          "test": "tests/gre-test.md"
+        }
+      ]
+    }
+  ]
+}

@@ -136,6 +136,32 @@
       }
     },
     {
+      "id": "jpn101",
+      "version": 1,
+      "files": {
+        "CREDITS.md": "22dbd0772bc48f74562f81774046b118f9eb4d9755062798e0e38e440d924c8b",
+        "assets/hir-ak.3x.png": "b1bec2e3feb6600a342a6013e5ff64140167e4fb6a93cba375d66e9ef8d29f5a",
+        "assets/hir-dakuten.3x.png": "5a506c5ed6c5c9de68d33b833c0e145afb2cee0703e3b97044127e2bbf1d48c3",
+        "assets/hir-full.3x.png": "6f9e171850c55df95e80752091495e2c94b60b1a0c5690a7908e3329eddec485",
+        "assets/hir-lookalike.3x.png": "5943292d610630d75fc95b0ba3495b17f7c227d9f95cdab825a489f0ddd4baa0",
+        "assets/hir-mw.3x.png": "a61ec8fc408983971d1aa1c9a17a3469cae613e78a0eef737d777d6ca284b1ef",
+        "assets/hir-nh.3x.png": "f84ee25043594fbdd190481b37d5de14df3b52ea780d3097d5bf7744d06a06ba",
+        "assets/hir-st.3x.png": "fd101528b28a8865828d33d872f1292442c01b03f8601cf5c276fb4bda504e93",
+        "book_gui/jpn101_gui.png": "941c09ac53f5a038d7885d7366c219e203e103b773f402cc02efeea4b7518a25",
+        "intro.md": "b26737de8dfbb40c5642617d117a83e5958cac9f5d40af5a5c7df0cf86601b07",
+        "lessons/gre-01.md": "354221107f7ba3789d434a6adb9d01ff779b6ec18a030c4f19ae45b1baf86781",
+        "lessons/gre-02.md": "f09a27e224571ef699c911e37a3f5ca8d5329dbad300bf2baf9c9a398a9a3296",
+        "lessons/hir-01.md": "ab79e879ea7ce0fad7a102a3849a173410f2bb9a0424ef6d6717473b612a7731",
+        "lessons/hir-02.md": "2f116d54e366f57497d3507d4bf9971d6083ef86a298803ad5bb831028c82ffb",
+        "lessons/hir-03.md": "4467d898b23def7c3a140c89f290a75651e8795409d06ced073b4d23e0761459",
+        "lessons/hir-04.md": "4f123e0bfe8fcba60064993d559a8149d52cadd2761d40a3581f58739806668f",
+        "lessons/hir-05.md": "b0ba80728b976db55cd8a08c6d4eb5f09075c69d0ae33305cea8935a6253530d",
+        "subject.json": "b1c8e97dd266da55f383f24bf6488c6bfafc970fab016df4be2dff28dd9827ff",
+        "tests/gre-test.md": "1c9b1ba9408220ba5b9e224a1b5fed890a272c21edf92219cd1d1ef9869dad24",
+        "tests/hir-test.md": "cfb769cca687ec3a9af2826c5ec69a681c2743017a7c58e89cc6d3e7180b4a7a"
+      }
+    },
+    {
       "id": "math",
       "version": 13,
       "files": {
