@@ -1,6 +1,6 @@
 {
   "name": "ECON101",
-  "version": 2,
+  "version": 3,
   "description": "Principles of Microeconomics: how people, firms and markets make choices when resources are scarce.",
   "intro": "intro.md",
   "parts": [

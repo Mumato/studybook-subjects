@@ -1,6 +1,6 @@
 {
   "name": "MATH136",
-  "version": 2,
+  "version": 3,
   "description": "Linear Algebra: systems of equations, vectors, matrices, determinants, eigenvalues and orthogonality.",
   "intro": "intro.md",
   "parts": [

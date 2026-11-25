@@ -1,6 +1,6 @@
 {
   "name": "STAT101",
-  "version": 2,
+  "version": 3,
   "description": "Introductory Statistics: describing data, probability, and drawing conclusions from samples.",
   "intro": "intro.md",
   "parts": [

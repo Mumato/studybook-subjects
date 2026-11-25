@@ -2,7 +2,7 @@
   "subjects": [
     {
       "id": "econ101",
-      "version": 2,
+      "version": 3,
       "files": {
         "CREDITS.md": "a8df13dfb01e8410c8e5eb146809ec434c4aef933f6de7aef24fe05762a3510c",
         "book_gui/econ101_gui.png": "ac8374c976bb92d43c2174c403e96a2d41a9262a49c39f91b35bf360d7fb9de4",
@@ -44,8 +44,7 @@
         "lessons/sca-03.md": "a5bcf129e86305a3bf90796d82dc29052b30068e1bf16ec59b8f789d14894f9b",
         "lessons/trd-01.md": "fd53719d1a0fd3f7e597c3b9d4c091a1014c927b44549b66d7ea022bdbdf9390",
         "lessons/trd-02.md": "0989ffac4295e9339c9acb522d8f51f4b950f7f872e06af1353aa40cd5d1dba0",
-        "subject.json": "28084361d5265a132374e758bf418310b13a0cd9b2e2b638ae7a9105db5c4d2b",
-        "teachers.txt": "dee3a05c176f87319523f92c52c883a686bad972f1f0eb95f97042df7003826a",
+        "subject.json": "d944fea0d6e25a6d42b385c6d9067b81a0a2046f718ff511611341c0ceabaf9e",
         "tests/con-test.md": "5427623393ca1303112d6baf76c71e76d924f1dfdc003d3255190eac5096a567",
         "tests/cst-test.md": "702487304fff6663df4f7c64f679331be8d393597703e1cefcf3d44b2ff7b6e8",
         "tests/ctrl-test.md": "82793d157ffcc0bdbae5e139e9f8612f45ee3d5b0dace80511e732ce6098f023",
@@ -67,7 +66,7 @@
     },
     {
       "id": "fin401",
-      "version": 7,
+      "version": 8,
       "files": {
         "CREDITS.md": "2096a89750ef72691d370623d4bc1540109385e161561457dbe5c774d45e1222",
         "book_gui/fin401_gui.png": "559e170ffd800d92c49c4f50109f09219b73ba614e605061aa8af69591e067df",
@@ -113,8 +112,7 @@
         "lessons/wacc-01.md": "596ffd0701697cc29bd9e9a82497bd38295a5ec46d34294492824d590be8b6d3",
         "lessons/wacc-02.md": "48b406c02ef18728de53ff68e1f072b5aab5033eed2219b7164c48e5b5fc92c9",
         "lessons/wacc-03.md": "c5dd5c8f775b82e2bd98226b87c0b2a27edcd3ab88b6d96606f553882dff2bda",
-        "subject.json": "bf6b150821c1e3ef9c6c973812272cdc73fbdda93dee541ce0c8bea848e82fff",
-        "teachers.txt": "50c7da6fe540089e7d45edb99ce7f0925f226d6c807c143f1dd778de3906aa39",
+        "subject.json": "aa4a384e321d0b8fa1dbe203c9645638fc6527a1b102634fa2f0170399689ed0",
         "tests/bnd-test.md": "e94a731eca9f28adadfdb51711d1c8ac710263ce1287e4a6861d20ffa65ac02e",
         "tests/cap-test.md": "83581f212c27dfbecb54a579eaabf611857eedbedf9bb02b704bd7949104d006",
         "tests/cs1-test.md": "b7bc73f2d1c256be70bf32c2f3834026ce800f33cface775f982f1d93f2701cd",
@@ -139,7 +137,7 @@
     },
     {
       "id": "math",
-      "version": 12,
+      "version": 13,
       "files": {
         "CREDITS.md": "5a5c76b743f18626ae26a875e70cf3344fa6b6712e9575634dd0635eeff9c634",
         "assets/arrays.png": "5e54c4dbfff06533db60d3c424e40565263577b7f154231530d50b82d93a7e88",
@@ -292,8 +290,7 @@
         "lessons/wp-01.md": "dac1547a461406ef02bcaf1c7797ce524cc45125dc4de3402977271b0acd0f08",
         "lessons/wp-02.md": "ded9308bcd7d2417c25831cf00c6894c04ff389be6f3617a04acd8e82daf69dc",
         "lessons/wp-03.md": "31c9ea97b5c8741cc898c4f230a11afa2f59bf1fe0dfd5371edab932c6689ae8",
-        "subject.json": "6a0651f5444f45933c45992afce5cbe3698c6e3f89d09f4650847cc981f33844",
-        "teachers.txt": "a26f57d0bc46db6b6ebf5063f33ba2d5b5dbc4cf9e77335b503a948f08d66205",
+        "subject.json": "91fb4e205cc43806b3bfcf74b7ebd12955ab49dbb33a968a2f6da59162f1e411",
         "tests/ang-test.md": "3985cd77730c68f15db4a6307adb589e21c24bc9639b5408d3717955cbc6d42b",
         "tests/app-test.md": "95545ce050e13169bb24312848d5f850eb1e9c6cedc4acbe8006c6d484d56126",
         "tests/dec-test.md": "22c6c24a3ccecae924c5baae50094deb23ff7c5d15e5328f8ce9668303a5d362",
@@ -335,7 +332,7 @@
     },
     {
       "id": "math136",
-      "version": 2,
+      "version": 3,
       "files": {
         "CREDITS.md": "09b63acaa371250635e2f0038a842207a3580c675dca524738005b9cb6fc6737",
         "book_gui/math136_gui.png": "e30a28cd97355e43df1e97fc0cc276888164430a75b24da30c5d9b44266bc2fd",
@@ -372,8 +369,7 @@
         "lessons/vec-02.md": "890c4e362ad3a1e5f250cc53e7aa252e7fdaf5d58b90e7ea0e2685b38b6eef89",
         "lessons/vec-03.md": "a02ec726ff72a89a374b85e863d151f4b9edc893522e403b34516bc0b0613d4b",
         "lessons/vec-04.md": "8d109fc25e2c2b6ecf43163cbd6666787a47a4cca6981652c30fc8fd77f7cfdc",
-        "subject.json": "9ecc755a9f2ee137c185df290f8dd93f2559932ce602c0010d8b5175701b63d8",
-        "teachers.txt": "4e67d3b3f97f263dd4c73db1e1adeb8ffa882a23da85c2683410068ee3fcb0dd",
+        "subject.json": "6efc9c847cbe3f1f4d125a016e4edb72b1ba68f717da93f7b1c9338d96f7e27a",
         "tests/app-test.md": "a6473fc00aa00905e12cdc9e072174d6549ee80523fd9d96adb6b5e6faab9596",
         "tests/det-test.md": "4d2a809f9431ef0452781140f12756c74feea60afaaf02e1eccc9dddc1d3c995",
         "tests/eig-test.md": "ef15caed2049fd913d0289f645a5ae869f6a9e63ef988cb7cb16498299d4f265",
@@ -393,7 +389,7 @@
     },
     {
       "id": "phys100",
-      "version": 1,
+      "version": 2,
       "files": {
         "CREDITS.md": "cb3c2fac3df0f665e1703dba86067ae9a00afdaf8fab751bb40e1c952b7f8089",
         "assets/atm-levels@3x.png": "a064a4eac72f6b26bc8b3c576475a5c699aa22995cce7c92cc504cf788548667",
@@ -508,8 +504,7 @@
         "lessons/wav-01.md": "6f5cd108c564a58109fdec69f522728c96c35b9c71457cbe29a4744546022667",
         "lessons/wav-02.md": "05f86ae37945e9f8b854ae20dac38f5f80a7912a2f64aea3fc14b696e9c0fedd",
         "lessons/wav-03.md": "fe7afffb6003e621cff57dc057b8fd84eced192a4a1ada978b3b2b85363aa426",
-        "subject.json": "993d4a0691523a6fe0c042da2cbb5fa59773f08b9f5f543844af9d6c49185ea5",
-        "teachers.txt": "7a038cc3613a8d5dc10ce3c2bb44f7ed01f19894e681b5840097d049ec12153c",
+        "subject.json": "44e6dc059d740ecfa6aa1869e7e4d38c73abc6e7f0cb838ca1579da2ac958007",
         "tests/atm-test.md": "185a4d72c7313b0f7377103ed501e1c12e9b00318e5bc2f1b62da52144a1697d",
         "tests/ele-test.md": "0529df8f8bd3f03c292c06cc7c795b88bb2d29914b3b810e4d2e7926c3845f3c",
         "tests/enr-test.md": "7b5d26e069707b67ac7a35c2e2fce14174088dcbd2ccaf818a5dc79305ae8b02",
@@ -533,7 +528,7 @@
     },
     {
       "id": "stat101",
-      "version": 2,
+      "version": 3,
       "files": {
         "CREDITS.md": "1769cc3a1cb8d30c567055796fc70da3af9e158a9ac771e995a820708e63fbcf",
         "book_gui/stat101_gui.png": "8be15791459e196cca1e7f5f6fe168e656e91b5c3afeea83b27d42b0b9a42891",
@@ -575,8 +570,7 @@
         "lessons/two-01.md": "0456f86af3601c8003e779db77a09e7310bda32933519a8b7401c3caa233bf8f",
         "lessons/two-02.md": "5cffc2ec3622d461d89abec1697ed2f1359998961726077afcf978a9a62369aa",
         "lessons/two-03.md": "150b4c3b3ee9e3af6fea5864ea53530c6f6990a34f0de832c1ce8e4e094cfcf7",
-        "subject.json": "518df321dabc99e7e8fe37b7bb1f76a6948e5a0654972ba95b04b930c18c9ec6",
-        "teachers.txt": "8a9c54e143e26ba3056a000853ea3754a6e76144125746bb8767c95f3bed6fcd",
+        "subject.json": "4586d008516ea38f32c6ecb5b444fbf64504ef15b2beceb6f99cf44031ea2b3f",
         "tests/anv-test.md": "0b0ee4df2cd656e064184380b1323ceb5af3539061c97c822ee9e51131592949",
         "tests/chi-test.md": "74bbafe4699a62d5cb5131c9e229550d684896c3112ffa5f859aba1e2e11d0f0",
         "tests/ci-test.md": "a2887a89dc29f67fcf559b2b071285003fe6bf0860b8e366ea65fd704e481cdc",
