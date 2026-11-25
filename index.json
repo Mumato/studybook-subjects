@@ -137,7 +137,7 @@
     },
     {
       "id": "jpn101",
-      "version": 2,
+      "version": 3,
       "files": {
         "CREDITS.md": "527a4cfb722a4e0a002f4b4ec242988801d21db8661bc9e6edd0c8152f9d7285",
         "assets/audio/0d39bc49e8fd2f8a.ogg": "641c4eb4756fc17ac4afaeab3cbb6eac7868ce6ec7eac47ee144a98ab044669e",
@@ -185,15 +185,16 @@
         "assets/hir-nh.3x.png": "f84ee25043594fbdd190481b37d5de14df3b52ea780d3097d5bf7744d06a06ba",
         "assets/hir-st.3x.png": "fd101528b28a8865828d33d872f1292442c01b03f8601cf5c276fb4bda504e93",
         "book_gui/jpn101_gui.png": "941c09ac53f5a038d7885d7366c219e203e103b773f402cc02efeea4b7518a25",
-        "intro.md": "948a74098a7768397e408579b549e6b0fee4835fb529575f2fdc606416ec1c17",
+        "intro.md": "c008df938eeee8daa9a20187d0aefb7f9160295d745a7265591eb59abc9285f9",
         "lessons/gre-01.md": "c22b97a4e91cdff0332685a460bd771527b24e747d6c50a4cace4f65d909ee53",
         "lessons/gre-02.md": "0d6f38fae468d83c8b8043659f3f7e2f936b031a29f4f2069113d0c1b1c0d720",
+        "lessons/gre-03.md": "d3d2653138292175bdde437754124c672852ae7549b460e3eeb56ae8938646e2",
         "lessons/hir-01.md": "65a954c1cc4953181411218aebc5130a7ccbb24f0de32813d744fd49eebc95da",
         "lessons/hir-02.md": "1d1bf39fb95fdbc5dbdca69343519f15ba1e1822ce12dedf417dc33cc7a131e6",
         "lessons/hir-03.md": "1bda3edc89a6d5ab96832c19e4ef70f24c9685f4bf038078506c91c24710bfa7",
         "lessons/hir-04.md": "b64a43d3294551e4d1374f97d7794bf347ab7775cd3b4193251d5f0405b4d1f7",
         "lessons/hir-05.md": "123f3679e390e045c9bd637b079a03768777263eeb01fdcd62718e37c4fe148e",
-        "subject.json": "80bf88fac1eaedffc31318d679f9f4f3ac47058228dfe57e691b38b9f65e957d",
+        "subject.json": "7e86b364a9d7dd98431605677602ef3aaa661dc1216a6cd8c2c3742b2a30064a",
         "tests/gre-test.md": "6a4d962a8be03a32bf00ab5b32fb090d76903bd1cf91533f6ce20309ce46abc2",
         "tests/hir-test.md": "58c5e74a4a682c30369773a019264a6ecc02f04427d467bb1ea61b09dc3e57b8"
       }

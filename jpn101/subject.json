@@ -1,6 +1,6 @@
 {
   "name": "JPN101",
-  "version": 2,
+  "version": 3,
   "description": "Elementary Japanese I: hiragana, katakana, everyday conversation and your first kanji, from zero.",
   "intro": "intro.md",
   "parts": [
@@ -31,7 +31,8 @@
           "title": "Greetings and introducing yourself",
           "lessons": [
             "lessons/gre-01.md",
-            "lessons/gre-02.md"
+            "lessons/gre-02.md",
+            "lessons/gre-03.md"
           ],
           "test": "tests/gre-test.md"
         }

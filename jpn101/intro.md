@@ -23,8 +23,8 @@ Every lesson gives you **a rule**, **a worked example** and then **practice prob
 ### The course
 
 - Part 1: Hiragana
-- Part 2: Greetings and introductions
-- More parts are on the way: katakana, numbers and time, shopping, verbs, particles, adjectives and kanji, plus **speaking** and **handwriting** practice.
+- Part 2: Greetings and introductions, with speaking practice (record yourself and compare with the model)
+- More parts are on the way: katakana, numbers and time, shopping, verbs, particles, adjectives and kanji, plus **handwriting** practice.
 
 Voices: VOICEVOX:No.7 and VOICEVOX:玄野武宏.
 
