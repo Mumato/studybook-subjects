@@ -1,0 +1,235 @@
+{
+  "name": "PSYC101",
+  "version": 1,
+  "description": "Introduction to Psychology: how the mind and brain shape what we sense, learn, remember, feel and do.",
+  "intro": "intro.md",
+  "parts": [
+    {
+      "id": "sci",
+      "title": "Part 1: Psychology as a science",
+      "chapters": [
+        {
+          "id": "sci",
+          "title": "History and research methods",
+          "lessons": [
+            "lessons/sci-01.md",
+            "lessons/sci-02.md",
+            "lessons/sci-03.md"
+          ],
+          "test": "tests/sci-test.md"
+        }
+      ]
+    },
+    {
+      "id": "bio",
+      "title": "Part 2: Biopsychology",
+      "chapters": [
+        {
+          "id": "bio",
+          "title": "Neurons, the nervous system and the brain",
+          "lessons": [
+            "lessons/bio-01.md",
+            "lessons/bio-02.md",
+            "lessons/bio-03.md"
+          ],
+          "test": "tests/bio-test.md"
+        }
+      ]
+    },
+    {
+      "id": "sen",
+      "title": "Part 3: Sensation and perception",
+      "chapters": [
+        {
+          "id": "sen",
+          "title": "Sensation and perception",
+          "lessons": [
+            "lessons/sen-01.md",
+            "lessons/sen-02.md",
+            "lessons/sen-03.md"
+          ],
+          "test": "tests/sen-test.md"
+        }
+      ]
+    },
+    {
+      "id": "con",
+      "title": "Part 4: Consciousness",
+      "chapters": [
+        {
+          "id": "con",
+          "title": "Sleep, dreams and drugs",
+          "lessons": [
+            "lessons/con-01.md",
+            "lessons/con-02.md"
+          ],
+          "test": "tests/con-test.md"
+        }
+      ]
+    },
+    {
+      "id": "lrn",
+      "title": "Part 5: Learning",
+      "chapters": [
+        {
+          "id": "lrn",
+          "title": "Conditioning and observational learning",
+          "lessons": [
+            "lessons/lrn-01.md",
+            "lessons/lrn-02.md",
+            "lessons/lrn-03.md"
+          ],
+          "test": "tests/lrn-test.md"
+        }
+      ]
+    },
+    {
+      "id": "mid",
+      "title": "Midterm practice",
+      "chapters": [
+        {
+          "id": "mida",
+          "title": "Practice exam A",
+          "lessons": [],
+          "test": "tests/mida-test.md"
+        },
+        {
+          "id": "midb",
+          "title": "Practice exam B",
+          "lessons": [],
+          "test": "tests/midb-test.md"
+        }
+      ]
+    },
+    {
+      "id": "mem",
+      "title": "Part 6: Memory",
+      "chapters": [
+        {
+          "id": "mem",
+          "title": "Memory",
+          "lessons": [
+            "lessons/mem-01.md",
+            "lessons/mem-02.md",
+            "lessons/mem-03.md"
+          ],
+          "test": "tests/mem-test.md"
+        }
+      ]
+    },
+    {
+      "id": "thk",
+      "title": "Part 7: Thinking and intelligence",
+      "chapters": [
+        {
+          "id": "thk",
+          "title": "Thinking, language and intelligence",
+          "lessons": [
+            "lessons/thk-01.md",
+            "lessons/thk-02.md",
+            "lessons/thk-03.md"
+          ],
+          "test": "tests/thk-test.md"
+        }
+      ]
+    },
+    {
+      "id": "dev",
+      "title": "Part 8: Development",
+      "chapters": [
+        {
+          "id": "dev",
+          "title": "Lifespan development",
+          "lessons": [
+            "lessons/dev-01.md",
+            "lessons/dev-02.md",
+            "lessons/dev-03.md"
+          ],
+          "test": "tests/dev-test.md"
+        }
+      ]
+    },
+    {
+      "id": "emo",
+      "title": "Part 9: Motivation and emotion",
+      "chapters": [
+        {
+          "id": "emo",
+          "title": "Motivation, emotion and stress",
+          "lessons": [
+            "lessons/emo-01.md",
+            "lessons/emo-02.md",
+            "lessons/emo-03.md"
+          ],
+          "test": "tests/emo-test.md"
+        }
+      ]
+    },
+    {
+      "id": "per",
+      "title": "Part 10: Personality",
+      "chapters": [
+        {
+          "id": "per",
+          "title": "Personality",
+          "lessons": [
+            "lessons/per-01.md",
+            "lessons/per-02.md",
+            "lessons/per-03.md"
+          ],
+          "test": "tests/per-test.md"
+        }
+      ]
+    },
+    {
+      "id": "soc",
+      "title": "Part 11: Social psychology",
+      "chapters": [
+        {
+          "id": "soc",
+          "title": "Social psychology",
+          "lessons": [
+            "lessons/soc-01.md",
+            "lessons/soc-02.md",
+            "lessons/soc-03.md"
+          ],
+          "test": "tests/soc-test.md"
+        }
+      ]
+    },
+    {
+      "id": "dis",
+      "title": "Part 12: Psychological disorders and therapy",
+      "chapters": [
+        {
+          "id": "dis",
+          "title": "Disorders and treatment",
+          "lessons": [
+            "lessons/dis-01.md",
+            "lessons/dis-02.md",
+            "lessons/dis-03.md"
+          ],
+          "test": "tests/dis-test.md"
+        }
+      ]
+    },
+    {
+      "id": "fin",
+      "title": "Final practice",
+      "chapters": [
+        {
+          "id": "fina",
+          "title": "Practice exam A",
+          "lessons": [],
+          "test": "tests/fina-test.md"
+        },
+        {
+          "id": "finb",
+          "title": "Practice exam B",
+          "lessons": [],
+          "test": "tests/finb-test.md"
+        }
+      ]
+    }
+  ]
+}
