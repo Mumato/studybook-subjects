@@ -5,10 +5,10 @@ title: Hiragana: voiced sounds, combinations and long sounds
 With a few small marks and small characters, the 46 basic hiragana spell every sound in Japanese.
 
 ::: rule
-- **Dakuten** ゛ (two dots) makes a sound **voiced**: か→が **ga**, さ→ざ **za**, た→だ **da**, は→ば **ba**. **Handakuten** ゜ (a small circle) turns は→ぱ **pa**.
-- A small ゃ, ゅ or ょ after an **i**-column character makes one syllable: き+ゃ = きゃ **kya**, し+ゅ = しゅ **shu**, ち+ょ = ちょ **cho**.
-- A small っ doubles the next consonant with a tiny pause: きって **kitte** (stamp).
-- **Long vowels** hold the sound twice as long, and change the meaning: おばさん **obasan** (aunt) vs おばあさん **obaasan** (grandmother). Long o is usually written おう: がっこう **gakkou** (school).
+- **Dakuten** ゛ (two dots) makes a sound **voiced**: か→!say[が] **ga**, さ→!say[ざ] **za**, た→!say[だ] **da**, は→!say[ば] **ba**. **Handakuten** ゜ (a small circle) turns は→!say[ぱ] **pa**.
+- A small ゃ, ゅ or ょ after an **i**-column character makes one syllable: き+ゃ = !say[きゃ] **kya**, し+ゅ = !say[しゅ] **shu**, ち+ょ = !say[ちょ] **cho**.
+- A small っ doubles the next consonant with a tiny pause: !say[きって] **kitte** (stamp).
+- **Long vowels** hold the sound twice as long, and change the meaning: !say[おばさん] **obasan** (aunt) vs !say[おばあさん] **obaasan** (grandmother). Long o is usually written おう: !say[がっこう] **gakkou** (school).
 :::
 
 ![](assets/hir-dakuten.3x.png)
@@ -24,26 +24,31 @@ With a few small marks and small characters, the 46 basic hiragana spell every s
 ::: problem id=p1 type=text answers="ga"
 Type the reading: が
 solution: か (ka) + dakuten = が **ga**.
+Hear it: !say[が]
 :::
 
 ::: problem id=p2 type=text answers="pa"
 Type the reading: ぱ
 solution: は (ha) + handakuten = ぱ **pa**.
+Hear it: !say[ぱ]
 :::
 
 ::: problem id=p3 type=text answers="buta"
 Read this word: ぶた
 solution: ぶ (bu) + た (ta) = **buta**, "pig".
+Hear it: !say[ぶた]
 :::
 
 ::: problem id=p4 type=text answers="kyou;kyoo"
 Read this word: きょう
 solution: きょ (kyo) + う (long o) = **kyou**, "today".
+Hear it: !say[きょう]
 :::
 
 ::: problem id=p5 type=text answers="gakkou;gakkoo"
 Read this word: がっこう
 solution: が (ga) + っ (doubles the k) + こう (kou) = **gakkou**, "school".
+Hear it: !say[がっこう]
 :::
 
 ::: problem id=p6 type=choice

@@ -8,12 +8,14 @@ What do you say at 7 p.m. when you meet a friend's parents?
 - [x] こんばんは
 - [ ] おやすみなさい
 solution: こんばんは is "good evening".
+Hear it: !say[こんばんは]
 :::
 
 ::: problem id=t2 type=text answers="こんにちは"
 Type "hello" (the daytime greeting).
 hint: konnichiwa
 solution: こんにちは, read *konnichiwa*.
+Hear it: !say[こんにちは]
 :::
 
 ::: problem id=t3 type=choice
@@ -22,18 +24,21 @@ Which do you say after finishing a meal?
 - [ ] いただきます
 - [ ] はじめまして
 solution: ごちそうさまでした thanks the people who prepared the meal.
+Hear it: !say[ごちそうさまでした]
 :::
 
 ::: problem id=t4 type=text answers="はじめまして"
 Type the phrase you say when meeting someone for the very first time.
 hint: hajimemashite
 solution: はじめまして (hajimemashite), "nice to meet you".
+Hear it: !say[はじめまして]
 :::
 
 ::: problem id=t5 type=text answers="わたしはせんせいです;せんせいです"
 Type "I am a teacher."
 hint: watashi wa sensei desu
 solution: わたしは せんせいです。
+Hear it: !say[わたしはせんせいです]
 :::
 
 ::: problem id=t6 type=choice

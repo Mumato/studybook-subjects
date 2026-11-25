@@ -17,10 +17,10 @@ Greetings are the first thing you'll use, and Japanese has a set phrase for almo
 
 ::: example
 Morning at school:
-- Student: せんせい、おはようございます。 *Good morning, teacher.*
-- Teacher: おはようございます。
+- Student: !say[せんせい、おはようございます。] *Good morning, teacher.*
+- Teacher: !say[m|おはようございます。]
 
-Bumping into someone: すみません！ The same word gets a waiter's attention in a restaurant.
+Bumping into someone: !say[すみません！] The same word gets a waiter's attention in a restaurant.
 :::
 
 ::: problem id=p1 type=choice
@@ -29,18 +29,21 @@ You meet your teacher at 8 a.m. What do you say?
 - [ ] こんばんは
 - [ ] おやすみなさい
 solution: おはようございます is the polite "good morning".
+Hear it: !say[おはようございます]
 :::
 
 ::: problem id=p2 type=text answers="ありがとうございます"
 Type "thank you" (polite) in Japanese. (Type romaji; it turns into hiragana.)
 hint: arigatou gozaimasu
 solution: ありがとうございます (arigatou gozaimasu).
+Hear it: !say[ありがとうございます]
 :::
 
 ::: problem id=p3 type=text answers="こんばんは"
 Type "good evening" in Japanese.
 hint: konbanwa
 solution: こんばんは. The last character is は, but it's read **wa**, so typing *konbanwa* is fine.
+Hear it: !say[こんばんは]
 :::
 
 ::: problem id=p4 type=choice
@@ -49,6 +52,7 @@ Why is the は at the end of こんにちは read "wa"?
 - [x] こんにちは began as a phrase with the particle は ("today is..."), and the particle は is read "wa".
 - [ ] は is always read "wa".
 solution: Only the particle は is read "wa"; in words like はな (hana) it's still "ha".
+Hear it: !say[こんにちは]
 :::
 
 ::: problem id=p5 type=choice
@@ -57,6 +61,7 @@ What do you say just before you start eating?
 - [x] いただきます
 - [ ] すみません
 solution: いただきます before the meal; ごちそうさまでした after it.
+Hear it: !say[いただきます]
 :::
 
 ::: problem id=p6 type=choice
@@ -65,6 +70,7 @@ You step on someone's foot on a crowded train. What do you say?
 - [x] すみません
 - [ ] ありがとうございます
 solution: すみません is "excuse me" and "sorry".
+Hear it: !say[すみません]
 :::
 
 ::: problem id=p8 type=choice
@@ -80,4 +86,5 @@ solution: You heard こんばんは (konbanwa), "good evening".
 Type "good night" (said before going to bed).
 hint: oyasuminasai
 solution: おやすみなさい (oyasumi nasai).
+Hear it: !say[おやすみなさい]
 :::

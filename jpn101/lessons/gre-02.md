@@ -6,9 +6,9 @@ Your first real sentences! With one pattern and three small words you can say wh
 
 ::: rule
 - **X は Y です** means "X is Y". は (the topic particle, read **wa**) marks what you're talking about; です (desu) ends a polite sentence.
-- To say "is not", replace です with **じゃないです** (or the more formal じゃありません).
-- Add **か** at the end to make a question: がくせいですか。 "Are you a student?" Answer はい (yes) or いいえ (no).
-- **の** links two nouns like "'s" or "of": わたしの なまえ "my name", だいがくの がくせい "a university student".
+- To say "is not", replace です with **じゃないです** (!say[せんせいじゃないです], "I'm not a teacher") (or the more formal じゃありません).
+- Add **か** at the end to make a question: !say[がくせいですか。] "Are you a student?" Answer !say[はい] (yes) or !say[いいえ] (no).
+- **の** links two nouns like "'s" or "of": !say[わたしの なまえ] "my name", !say[だいがくの がくせい] "a university student".
 - Nationality: country + じん: にほんじん (Japanese person). People are addressed by name + さん; Japanese rarely say あなた ("you").
 :::
 
@@ -28,12 +28,14 @@ Meeting someone for the first time:
 Type "I am a student." in Japanese. (がくせい = student)
 hint: watashi wa gakusei desu
 solution: わたしは がくせいです。 The particle は is typed *wa* or *ha*; both work.
+Hear it: !say[わたしはがくせいです]
 :::
 
 ::: problem id=p2 type=text answers="がくせいですか;あなたはがくせいですか"
 Type the question "Are you a student?" (you can leave out "you").
 hint: Add ka to the end of a sentence.
 solution: がくせいですか。 Leaving out "you" is natural in Japanese.
+Hear it: !say[がくせいですか]
 :::
 
 ::: problem id=p3 type=choice
@@ -42,6 +44,7 @@ How do you say "I am not a teacher"?
 - [x] せんせいじゃないです
 - [ ] せんせいですか
 solution: Replace です with じゃないです.
+Hear it: !say[せんせいじゃないです]
 :::
 
 ::: problem id=p4 type=choice
@@ -56,6 +59,7 @@ solution: の links the nouns: わたし (I) + の + なまえ (name) = "my name
 Type "a Japanese person".
 hint: Japan is にほん; add じん.
 solution: にほんじん (nihonjin).
+Hear it: !say[にほんじん]
 :::
 
 ::: problem id=p6 type=choice
@@ -64,6 +68,7 @@ Someone asks がくせいですか。 You are a student. How do you answer?
 - [ ] いいえ、がくせいです。
 - [ ] はい、がくせいじゃないです。
 solution: はい (yes) and then repeat the statement.
+Hear it: !say[はい、がくせいです。]
 :::
 
 ::: problem id=p7 type=choice

@@ -5,8 +5,8 @@ title: Hiragana: the S and T rows
 Two more rows, and two surprises: a couple of characters don't follow the pattern you'd expect.
 
 ::: rule
-- The S row: さ **sa**, し **shi**, す **su**, せ **se**, そ **so**.
-- The T row: た **ta**, ち **chi**, つ **tsu**, て **te**, と **to**.
+- The S row: !say[さ] **sa**, !say[し] **shi**, !say[す] **su**, !say[せ] **se**, !say[そ] **so**.
+- The T row: !say[た] **ta**, !say[ち] **chi**, !say[つ] **tsu**, !say[て] **te**, !say[と] **to**.
 - Watch the exceptions: し is **shi** (not "si"), ち is **chi** (not "ti"), つ is **tsu** (not "tu").
 - When typing, both spellings work: `shi` or `si`, `chi` or `ti`, `tsu` or `tu`.
 :::
@@ -23,26 +23,31 @@ Two more rows, and two surprises: a couple of characters don't follow the patter
 ::: problem id=p1 type=text answers="shi;si"
 Type the reading: し
 solution: し is **shi**.
+Hear it: !say[し]
 :::
 
 ::: problem id=p2 type=text answers="chi;ti"
 Type the reading: ち
 solution: ち is **chi**.
+Hear it: !say[ち]
 :::
 
 ::: problem id=p3 type=text answers="tsu;tu"
 Type the reading: つ
 solution: つ is **tsu**: say "ts" as in *cats*, then "u".
+Hear it: !say[つ]
 :::
 
 ::: problem id=p4 type=text answers="sushi;susi"
 Read this word: すし
 solution: す (su) + し (shi) = **sushi**.
+Hear it: !say[すし]
 :::
 
 ::: problem id=p5 type=text answers="tokei"
 Read this word: とけい
 solution: と (to) + け (ke) + い (i) = **tokei**, "clock".
+Hear it: !say[とけい]
 :::
 
 ::: problem id=p6 type=choice
@@ -51,6 +56,7 @@ These two look alike. Which one is **sa**?
 - [x] さ
 - [ ] ち
 solution: さ is **sa**; ち (**chi**) is its mirror image, curving the other way.
+Hear it: !say[さ]
 :::
 
 ::: problem id=p7 type=choice
