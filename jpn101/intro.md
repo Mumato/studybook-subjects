@@ -22,9 +22,15 @@ Every lesson gives you **a rule**, **a worked example** and then **practice prob
 
 ### The course
 
-- Part 1: Hiragana
+- Part 1: Hiragana (with handwriting practice)
 - Part 2: Greetings and introductions, with speaking practice (record yourself and compare with the model)
-- More parts are on the way: katakana, numbers and time, shopping, verbs, particles, adjectives and kanji, plus **handwriting** practice.
+- Part 3: Katakana
+- Part 4: Numbers, time and shopping
+- Part 5: Verbs and particles
+- Part 6: Adjectives
+- Part 7: First kanji
+
+The kana and kanji lessons end with **handwriting** practice: draw each character with the mouse and get each stroke checked.
 
 Voices: VOICEVOX:No.7 and VOICEVOX:玄野武宏.
 

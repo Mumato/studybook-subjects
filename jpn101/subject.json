@@ -1,6 +1,6 @@
 {
   "name": "JPN101",
-  "version": 6,
+  "version": 7,
   "description": "Elementary Japanese I: hiragana, katakana, everyday conversation and your first kanji, from zero.",
   "intro": "intro.md",
   "parts": [
@@ -35,6 +35,86 @@
             "lessons/gre-03.md"
           ],
           "test": "tests/gre-test.md"
+        }
+      ]
+    },
+    {
+      "id": "kat",
+      "title": "Part 3: Katakana",
+      "chapters": [
+        {
+          "id": "kat",
+          "title": "Reading and writing katakana",
+          "lessons": [
+            "lessons/kat-01.md",
+            "lessons/kat-02.md",
+            "lessons/kat-03.md"
+          ],
+          "test": "tests/kat-test.md"
+        }
+      ]
+    },
+    {
+      "id": "num",
+      "title": "Part 4: Numbers, time and shopping",
+      "chapters": [
+        {
+          "id": "num",
+          "title": "Numbers, prices and the time",
+          "lessons": [
+            "lessons/num-01.md",
+            "lessons/num-02.md",
+            "lessons/num-03.md"
+          ],
+          "test": "tests/num-test.md"
+        }
+      ]
+    },
+    {
+      "id": "vrb",
+      "title": "Part 5: Verbs and particles",
+      "chapters": [
+        {
+          "id": "vrb",
+          "title": "Daily life: verbs and particles",
+          "lessons": [
+            "lessons/vrb-01.md",
+            "lessons/vrb-02.md",
+            "lessons/vrb-03.md",
+            "lessons/vrb-04.md"
+          ],
+          "test": "tests/vrb-test.md"
+        }
+      ]
+    },
+    {
+      "id": "adj",
+      "title": "Part 6: Adjectives",
+      "chapters": [
+        {
+          "id": "adj",
+          "title": "Describing things",
+          "lessons": [
+            "lessons/adj-01.md",
+            "lessons/adj-02.md"
+          ],
+          "test": "tests/adj-test.md"
+        }
+      ]
+    },
+    {
+      "id": "kan",
+      "title": "Part 7: First kanji",
+      "chapters": [
+        {
+          "id": "kan",
+          "title": "Your first kanji",
+          "lessons": [
+            "lessons/kan-01.md",
+            "lessons/kan-02.md",
+            "lessons/kan-03.md"
+          ],
+          "test": "tests/kan-test.md"
         }
       ]
     }
