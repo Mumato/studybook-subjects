@@ -76,3 +76,18 @@ Which one is **re**?
 solution: れ (re) ends with an outward flick; ね (ne) ends with a loop; わ (wa) ends with a round curve.
 Hear it: !say[れ]
 :::
+
+::: problem id=p9 type=draw answer="め"
+Write !say[め] **me**.
+solution: め has 2 strokes. The short slanted stroke first, then the big loop that crosses it.
+:::
+
+::: problem id=p10 type=draw answer="る"
+Write !say[る] **ru**.
+solution: る has 1 stroke: across, a long zigzag down, ending in a small loop at the bottom.
+:::
+
+::: problem id=p11 type=draw answer="ん"
+Write !say[ん] **n**.
+solution: ん has 1 stroke: down to the left, back up, then down and flick up to the right.
+:::

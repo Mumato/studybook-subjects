@@ -74,3 +74,13 @@ solution: びょういん (byouin) is a hospital; びよういん (biyouin), wit
 - [ ] The second word is just a polite version.
 solution: おばさん is "aunt" (or a middle-aged woman), おばあさん is "grandmother". Holding vowels for the right length is as important as getting the sound right.
 :::
+
+::: problem id=p9 type=draw answer="が"
+Write !say[が] **ga**.
+solution: が has 5 strokes. Write か first, then the two dakuten dots at the top right.
+:::
+
+::: problem id=p10 type=draw answer="ぱ"
+Write !say[ぱ] **pa**.
+solution: ぱ has 4 strokes. Write は first, then the small handakuten circle at the top right.
+:::

@@ -80,3 +80,25 @@ Which spells **kaki** (persimmon)?
 solution: か (ka) + き (ki).
 Hear it: !say[かき]
 :::
+
+::: rule
+**Writing practice.** Draw each character in the square with the mouse: hold the button down for each stroke and let go between strokes. Then click **Check**.
+- **▶ Strokes** shows the stroke order, numbered. Watch it once before you start.
+- Order and direction matter: Japanese strokes go from top to bottom and left to right, and the check tells you which stroke to fix.
+- **← Undo** takes back your last stroke, **✕ Clear** starts again. Size and position in the square don't matter.
+:::
+
+::: problem id=p9 type=draw answer="あ"
+Write !say[あ] **a**.
+solution: あ has 3 strokes. Start with the short bar, then the long stroke down, then the loop that curls round and ends low on the right.
+:::
+
+::: problem id=p10 type=draw answer="い"
+Write !say[い] **i**.
+solution: い has 2 strokes. Two short strokes, left then right. The left one is longer and ends with a little hook up.
+:::
+
+::: problem id=p11 type=draw answer="か"
+Write !say[か] **ka**.
+solution: か has 3 strokes. The 'hooked seven' first, then the long stroke through it, then the little tick on the right.
+:::

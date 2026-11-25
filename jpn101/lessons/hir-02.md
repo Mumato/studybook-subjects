@@ -75,3 +75,18 @@ Which word did you hear?
 - [ ] とこ
 solution: You heard たこ (tako), "octopus".
 :::
+
+::: problem id=p9 type=draw answer="さ"
+Write !say[さ] **sa**.
+solution: さ has 3 strokes. The bar, then the stroke down through it, then the curve at the bottom (some fonts join the last two).
+:::
+
+::: problem id=p10 type=draw answer="し"
+Write !say[し] **shi**.
+solution: し has 1 stroke: straight down, then curve up to the right.
+:::
+
+::: problem id=p11 type=draw answer="つ"
+Write !say[つ] **tsu**.
+solution: つ has 1 stroke: across and over, curving down to the left.
+:::
