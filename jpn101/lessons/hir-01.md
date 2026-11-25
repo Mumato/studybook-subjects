@@ -9,6 +9,11 @@ The five vowels come first, and every other row is a consonant plus these vowels
 - !say[あ] **a** (as in *father*), !say[い] **i** (as in *machine*), !say[う] **u** (as in *food*, lips relaxed), !say[え] **e** (as in *met*), !say[お] **o** (as in *bold*).
 - The K row: !say[か] **ka**, !say[き] **ki**, !say[く] **ku**, !say[け] **ke**, !say[こ] **ko**.
 - Japanese vowels are short and pure: no "ay-ee" glide like English *day*.
+
+**Writing practice.** Draw each character in the square with the mouse: hold the button down for each stroke and let go between strokes. Then click **Check**.
+- **▶ Strokes** shows the stroke order, numbered. Watch it once before you start.
+- Order and direction matter: Japanese strokes go from top to bottom and left to right, and the check tells you which stroke to fix.
+- **← Undo** takes back your last stroke, **✕ Clear** starts again. Size and position in the square don't matter.
 :::
 
 ![](assets/hir-ak.3x.png)
@@ -81,12 +86,6 @@ solution: か (ka) + き (ki).
 Hear it: !say[かき]
 :::
 
-::: rule
-**Writing practice.** Draw each character in the square with the mouse: hold the button down for each stroke and let go between strokes. Then click **Check**.
-- **▶ Strokes** shows the stroke order, numbered. Watch it once before you start.
-- Order and direction matter: Japanese strokes go from top to bottom and left to right, and the check tells you which stroke to fix.
-- **← Undo** takes back your last stroke, **✕ Clear** starts again. Size and position in the square don't matter.
-:::
 
 ::: problem id=p9 type=draw answer="あ"
 Write !say[あ] **a**.

@@ -137,7 +137,7 @@
     },
     {
       "id": "jpn101",
-      "version": 5,
+      "version": 6,
       "files": {
         "CREDITS.md": "f341229b99723dbf666702a6145165b544431e66a211ac7883459831a76dcf19",
         "assets/audio/019070c7f0e847e9.ogg": "03bc4be006b8deabf18091de47c0d9465dd0ecb305052c333cde8a88effe0a39",
@@ -275,12 +275,12 @@
         "lessons/gre-01.md": "94f1f8a1f38723c4b6c054bd40ccb0f96b4ed0ffb3f9e727998c3fc3b237b392",
         "lessons/gre-02.md": "17d245ec0a25b7b07b9a342e8ced6d51efe448fb561602ab40d37da5ebf2256e",
         "lessons/gre-03.md": "d3d2653138292175bdde437754124c672852ae7549b460e3eeb56ae8938646e2",
-        "lessons/hir-01.md": "40f0d1e617eb559eaa0fe837cab4aac826622723bf4d54220fbfe8520122906f",
+        "lessons/hir-01.md": "bddc8db132f289cda7d0ec4f169f70857a0493c3517ed3b5a4489a400e591685",
         "lessons/hir-02.md": "cd058656d4129b27d3f1e45798c9b207241f5cff9f06a1bce4aa56a4f07c174d",
         "lessons/hir-03.md": "801397617da7f227878521f65e8d3c557ab4079fb88bbe136b1edb807b91acc5",
         "lessons/hir-04.md": "dd56ff64fac39f036f0df01720de6c4ef98a3b48b4690ba2aabe70822366d73f",
         "lessons/hir-05.md": "2ab997fa283d50e24340d494ce26759a3b6288784bfc4bdf17780301cc454fea",
-        "subject.json": "a5a61de8846f0095eae7e5125a65319461613f64825310a86e9910f254325eab",
+        "subject.json": "8fd637c88d8803c70b95e27a831585c4ab806da3747cc9c412fd97708e931301",
         "tests/gre-test.md": "0c7e6c1ba4500a543387d00c28bcb1dd2eaae1f31ff697e54ede3f3387fff222",
         "tests/hir-test.md": "f3450f46141d3d114e8ed5977aa6a0ea83691ae21034037e84bd1c4557dd9c36"
       }
