@@ -13,7 +13,7 @@ $$F = k \frac{q_1 q_2}{d^{2}}$$
 - A charged object attracts a neutral one by **polarizing** it: pulling its opposite charges slightly closer.
 :::
 
-![](assets/ele-charges@3x.png)
+![](assets/ele-charges.3x.png)
 
 ::: example
 Rubbing a balloon on your hair moves electrons from your hair to the balloon. The balloon becomes negative and your hair positive, by exactly the same amount. Your hair strands, all positive, repel each other and stand up; the balloon pulls them toward it.
@@ -44,7 +44,7 @@ solution: Electrons are what move; charge is never created.
 
 ::: problem id=p5 type=choice
 A negatively charged balloon sticks to a neutral wall. Why?
-![](assets/ele-balloon@3x.png)
+![](assets/ele-balloon.3x.png)
 - [ ] The wall is secretly positive.
 - [x] The balloon pushes the wall's electrons slightly away, leaving the nearby surface a bit positive, which attracts the balloon.
 - [ ] Gravity holds it.

@@ -11,7 +11,7 @@ Astronauts float in the space station, yet gravity there is almost as strong as 
 - **Tides:** the Moon pulls the near side of Earth more than the centre, and the centre more than the far side. This *difference* stretches the oceans into two bulges, so most coasts get two high tides a day.
 :::
 
-![](assets/grv-tides@3x.png)
+![](assets/grv-tides.3x.png)
 
 ::: example
 A 60 kg person stands on a scale in an elevator.

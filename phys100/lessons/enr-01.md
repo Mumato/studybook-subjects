@@ -12,7 +12,7 @@ $$W = F d \qquad P = \frac{W}{t}$$
 - Lifting something at steady speed takes a force equal to its weight, so the work is weight × height.
 :::
 
-![](assets/enr-work@3x.png)
+![](assets/enr-work.3x.png)
 
 ::: example
 You push a crate 5 m across the floor with 80 N: $W = 80 \times 5 = 400$ J. If you do it in 4 s, your power is $400 / 4 = 100$ W. Do it in 2 s: the same 400 J of work, but 200 W.

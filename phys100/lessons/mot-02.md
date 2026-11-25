@@ -11,7 +11,7 @@ $$\text{acceleration} = \frac{\text{change in velocity}}{\text{time}}$$
 - Zero acceleration means constant velocity: steady speed in a straight line (or standing still).
 :::
 
-![](assets/mot-speedup@3x.png)
+![](assets/mot-speedup.3x.png)
 
 ::: example
 A car goes from rest to 20 m/s in 5 s.
@@ -50,7 +50,7 @@ solution: Only the straight, steady car keeps both its speed and its direction. 
 
 ::: problem id=p6 type=choice
 The dots show a cart once every second, moving to the right.
-![](assets/mot-speedup@3x.png)
+![](assets/mot-speedup.3x.png)
 The cart is:
 - [ ] moving at a steady speed
 - [x] speeding up
@@ -60,7 +60,7 @@ solution: The gap between dots grows, so it covers more distance each second: it
 
 ::: problem id=p7 type=numeric answer="3"
 The graph shows a cart's velocity over time.
-![](assets/mot-vt@3x.png)
+![](assets/mot-vt.3x.png)
 What is its acceleration during the first 4 seconds, in m/s²?
 hint: How much does the velocity rise each second?
 solution: It goes from 0 to 12 m/s in 4 s: $12 / 4 = 3$ m/s². (After 4 s the line is flat: steady velocity, zero acceleration.)
@@ -68,7 +68,7 @@ solution: It goes from 0 to 12 m/s in 4 s: $12 / 4 = 3$ m/s². (After 4 s the li
 
 ::: problem id=p8 type=choice
 On the same graph, what is the cart's acceleration between 4 s and 5 s?
-![](assets/mot-vt@3x.png)
+![](assets/mot-vt.3x.png)
 - [x] zero
 - [ ] 3 m/s²
 - [ ] 12 m/s²

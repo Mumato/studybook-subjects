@@ -21,7 +21,7 @@ Push twice as hard: twice the acceleration. Load it to 100 kg: half the accelera
 Why do heavy and light objects fall together? A 10 kg ball has 10 times the weight of a 1 kg ball, but also 10 times the mass to move:
 $$a = \frac{100 \text{ N}}{10 \text{ kg}} = \frac{10 \text{ N}}{1 \text{ kg}} = 10 \text{ m/s}^2$$
 
-![Air resistance grows until it balances the weight](assets/nwt-skydiver@3x.png)
+![Air resistance grows until it balances the weight](assets/nwt-skydiver.3x.png)
 :::
 
 ::: problem id=p1 type=numeric answer="3"

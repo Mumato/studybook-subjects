@@ -10,7 +10,7 @@ Throw a ball sideways and it curves down to the ground. Throw it fast enough and
 - A **satellite** is a projectile moving so fast sideways that as it falls, Earth's surface curves away beneath it. Just above the atmosphere that takes about **8 km/s**.
 :::
 
-![](assets/grv-proj@3x.png)
+![](assets/grv-proj.3x.png)
 
 ::: example
 A ball rolls off a 5 m high wall at 3 m/s. Falling 5 m takes 1 s (since $5 = \tfrac{1}{2} \times 10 \times 1^{2}$). In that 1 s it moves $3 \times 1 = 3$ m sideways, so it lands 3 m from the wall.
@@ -19,7 +19,7 @@ A ball rolls off a 5 m high wall at 3 m/s. Falling 5 m takes 1 s (since $5 = \tf
 ::: example
 At 8 km/s, a satellite moves 8 km sideways each second and falls 5 m toward Earth, just as a dropped stone falls 5 m in its first second. Over 8 km, Earth's curved surface drops away by about 5 m. So the satellite falls, but never gets closer.
 
-![A: slow. B: faster. C: fast enough to orbit](assets/grv-cannon@3x.png)
+![A: slow. B: faster. C: fast enough to orbit](assets/grv-cannon.3x.png)
 :::
 
 ::: problem id=p1 type=numeric answer="3"

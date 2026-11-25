@@ -11,7 +11,7 @@ Sound is a longitudinal wave of squeezes and stretches in air. A drum skin or a 
 - An **echo** is sound reflected back: it travels there *and* back.
 :::
 
-![](assets/wav-pitch@3x.png)
+![](assets/wav-pitch.3x.png)
 
 ::: example
 You see lightning and hear the thunder 3 s later. Light arrives almost instantly, so the sound took 3 s:

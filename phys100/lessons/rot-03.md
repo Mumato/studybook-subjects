@@ -11,7 +11,7 @@ Mass resists changes in motion; **rotational inertia** resists changes in spin. 
 $$I_1 \omega_1 = I_2 \omega_2$$
 :::
 
-![](assets/rot-skater@3x.png)
+![](assets/rot-skater.3x.png)
 
 ::: example
 A skater spins at 2 turns per second with arms out. Pulling her arms in cuts her rotational inertia to a third. Her spin rate triples:

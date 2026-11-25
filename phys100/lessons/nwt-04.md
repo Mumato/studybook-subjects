@@ -10,7 +10,7 @@ You can't touch without being touched. Every force is one half of an interaction
 - The pair is the same size even when the objects are very different. What differs is the *effect*: $a = F/m$ for each object.
 :::
 
-![](assets/nwt-wall@3x.png)
+![](assets/nwt-wall.3x.png)
 
 ::: example
 When you walk, your foot pushes the ground backward, and the ground pushes you forward. That forward push from the ground is what moves you. On slippery ice your foot can't push back on the ground, so you can't walk.
@@ -19,7 +19,7 @@ When you walk, your foot pushes the ground backward, and the ground pushes you f
 ::: example
 A rocket pushes hot gas out the back, and the gas pushes the rocket forward. It doesn't need air to push against, so rockets work in space.
 
-![](assets/nwt-rocket@3x.png)
+![](assets/nwt-rocket.3x.png)
 :::
 
 ::: problem id=p1 type=choice

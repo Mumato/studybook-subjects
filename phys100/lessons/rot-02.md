@@ -12,7 +12,7 @@ $$\text{torque} = \text{force} \times \text{lever arm}$$
 - An object **tips over** when its CG moves past the edge of its base. A low CG and a wide base make things stable.
 :::
 
-![600 × 1 = 300 × 2: balanced](assets/rot-seesaw1@3x.png)
+![600 × 1 = 300 × 2: balanced](assets/rot-seesaw1.3x.png)
 
 ::: example
 A 400 N child sits 1.5 m from the pivot of a seesaw. Where must a 200 N child sit to balance?
@@ -27,7 +27,7 @@ solution: $50 \times 0.3 = 15$ N·m.
 
 ::: problem id=p2 type=numeric answer="3"
 Where must the 200 N child sit to balance the seesaw, in metres from the pivot?
-![](assets/rot-seesaw2@3x.png)
+![](assets/rot-seesaw2.3x.png)
 solution: $400 \times 1.5 = 600 = 200 \times d$, so $d = 3$ m.
 :::
 
@@ -46,7 +46,7 @@ solution: A longer lever arm gives more torque for the same force. Pushing along
 
 ::: problem id=p5 type=choice
 Each box is let go in the position shown. The red dot is its centre of gravity. Which one falls over?
-![](assets/rot-tip@3x.png)
+![](assets/rot-tip.3x.png)
 - [ ] the left box
 - [x] the right box
 - [ ] both

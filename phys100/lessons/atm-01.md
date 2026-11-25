@@ -12,7 +12,7 @@ $$E = h f$$
 - **Wave-particle duality:** light travels like a wave but is absorbed in particle-like lumps. Electrons, too, show wave behaviour (they make interference patterns).
 :::
 
-![](assets/atm-photo@3x.png)
+![](assets/atm-photo.3x.png)
 
 ::: example
 A photon of violet light ($f = 7.5 \times 10^{14}$ Hz) carries
@@ -23,7 +23,7 @@ A red photon ($4 \times 10^{14}$ Hz) carries about half that. Ultraviolet photon
 
 ::: problem id=p1 type=choice
 Very bright red light shines on a metal and frees no electrons. Dim blue light frees some. Why?
-![](assets/atm-photo@3x.png)
+![](assets/atm-photo.3x.png)
 - [ ] Blue light has more photons.
 - [x] Each blue photon carries more energy; red photons each have too little, however many there are.
 - [ ] Red light is absorbed by the air.

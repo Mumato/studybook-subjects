@@ -10,9 +10,9 @@ Old holiday lights went dark when one bulb failed; the lights in your house don'
 - Homes are wired in **parallel**. A **fuse** or **circuit breaker** cuts the power if too much current flows.
 :::
 
-![](assets/ele-series@3x.png)
+![](assets/ele-series.3x.png)
 
-![](assets/ele-parallel@3x.png)
+![](assets/ele-parallel.3x.png)
 
 ::: example
 Two 3 Ω bulbs on a 12 V battery.
@@ -37,7 +37,7 @@ solution: Each bulb gets 12 V: $12/6 = 2$ A each, $4$ A in total.
 
 ::: problem id=p4 type=choice
 In the series circuit, one bulb burns out. What happens to the other?
-![](assets/ele-series@3x.png)
+![](assets/ele-series.3x.png)
 - [ ] It glows brighter.
 - [x] It goes out too.
 - [ ] Nothing changes.
@@ -46,7 +46,7 @@ solution: There's only one path: a break anywhere stops the current everywhere.
 
 ::: problem id=p5 type=choice
 In the parallel circuit, one bulb burns out. What happens to the other?
-![](assets/ele-parallel@3x.png)
+![](assets/ele-parallel.3x.png)
 - [x] It stays lit just as before.
 - [ ] It goes out.
 - [ ] It gets dimmer.

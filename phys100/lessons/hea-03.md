@@ -11,7 +11,7 @@ Melting and boiling soak up heat without warming anything. Engines turn heat int
 $$\text{efficiency} = 1 - \frac{T_{cold}}{T_{hot}}$$
 :::
 
-![Heating ice until it boils away](assets/hea-curve@3x.png)
+![Heating ice until it boils away](assets/hea-curve.3x.png)
 
 ::: example
 An engine takes in heat at 600 K and dumps waste heat at 300 K. Its ideal efficiency is

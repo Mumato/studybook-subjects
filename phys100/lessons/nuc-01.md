@@ -12,7 +12,7 @@ Some nuclei are unstable. Sooner or later they break down and fling out particle
 - **Half-life:** the time for half of a sample to decay. After each half-life, half of what's left remains.
 :::
 
-![](assets/nuc-rays@3x.png)
+![](assets/nuc-rays.3x.png)
 
 ::: example
 Iodine-131 has a half-life of 8 days. A hospital has 80 mg:
@@ -20,7 +20,7 @@ Iodine-131 has a half-life of 8 days. A hospital has 80 mg:
 - after 16 days: 20 mg
 - after 24 days: 10 mg
 
-![](assets/nuc-half@3x.png)
+![](assets/nuc-half.3x.png)
 :::
 
 ::: problem id=p1 type=numeric answer="100"
@@ -50,7 +50,7 @@ solution: Alpha decay removes 4 nucleons: $238 - 4 = 234$.
 
 ::: problem id=p6 type=choice
 Which radiation can pass through a sheet of aluminium but is mostly stopped by thick lead?
-![](assets/nuc-rays@3x.png)
+![](assets/nuc-rays.3x.png)
 - [ ] alpha
 - [ ] beta
 - [x] gamma

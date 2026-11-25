@@ -11,12 +11,12 @@ Two waves can pass through each other, adding up or cancelling where they meet. 
 - **Doppler effect:** a source moving toward you bunches its waves up (higher pitch); moving away, it spreads them out (lower pitch).
 :::
 
-![](assets/wav-interf@3x.png)
+![](assets/wav-interf.3x.png)
 
 ::: example
 An ambulance siren drops in pitch as it passes you. Coming toward you, each wave crest is sent from a little closer, so the crests arrive closer together: higher frequency. Going away, they're stretched: lower frequency.
 
-![](assets/wav-doppler@3x.png)
+![](assets/wav-doppler.3x.png)
 :::
 
 ::: problem id=p1 type=choice
@@ -29,13 +29,13 @@ solution: They play the noise's mirror image: crests where the noise has troughs
 
 ::: problem id=p2 type=numeric answer="4"
 How many nodes does this standing wave have, counting both fixed ends?
-![](assets/wav-standing@3x.png)
+![](assets/wav-standing.3x.png)
 solution: Three loops are separated by nodes: the two ends plus two in between, 4 in all.
 :::
 
 ::: problem id=p3 type=numeric answer="2"
 A 3 m string vibrates in the pattern above, with 3 loops. Each loop is half a wavelength. What is the wavelength, in metres?
-![](assets/wav-standing@3x.png)
+![](assets/wav-standing.3x.png)
 solution: Each loop is $3/3 = 1$ m, which is half a wavelength: $\lambda = 2$ m.
 :::
 

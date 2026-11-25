@@ -11,7 +11,7 @@ $$PE = m g h \qquad KE = \frac{1}{2} m v^{2}$$
 - **Conservation of energy:** energy is never created or destroyed. Without friction, PE + KE stays the same: what is lost in one is gained in the other.
 :::
 
-![A falling ball: PE turns into KE](assets/enr-bars@3x.png)
+![A falling ball: PE turns into KE](assets/enr-bars.3x.png)
 
 ::: example
 A 2 kg ball is dropped from 20 m. At the top: $PE = 2 \times 10 \times 20 = 400$ J and $KE = 0$. At the bottom all 400 J is kinetic:
@@ -42,14 +42,14 @@ solution: Double the speed gives four times the KE, so four times the braking di
 
 ::: problem id=p5 type=numeric answer="30"
 A roller coaster starts at rest at A, 45 m above the lowest point B. Ignoring friction, how fast is it moving at B, in m/s?
-![](assets/enr-coaster@3x.png)
+![](assets/enr-coaster.3x.png)
 hint: All the PE lost turns into KE. The mass cancels.
 solution: $g h = \tfrac{1}{2} v^{2}$: $10 \times 45 = 450 = \tfrac{1}{2} v^{2}$, so $v^{2} = 900$ and $v = 30$ m/s.
 :::
 
 ::: problem id=p6 type=numeric answer="20"
 On the same coaster, how fast is it moving at C, 25 m high, in m/s?
-![](assets/enr-coaster@3x.png)
+![](assets/enr-coaster.3x.png)
 solution: It has dropped $45 - 25 = 20$ m: $10 \times 20 = \tfrac{1}{2} v^{2}$, $v^{2} = 400$, $v = 20$ m/s.
 :::
 

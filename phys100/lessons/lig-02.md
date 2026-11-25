@@ -11,7 +11,7 @@ Light bounces off mirrors and bends when it passes into glass or water. These tw
 - Different colours bend by different amounts (violet most, red least): **dispersion**. That's how prisms and rainbows split white light.
 :::
 
-![](assets/lig-mirror@3x.png)
+![](assets/lig-mirror.3x.png)
 
 ::: example
 Light travels at $2 \times 10^{8}$ m/s in a glass block, so
@@ -36,7 +36,7 @@ solution: $n = 3 / 2.4 = 1.25$.
 
 ::: problem id=p4 type=choice
 A straw in a glass of water looks bent at the surface. Why?
-![](assets/lig-refract@3x.png)
+![](assets/lig-refract.3x.png)
 - [ ] The water really bends the straw.
 - [x] Light from the underwater part bends as it leaves the water, so that part appears in the wrong place.
 - [ ] Reflection off the glass.
@@ -53,7 +53,7 @@ solution: The light hits the fibre's wall at such a shallow angle that it is com
 
 ::: problem id=p6 type=choice
 White light passes through a prism. Which colour bends the most?
-![](assets/lig-prism@3x.png)
+![](assets/lig-prism.3x.png)
 - [ ] red
 - [ ] green
 - [x] violet

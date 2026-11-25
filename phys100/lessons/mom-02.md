@@ -12,7 +12,7 @@ $$\text{total } p \text{ before} = \text{total } p \text{ after}$$
 - **Recoil:** if the total starts at zero (a gun at rest, a skater standing still), the parts fly apart with equal and opposite momenta.
 :::
 
-![](assets/mom-stick@3x.png)
+![](assets/mom-stick.3x.png)
 
 ::: example
 In the picture, a 2 kg cart at 3 m/s hits a 1 kg cart at rest, and they stick.
@@ -27,7 +27,7 @@ solution: $p = 4000 \times 5 = 20000$. Together: $5000 v = 20000$, $v = 4$ m/s.
 
 ::: problem id=p2 type=numeric answer="1"
 A 50 kg skater at rest throws a 5 kg ball forward at 10 m/s. How fast does the skater move backward, in m/s?
-![](assets/mom-recoil@3x.png)
+![](assets/mom-recoil.3x.png)
 solution: Total momentum starts at 0. The ball has $5 \times 10 = 50$, so the skater has $-50$: $50 v = 50$, $v = 1$ m/s backward.
 :::
 

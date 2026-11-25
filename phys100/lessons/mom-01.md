@@ -13,7 +13,7 @@ $$\text{impulse} = F t = \text{change in } p$$
 - Bouncing back needs *more* impulse than just stopping, because the momentum reverses.
 :::
 
-![](assets/mom-impulse@3x.png)
+![](assets/mom-impulse.3x.png)
 
 ::: example
 A 60 kg person moving at 10 m/s in a crash has $p = 600$ kg·m/s. Stopping them takes an impulse of 600 N·s.

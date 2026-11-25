@@ -14,7 +14,7 @@ $$\gamma = \frac{1}{\sqrt{1 - v^{2}/c^{2}}}$$
 At everyday speeds $\gamma$ is almost exactly 1. At $0.6c$ it's 1.25; at $0.8c$ it's $5/3$.
 :::
 
-![A light clock: moving, the light's path is longer, so each tick takes longer](assets/rel-clock@3x.png)
+![A light clock: moving, the light's path is longer, so each tick takes longer](assets/rel-clock.3x.png)
 
 ::: example
 A spaceship flies at $0.8c$ for what Earth calls 10 years. On board, only

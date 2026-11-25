@@ -11,7 +11,7 @@ The **net force** is the sum of all the forces on an object.
 - A surface pushes back on whatever presses on it. This **support force** (or **normal force**) is why a book on a table doesn't fall through.
 :::
 
-![Weight down, support up: net force zero](assets/nwt-book@3x.png)
+![Weight down, support up: net force zero](assets/nwt-book.3x.png)
 
 ::: example
 Two people push a box: one with 30 N to the right, one with 20 N to the left.
@@ -23,24 +23,24 @@ If both pushed to the right, the net force would be $30 + 20 = 50$ N.
 ::: example
 A lamp hangs at rest from a cord. It's in equilibrium, so the cord pulls up exactly as hard as the lamp's weight pulls down.
 
-![](assets/nwt-lamp@3x.png)
+![](assets/nwt-lamp.3x.png)
 :::
 
 ::: problem id=p1 type=numeric answer="10"
 What is the net force on the box, in newtons?
-![](assets/nwt-net1@3x.png)
+![](assets/nwt-net1.3x.png)
 solution: $30 - 20 = 10$ N, to the right.
 :::
 
 ::: problem id=p2 type=numeric answer="25"
 What is the size of the net force on the box, in newtons?
-![](assets/nwt-net2@3x.png)
+![](assets/nwt-net2.3x.png)
 solution: $40 - 15 = 25$ N, to the left.
 :::
 
 ::: problem id=p3 type=choice
 The box in the picture is sliding to the right. What happens to its motion?
-![](assets/nwt-net3@3x.png)
+![](assets/nwt-net3.3x.png)
 - [ ] It slows down, because the forces cancel.
 - [x] It keeps sliding at the same speed.
 - [ ] It speeds up to the right.

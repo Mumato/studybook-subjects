@@ -12,7 +12,7 @@ Magnetism looks like a separate force, but it isn't: magnetism is what electric 
 - Earth is a giant magnet, so a compass's north pole points north.
 :::
 
-![](assets/mag-bar@3x.png)
+![](assets/mag-bar.3x.png)
 
 ::: example
 Wrap 100 turns of wire around an iron nail and connect a battery: the nail picks up paper clips. Disconnect it, and they fall. Double the turns or the current and it lifts about twice as many. Scrapyard cranes work this way.
@@ -36,7 +36,7 @@ solution: Like poles repel.
 
 ::: problem id=p3 type=choice
 Outside a bar magnet, its field lines run:
-![](assets/mag-bar@3x.png)
+![](assets/mag-bar.3x.png)
 - [x] from the N pole around to the S pole
 - [ ] from the S pole around to the N pole
 - [ ] straight out of the middle

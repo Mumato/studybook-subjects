@@ -11,7 +11,7 @@ $$\text{speed} = \frac{\text{distance}}{\text{time}}$$
 - Velocity is **constant** only if *both* the speed and the direction stay the same.
 :::
 
-![](assets/mot-steady@3x.png)
+![](assets/mot-steady.3x.png)
 
 ::: example
 A train covers 240 km in 3 hours. Its average speed is
@@ -22,7 +22,7 @@ It may have stopped at stations and raced between them: the average hides that. 
 ::: example
 A car drives around a circular track at a steady 50 km/h. Its **speed** is constant, but its **velocity** is not, because its direction keeps changing.
 
-![Arrows show the velocity at four points](assets/mot-velocity@3x.png)
+![Arrows show the velocity at four points](assets/mot-velocity.3x.png)
 :::
 
 ::: problem id=p1 type=numeric answer="50"

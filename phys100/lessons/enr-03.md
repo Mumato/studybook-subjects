@@ -12,7 +12,7 @@ $$F_{in} \times d_{in} = F_{out} \times d_{out}$$
 - The lost energy isn't destroyed: it becomes heat. Energy just changes form.
 :::
 
-![](assets/enr-lever@3x.png)
+![](assets/enr-lever.3x.png)
 
 ::: example
 In the picture, the long arm is 4 times the short arm. Pushing down 100 N on the long end lifts 400 N. But the long end must move 4 times as far as the load rises:

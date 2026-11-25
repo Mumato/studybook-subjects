@@ -12,7 +12,7 @@ $$Q = m c \Delta T$$
 - Most things **expand** when heated. Water is odd: it expands when it freezes, so ice floats.
 :::
 
-![](assets/hea-scales@3x.png)
+![](assets/hea-scales.3x.png)
 
 ::: example
 Warming 3 kg of water from 20 °C to 30 °C takes
@@ -45,7 +45,7 @@ solution: Each kilogram of water needs far more energy for each degree of warmin
 
 ::: problem id=p5 type=choice
 A strip of brass and steel stuck together bends when heated, as shown. Which metal expands more?
-![](assets/hea-strip@3x.png)
+![](assets/hea-strip.3x.png)
 - [x] brass, on the outside of the curve
 - [ ] steel, on the inside of the curve
 - [ ] neither: the strip bends because it gets softer

@@ -12,7 +12,7 @@ $$F = G \frac{m_1 m_2}{d^{2}}$$
 - The pull is mutual: the apple pulls Earth up exactly as hard as Earth pulls the apple down.
 :::
 
-![](assets/grv-inverse@3x.png)
+![](assets/grv-inverse.3x.png)
 
 ::: example
 You weigh 800 N on Earth's surface, 1 Earth radius from its centre. At 2 Earth radii from the centre (one radius up, about 6400 km), your weight would be

@@ -12,7 +12,7 @@ $$\text{pressure} = \frac{\text{force}}{\text{area}}$$
 - An object floats if it's less dense than the fluid. A floating object sinks until it displaces **its own weight** of fluid.
 :::
 
-![](assets/mat-buoy@3x.png)
+![](assets/mat-buoy.3x.png)
 
 ::: example
 A 2 L (0.002 m³) block is held completely under water. It displaces 2 L of water, which has a mass of 2 kg and a weight of 20 N. So the buoyant force is 20 N, whatever the block is made of. If the block weighs 50 N it sinks, and feels like it weighs only $50 - 20 = 30$ N under water.
@@ -25,7 +25,7 @@ solution: $600 / 0.03 = 20000$ Pa.
 
 ::: problem id=p2 type=choice
 Water spurts from three holes in a tall tank. Which jet comes out fastest?
-![](assets/mat-holes@3x.png)
+![](assets/mat-holes.3x.png)
 - [ ] the top one
 - [ ] the middle one
 - [x] the bottom one
@@ -50,7 +50,7 @@ solution: A floating object displaces its own weight of fluid: 3000 kg.
 
 ::: problem id=p6 type=numeric answer="90"
 Ice has a density of 0.9 g/cm³. What percent of a floating ice cube is under water?
-![](assets/mat-float@3x.png)
+![](assets/mat-float.3x.png)
 solution: It sinks until it displaces its own weight: $0.9 / 1 = 90\%$ under water. That's why icebergs hide most of their bulk.
 :::
 

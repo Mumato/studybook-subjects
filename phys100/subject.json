@@ -1,6 +1,6 @@
 {
   "name": "PHYS100",
-  "version": 2,
+  "version": 3,
   "description": "Conceptual Physics: how the physical world works, explained with ideas and pictures before equations.",
   "intro": "intro.md",
   "parts": [

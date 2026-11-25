@@ -12,7 +12,7 @@ $$E = m c^{2}$$
 - In both, the products have slightly **less mass** than what went in. The missing mass comes out as energy.
 :::
 
-![](assets/nuc-fission@3x.png)
+![](assets/nuc-fission.3x.png)
 
 ::: example
 Turning 1 g (0.001 kg) of mass entirely into energy gives
@@ -32,7 +32,7 @@ solution: $0.002 \times 9 \times 10^{16} = 18 \times 10^{13}$ J.
 
 ::: problem id=p3 type=choice
 What keeps a fission chain reaction going?
-![](assets/nuc-fission@3x.png)
+![](assets/nuc-fission.3x.png)
 - [ ] heat from each split
 - [x] the neutrons released by each fission, which split more nuclei
 - [ ] electricity

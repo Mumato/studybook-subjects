@@ -12,7 +12,7 @@ $$v = f \lambda$$
 - **Transverse:** the medium moves at right angles to the wave (a shaken rope, light). **Longitudinal:** it moves back and forth along the wave (sound, a pushed spring).
 :::
 
-![](assets/wav-parts@3x.png)
+![](assets/wav-parts.3x.png)
 
 ::: example
 Water waves pass a pier: 2 crests every second, 3 m apart. Frequency 2 Hz, wavelength 3 m, so
@@ -50,7 +50,7 @@ solution: The wave carries energy past the duck; the water (and the duck) mostly
 
 ::: problem id=p6 type=choice
 In the picture, which shows the amplitude?
-![](assets/wav-parts@3x.png)
+![](assets/wav-parts.3x.png)
 - [ ] the distance from crest to crest
 - [x] the distance from the middle line to a trough (or crest)
 - [ ] the distance from a crest to a trough
@@ -59,7 +59,7 @@ solution: Amplitude is measured from the middle (rest) position, so crest to tro
 
 ::: problem id=p7 type=choice
 In which kind of wave do the particles move back and forth *along* the direction the wave travels?
-![](assets/wav-types@3x.png)
+![](assets/wav-types.3x.png)
 - [ ] transverse
 - [x] longitudinal
 solution: Like a spring pushed and pulled from one end: squeezed regions (compressions) travel along it.

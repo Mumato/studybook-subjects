@@ -13,7 +13,7 @@ $$\frac{V_{out}}{V_{in}} = \frac{N_{out}}{N_{in}}$$
 - In an ideal transformer, power in = power out, so stepping voltage up steps current down.
 :::
 
-![](assets/mag-induce@3x.png)
+![](assets/mag-induce.3x.png)
 
 ::: example
 A transformer has 1000 turns on its input side and 50 on its output side. Plugged into 240 V:
@@ -31,7 +31,7 @@ solution: Induction needs a *changing* field. Move the magnet and the needle jum
 
 ::: problem id=p2 type=numeric answer="12"
 A transformer has 100 turns on its input and 10 on its output. The input is 120 V. What is the output voltage, in volts?
-![](assets/mag-transformer@3x.png)
+![](assets/mag-transformer.3x.png)
 solution: $120 \times 10/100 = 12$ V.
 :::
 

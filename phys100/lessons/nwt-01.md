@@ -11,7 +11,7 @@ For 2000 years people believed, like Aristotle, that a moving thing needs a push
 - No force is needed to *keep* something moving. A force is needed to *change* its motion.
 :::
 
-![](assets/nwt-puck@3x.png)
+![](assets/nwt-puck.3x.png)
 
 ::: example
 A hockey puck slides across smooth ice and keeps going far, at almost the same speed. Nothing is pushing it forward: it simply keeps its motion. On rough concrete it stops quickly, because friction is a force that changes its motion.

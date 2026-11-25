@@ -12,7 +12,7 @@ $$I = \frac{V}{R} \qquad P = I V$$
 - **Ohm's law** (left) gives the current. **Power** $P$ (right) is in watts. Energy used = power × time; your bill counts **kilowatt-hours** (kWh).
 :::
 
-![](assets/ele-circuit@3x.png)
+![](assets/ele-circuit.3x.png)
 
 ::: example
 A 12 V battery runs a bulb of resistance 6 Ω.

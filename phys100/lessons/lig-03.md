@@ -12,7 +12,7 @@ A lens is just shaped glass that bends light on purpose. Cameras, telescopes, gl
 - **Nearsighted** eyes focus in front of the retina and need diverging lenses; **farsighted** eyes need converging lenses.
 :::
 
-![](assets/lig-lens@3x.png)
+![](assets/lig-lens.3x.png)
 
 ::: example
 A magnifying glass focuses sunlight to a hot spot 20 cm from the lens. Its focal length is 20 cm = 0.2 m, so its power is $1/0.2 = 5$ diopters. To use it as a magnifier, hold it less than 20 cm from the page.

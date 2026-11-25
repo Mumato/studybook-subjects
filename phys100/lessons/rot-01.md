@@ -12,7 +12,7 @@ $$F = \frac{m v^{2}}{r}$$
 - Nothing pushes you *outward* in a turn. Your body just tries to keep going straight (inertia). Let go, and the object leaves along a straight line, at a tangent.
 :::
 
-![](assets/rot-cut@3x.png)
+![](assets/rot-cut.3x.png)
 
 ::: example
 A 1000 kg car takes a curve of radius 50 m at 20 m/s. The road's friction must supply
@@ -22,7 +22,7 @@ toward the centre of the curve. On ice there's too little friction, so the car s
 
 ::: problem id=p1 type=choice
 Two children ride the merry-go-round: A near the middle, B at the edge. Which is true?
-![](assets/rot-merry@3x.png)
+![](assets/rot-merry.3x.png)
 - [ ] A and B have the same linear speed.
 - [x] They have the same rotational speed, but B has the greater linear speed.
 - [ ] A has the greater rotational speed.
@@ -45,7 +45,7 @@ solution: The tyres grip the road sideways. That friction is the centripetal for
 
 ::: problem id=p4 type=choice
 You whirl a ball on a string in a horizontal circle, and the string snaps when the ball is at the top of the picture. Which way does the ball go?
-![](assets/rot-cut@3x.png)
+![](assets/rot-cut.3x.png)
 - [ ] straight outward, away from the centre
 - [x] straight on, along the direction it was moving
 - [ ] it keeps curving, then straightens out

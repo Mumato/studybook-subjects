@@ -11,7 +11,7 @@ $$P_1 V_1 = P_2 V_2$$
 - **Bernoulli's principle:** where a moving fluid flows **faster**, its pressure is **lower**.
 :::
 
-![](assets/mat-air@3x.png)
+![](assets/mat-air.3x.png)
 
 ::: example
 A balloon holds 2 L of air at 100 kPa. Squeezed to 1 L at the same temperature:
@@ -23,7 +23,7 @@ Release it at high altitude, where the pressure is lower, and it expands.
 ::: example
 Air flows faster over the curved top of a wing than under it. Faster air means lower pressure above, so the higher pressure below pushes the wing up: **lift**.
 
-![](assets/mat-wing@3x.png)
+![](assets/mat-wing.3x.png)
 :::
 
 ::: problem id=p1 type=numeric answer="300"

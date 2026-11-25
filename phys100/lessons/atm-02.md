@@ -10,14 +10,14 @@ Heat a gas of one element and it glows in a few sharp colours, a fingerprint uni
 - Each element has its own levels, so its own set of colours: its **line spectrum**. That's how we know what stars are made of.
 :::
 
-![](assets/atm-levels@3x.png)
+![](assets/atm-levels.3x.png)
 
 ::: example
 In hydrogen, level 2 is at −3.4 eV and level 3 at −1.5 eV (eV is a tiny energy unit used for atoms). An electron dropping from 3 to 2 emits a photon of
 $$-1.5 - (-3.4) = 1.9 \text{ eV}$$
 That's red light: hydrogen's bright red line.
 
-![](assets/atm-spectrum@3x.png)
+![](assets/atm-spectrum.3x.png)
 :::
 
 ::: problem id=p1 type=choice

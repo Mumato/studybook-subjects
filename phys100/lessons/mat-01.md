@@ -12,7 +12,7 @@ $$\text{density} = \frac{\text{mass}}{\text{volume}}$$
 - Matter comes as **solid** (fixed shape), **liquid** (flows, fixed volume) or **gas** (fills its container).
 :::
 
-![](assets/mat-density@3x.png)
+![](assets/mat-density.3x.png)
 
 ::: example
 A metal block has a mass of 540 g and a volume of 200 cm³.

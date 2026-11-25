@@ -10,7 +10,7 @@ Heat always flows from hot to cold, by three routes. Knowing them explains therm
 - **Radiation:** everything gives off electromagnetic waves, more the hotter it is. Radiation needs no material, so it crosses space. Dark, dull surfaces absorb and emit it well; shiny surfaces reflect it.
 :::
 
-![](assets/hea-transfer@3x.png)
+![](assets/hea-transfer.3x.png)
 
 ::: example
 A thermos flask fights all three: a **vacuum** between two walls stops conduction and convection, and **silvered** walls reflect radiation back.
@@ -18,7 +18,7 @@ A thermos flask fights all three: a **vacuum** between two walls stops conductio
 
 ::: problem id=p1 type=choice
 The metal handle of a pot on the stove gets hot. How did the heat get there?
-![](assets/hea-transfer@3x.png)
+![](assets/hea-transfer.3x.png)
 - [x] conduction
 - [ ] convection
 - [ ] radiation

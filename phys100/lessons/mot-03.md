@@ -12,7 +12,7 @@ $$v = g t \qquad d = \frac{1}{2} g t^{2}$$
 - Heavy and light objects fall together. A feather falls slowly only because of the air.
 :::
 
-![](assets/mot-freefall@3x.png)
+![](assets/mot-freefall.3x.png)
 
 ::: example
 A stone is dropped down a well and hits the water after 2 s.
@@ -24,7 +24,7 @@ The distance grows with the *square* of the time: in 4 s it would fall 80 m, not
 ::: example
 A ball is thrown straight up at 30 m/s. Each second it loses 10 m/s: 30, 20, 10, 0. It reaches the top after 3 s, then takes another 3 s to fall back, arriving at 30 m/s.
 
-![Spread out sideways so the dots don't overlap](assets/mot-up@3x.png)
+![Spread out sideways so the dots don't overlap](assets/mot-up.3x.png)
 :::
 
 ::: problem id=p1 type=numeric answer="30"

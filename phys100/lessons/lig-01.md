@@ -12,7 +12,7 @@ Light is an electromagnetic wave: a ripple of electric and magnetic fields that 
 - The sky is blue because air molecules **scatter** blue light much more than red.
 :::
 
-![](assets/lig-spectrum@3x.png)
+![](assets/lig-spectrum.3x.png)
 
 ::: example
 An FM radio station broadcasts at 100 MHz ($10^{8}$ Hz). Its wavelength is
@@ -49,7 +49,7 @@ solution: The shirt reflects only red. With no red light to reflect, it reflects
 
 ::: problem id=p5 type=choice
 Red and green spotlights overlap on a white wall. The overlap looks:
-![](assets/lig-rgb@3x.png)
+![](assets/lig-rgb.3x.png)
 - [ ] brown
 - [x] yellow
 - [ ] white
