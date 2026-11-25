@@ -17,11 +17,11 @@ solution: $10\% \times 150 = 15$ units.
 :::
 
 ::: problem id=t3 type=choice
-You stop noticing the ticking of a clock in your room. This is:
-- [ ] the absolute threshold
-- [x] sensory adaptation
-- [ ] closure
-solution: Constant stimuli fade from awareness.
+According to the gate-control theory, why does rubbing a stubbed toe ease the pain?
+- [ ] It repairs the tissue faster.
+- [x] Touch signals from the rubbing help close a "gate" in the spinal cord that pain signals must pass through.
+- [ ] It numbs the pain receptors permanently.
+solution: Non-painful input competes with pain signals in the spinal cord, as Melzack and Wall proposed.
 :::
 
 ::: problem id=t4 type=choice

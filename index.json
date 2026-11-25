@@ -528,7 +528,7 @@
     },
     {
       "id": "psyc101",
-      "version": 2,
+      "version": 3,
       "files": {
         "CREDITS.md": "121eb224c203ac59c4061c6141dfce1655499732a1df66225d91087874a7887f",
         "assets/bio-brain.3x.png": "9ff306a9a993e0cb5d6c0f613786d9f638f2afc8dd8df51f234f0ca25a18a370",
@@ -553,7 +553,7 @@
         "assets/soc-asch.3x.png": "0b775a48975c56f226a38580d910ac38a7ee8fa56ef4c7a4af021a552f23a3bb",
         "assets/thk-iq.3x.png": "1b2719da073dc8219c6b047e201458a5d6064b2f02f669795aef53056efba7e2",
         "book_gui/psyc101_gui.png": "9ca7577813e21ba4367a3e34341708d96895907dbd2c8e8a5ff45bb0191ca75b",
-        "intro.md": "3eaef3da8db2535eea78906761a6ee9b82863ee57c4bed130b5fb13857f38e07",
+        "intro.md": "1f87efc327760149b31fdd06ac905b089f6ed59489cbc0e75668a2f66dddbbfb",
         "lessons/bio-01.md": "20749596a60f18ad37675c3c067d22df374c967798fbe59383df28acf40ae8cd",
         "lessons/bio-02.md": "1aacf6fad1bac30ef122f61a280a87cc11753b1f7b5de43d2d54401c49fdbf25",
         "lessons/bio-03.md": "5bab55dd8a34d8a9d58fb479bd06b8d35f7ceccae6e01dd12b393b74946729c4",
@@ -583,13 +583,14 @@
         "lessons/sen-01.md": "96d03048657d59c678b6cd8e7824fd41f7731a24d1f58281356958a885cd45c0",
         "lessons/sen-02.md": "71a28e634bba8136962259b711aa59f0ba0430ace6d9bc1aee8d0d41e18a1845",
         "lessons/sen-03.md": "f5182fd12c200c08dd86aeba93dce441a5009631b1349d5c3afac703dac38dc3",
+        "lessons/sen-04.md": "7b82277fecd85e7b36733682f57e410b51dfc099d6bbd8d6c6f0818f3a893e0b",
         "lessons/soc-01.md": "2a97bcb01042f2e3e8ca702cb9ab6a5ae64529f852533a6d9ee035c24de4d56d",
         "lessons/soc-02.md": "32da5376c4455fb60b9955eb396b3e6ac3ca08a0acb256d3fd993e4e6c8bb2fb",
         "lessons/soc-03.md": "e5e7c766433cc4a799dd4e5b567b4895ac21bfbd8676294d7e225695e1e21f9e",
         "lessons/thk-01.md": "f4cdb8fd29ec29c610de92ed50f8d04e9fa3c50a061c49bf25b0f07ae31a50bf",
         "lessons/thk-02.md": "52f10bc8dee6c46e181894758aef2249ca5dc8ea13216d27a1b7437b1ed41d75",
         "lessons/thk-03.md": "d583f9837c992c7a2dff67116d1bc4ec6002cc77528f697ebd5cd251c318d599",
-        "subject.json": "34dc97ad36be49de829d65b29cd2e2f4b76148b6ef18feb79995370432c0420f",
+        "subject.json": "8002b096bdef9723122949108179eb59d39f02be12c0a5ee28cef9913cff2654",
         "tests/bio-test.md": "26ad30166eb791d25372328aab9185e4141b417164871c58a4bf3eddbbc2dd7e",
         "tests/con-test.md": "5cc253a40fd6040f292edfba78bcaa115483d26cfb3ab59ef70bc5608e5d6285",
         "tests/dev-test.md": "e6d46e4ce9f51206c8ddedff08e6088130c05a270b29cf44557c36261840db47",
@@ -603,7 +604,7 @@
         "tests/midb-test.md": "8ada92ddfe4fbf0dd61ed6d0453572b9a074be43cae3a2e6f9b923a9542934cf",
         "tests/per-test.md": "6099d48a59936247bce1025c90bf98282538faca3690928e50d32e542e94fcf9",
         "tests/sci-test.md": "55cf84c5474c4e45fb76b63f621e4e017bc85becbd182936c270f5f5236142f9",
-        "tests/sen-test.md": "65897968b3068cdf83cede6efa4f2d62126e6b9af8d452637ec5727acd2e8c4f",
+        "tests/sen-test.md": "d89dcc9dd135f425313ed09dc398250ae782b84e0eb5eb1f0efad8b330c05891",
         "tests/soc-test.md": "e94924eb0d4c458cb1d5e2cb5f9fb65d1abdf87ec51c6cef79254516355c1f45",
         "tests/thk-test.md": "6f40ec0f743c00087581c3703782b11443db0bfe1d8eaece806fc4ee254b767e"
       }

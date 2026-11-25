@@ -20,7 +20,7 @@ Each chapter ends with a **test**. Score 80% to complete the chapter. Before a t
 
 - Part 1: Psychology as a science (history, research methods, statistics, ethics)
 - Part 2: Biopsychology (neurons, nervous system, brain)
-- Part 3: Sensation and perception
+- Part 3: Sensation and perception (vision, hearing, taste, smell, touch, pain, balance)
 - Part 4: Consciousness (sleep, dreams, drugs)
 - Part 5: Learning (classical and operant conditioning)
 - Midterm practice: two practice exams on Parts 1-5
