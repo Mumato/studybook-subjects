@@ -31,19 +31,19 @@ Hear it: !say[げつようび]
 :::
 
 ::: problem id=t5 type=choice
-What does 川 mean?
-- [ ] mountain
-- [x] river
-- [ ] person
-solution: 川 (かわ): flowing water, river.
-Hear it: !say[かわ]
+What does 母 mean?
+- [ ] father
+- [x] mother
+- [ ] child
+solution: 母 (はは): mother. 父 is father, 子 is child.
+Hear it: !say[はは]
 :::
 
-::: problem id=t6 type=text answers="がくせい"
-Type the reading of 学生.
-hint: gakusei
-solution: がくせい, student.
-Hear it: !say[がくせい]
+::: problem id=t6 type=text answers="たべたいです"
+Type the reading of 食べたいです.
+hint: tabetai desu
+solution: たべたいです, "I want to eat": 食 keeps its reading た when the ending changes.
+Hear it: !say[たべたいです]
 :::
 
 ::: problem id=t7 type=choice

@@ -1,6 +1,6 @@
 ## Welcome to JPN101
 
-This book covers a first university course in **Elementary Japanese**, starting from zero: the hiragana and katakana scripts, everyday conversation, basic grammar and your first kanji.
+This book covers a first-semester university course in **Elementary Japanese**, starting from zero: the hiragana and katakana scripts, everyday conversation, the polite verb and adjective forms, and about 60 kanji. JPN102 continues with the て-form.
 
 ### Typing Japanese
 
@@ -28,7 +28,9 @@ Every lesson gives you **a rule**, **a worked example** and then **practice prob
 - Part 4: Numbers, time and shopping
 - Part 5: Verbs and particles
 - Part 6: Adjectives
-- Part 7: First kanji
+- Part 7: Places, counting and dates
+- Part 8: More everyday Japanese: も, と, で, から/まで, ～たい, ～から (because), family
+- Part 9: Kanji: about 60 characters, from numbers to everyday verbs
 
 The kana and kanji lessons end with **handwriting** practice: draw each character with the mouse and get each stroke checked.
 

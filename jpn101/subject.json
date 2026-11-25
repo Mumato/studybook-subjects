@@ -1,6 +1,6 @@
 {
   "name": "JPN101",
-  "version": 8,
+  "version": 9,
   "description": "Elementary Japanese I: hiragana, katakana, everyday conversation and your first kanji, from zero.",
   "intro": "intro.md",
   "parts": [
@@ -103,16 +103,50 @@
       ]
     },
     {
+      "id": "plc",
+      "title": "Part 7: Places, counting and dates",
+      "chapters": [
+        {
+          "id": "plc",
+          "title": "Where things are, how many, and when",
+          "lessons": [
+            "lessons/plc-01.md",
+            "lessons/plc-02.md",
+            "lessons/plc-03.md"
+          ],
+          "test": "tests/plc-test.md"
+        }
+      ]
+    },
+    {
+      "id": "mor",
+      "title": "Part 8: More everyday Japanese",
+      "chapters": [
+        {
+          "id": "mor",
+          "title": "Wants, reasons, family and more particles",
+          "lessons": [
+            "lessons/mor-01.md",
+            "lessons/mor-02.md",
+            "lessons/mor-03.md"
+          ],
+          "test": "tests/mor-test.md"
+        }
+      ]
+    },
+    {
       "id": "kan",
-      "title": "Part 7: First kanji",
+      "title": "Part 9: Kanji",
       "chapters": [
         {
           "id": "kan",
-          "title": "Your first kanji",
+          "title": "Your first 60 kanji",
           "lessons": [
             "lessons/kan-01.md",
             "lessons/kan-02.md",
-            "lessons/kan-03.md"
+            "lessons/kan-03.md",
+            "lessons/kan-04.md",
+            "lessons/kan-05.md"
           ],
           "test": "tests/kan-test.md"
         }
