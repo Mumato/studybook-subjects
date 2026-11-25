@@ -1,0 +1,256 @@
+{
+  "name": "PHYS100",
+  "version": 1,
+  "description": "Conceptual Physics: how the physical world works, explained with ideas and pictures before equations.",
+  "intro": "intro.md",
+  "parts": [
+    {
+      "id": "motion",
+      "title": "Part 1: Describing motion",
+      "chapters": [
+        {
+          "id": "mot",
+          "title": "Speed, velocity and acceleration",
+          "lessons": [
+            "lessons/mot-01.md",
+            "lessons/mot-02.md",
+            "lessons/mot-03.md"
+          ],
+          "test": "tests/mot-test.md"
+        }
+      ]
+    },
+    {
+      "id": "newton",
+      "title": "Part 2: Newton's laws",
+      "chapters": [
+        {
+          "id": "nwt",
+          "title": "Force and Newton's laws",
+          "lessons": [
+            "lessons/nwt-01.md",
+            "lessons/nwt-02.md",
+            "lessons/nwt-03.md",
+            "lessons/nwt-04.md"
+          ],
+          "test": "tests/nwt-test.md"
+        }
+      ]
+    },
+    {
+      "id": "me",
+      "title": "Part 3: Momentum and energy",
+      "chapters": [
+        {
+          "id": "mom",
+          "title": "Momentum",
+          "lessons": [
+            "lessons/mom-01.md",
+            "lessons/mom-02.md"
+          ],
+          "test": "tests/mom-test.md"
+        },
+        {
+          "id": "enr",
+          "title": "Energy",
+          "lessons": [
+            "lessons/enr-01.md",
+            "lessons/enr-02.md",
+            "lessons/enr-03.md"
+          ],
+          "test": "tests/enr-test.md"
+        }
+      ]
+    },
+    {
+      "id": "rg",
+      "title": "Part 4: Rotation and gravity",
+      "chapters": [
+        {
+          "id": "rot",
+          "title": "Circular and rotational motion",
+          "lessons": [
+            "lessons/rot-01.md",
+            "lessons/rot-02.md",
+            "lessons/rot-03.md"
+          ],
+          "test": "tests/rot-test.md"
+        },
+        {
+          "id": "grv",
+          "title": "Gravity, projectiles and orbits",
+          "lessons": [
+            "lessons/grv-01.md",
+            "lessons/grv-02.md",
+            "lessons/grv-03.md"
+          ],
+          "test": "tests/grv-test.md"
+        }
+      ]
+    },
+    {
+      "id": "mid",
+      "title": "Midterm practice",
+      "chapters": [
+        {
+          "id": "mida",
+          "title": "Practice exam A",
+          "lessons": [],
+          "test": "tests/mida-test.md"
+        },
+        {
+          "id": "midb",
+          "title": "Practice exam B",
+          "lessons": [],
+          "test": "tests/midb-test.md"
+        }
+      ]
+    },
+    {
+      "id": "matter",
+      "title": "Part 5: Properties of matter",
+      "chapters": [
+        {
+          "id": "mat",
+          "title": "Solids, liquids and gases",
+          "lessons": [
+            "lessons/mat-01.md",
+            "lessons/mat-02.md",
+            "lessons/mat-03.md"
+          ],
+          "test": "tests/mat-test.md"
+        }
+      ]
+    },
+    {
+      "id": "heat",
+      "title": "Part 6: Heat",
+      "chapters": [
+        {
+          "id": "hea",
+          "title": "Temperature, heat and thermodynamics",
+          "lessons": [
+            "lessons/hea-01.md",
+            "lessons/hea-02.md",
+            "lessons/hea-03.md"
+          ],
+          "test": "tests/hea-test.md"
+        }
+      ]
+    },
+    {
+      "id": "waves",
+      "title": "Part 7: Waves and sound",
+      "chapters": [
+        {
+          "id": "wav",
+          "title": "Vibrations, waves and sound",
+          "lessons": [
+            "lessons/wav-01.md",
+            "lessons/wav-02.md",
+            "lessons/wav-03.md"
+          ],
+          "test": "tests/wav-test.md"
+        }
+      ]
+    },
+    {
+      "id": "em",
+      "title": "Part 8: Electricity and magnetism",
+      "chapters": [
+        {
+          "id": "ele",
+          "title": "Electricity",
+          "lessons": [
+            "lessons/ele-01.md",
+            "lessons/ele-02.md",
+            "lessons/ele-03.md"
+          ],
+          "test": "tests/ele-test.md"
+        },
+        {
+          "id": "mag",
+          "title": "Magnetism and induction",
+          "lessons": [
+            "lessons/mag-01.md",
+            "lessons/mag-02.md"
+          ],
+          "test": "tests/mag-test.md"
+        }
+      ]
+    },
+    {
+      "id": "light",
+      "title": "Part 9: Light",
+      "chapters": [
+        {
+          "id": "lig",
+          "title": "Light, colour and optics",
+          "lessons": [
+            "lessons/lig-01.md",
+            "lessons/lig-02.md",
+            "lessons/lig-03.md"
+          ],
+          "test": "tests/lig-test.md"
+        }
+      ]
+    },
+    {
+      "id": "atom",
+      "title": "Part 10: Atoms and nuclei",
+      "chapters": [
+        {
+          "id": "atm",
+          "title": "Quanta and the atom",
+          "lessons": [
+            "lessons/atm-01.md",
+            "lessons/atm-02.md"
+          ],
+          "test": "tests/atm-test.md"
+        },
+        {
+          "id": "nuc",
+          "title": "The nucleus",
+          "lessons": [
+            "lessons/nuc-01.md",
+            "lessons/nuc-02.md"
+          ],
+          "test": "tests/nuc-test.md"
+        }
+      ]
+    },
+    {
+      "id": "rel",
+      "title": "Part 11: Relativity",
+      "chapters": [
+        {
+          "id": "rel",
+          "title": "Special relativity",
+          "lessons": [
+            "lessons/rel-01.md",
+            "lessons/rel-02.md"
+          ],
+          "test": "tests/rel-test.md"
+        }
+      ]
+    },
+    {
+      "id": "fin",
+      "title": "Final practice",
+      "chapters": [
+        {
+          "id": "fina",
+          "title": "Practice exam A",
+          "lessons": [],
+          "test": "tests/fina-test.md"
+        },
+        {
+          "id": "finb",
+          "title": "Practice exam B",
+          "lessons": [],
+          "test": "tests/finb-test.md"
+        }
+      ]
+    }
+  ]
+}

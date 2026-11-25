@@ -1,0 +1,4 @@
+# Teachers of this course: one Minecraft username per line (capital letters don't matter).
+# Teachers can open a student's PHYS100 book and mark problems or lessons done, reset them, pass or clear tests, and add bookmarks.
+# Edit this file on GitHub; it takes effect within about a minute, no new mod or course version needed.
+Wimu
