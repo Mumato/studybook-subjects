@@ -14,9 +14,10 @@ With a few small marks and small characters, the 46 basic hiragana spell every s
 ![](assets/hir-dakuten.3x.png)
 
 ::: example
-- ぶた = **buta**, "pig"
-- きょう = **kyou**, "today"
-- がっこう = **gakkou**, "school"
+- !say[ぶた] = **buta**, "pig"
+- !say[きょう] = **kyou**, "today"
+- !say[がっこう] = **gakkou**, "school"
+- !say[おばさん] (aunt) vs !say[おばあさん] (grandmother)
 - びょういん = **byouin**, "hospital", but びよういん = **biyouin**, "beauty salon"! The small ょ matters.
 :::
 
@@ -54,9 +55,10 @@ solution: A small っ isn't pronounced as "tsu"; it holds the next consonant for
 :::
 
 ::: problem id=p7 type=choice
-Which word means "hospital"?
-- [x] びょういん
-- [ ] びよういん
+Listen: !listen[びょういん]
+Which word did you hear?
+- [x] びょういん (hospital)
+- [ ] びよういん (beauty salon)
 solution: びょういん (byouin) is a hospital; びよういん (biyouin), with a full-size よ, is a beauty salon.
 :::
 

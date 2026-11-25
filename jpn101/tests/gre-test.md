@@ -37,11 +37,12 @@ solution: わたしは せんせいです。
 :::
 
 ::: problem id=t6 type=choice
-Which sentence is a question?
-- [ ] がくせいです。
-- [x] がくせいですか。
-- [ ] がくせいじゃないです。
-solution: か at the end makes a question.
+Listen: !listen[m|がくせいですか。]
+What did you hear?
+- [ ] a statement: "I'm a student."
+- [x] a question: "Are you a student?"
+- [ ] a denial: "I'm not a student."
+solution: がくせいですか。 The か at the end makes it a question.
 :::
 
 ::: problem id=t7 type=choice

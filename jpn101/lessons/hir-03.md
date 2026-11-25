@@ -14,10 +14,10 @@ Halfway through the basic hiragana! This lesson adds the N and H rows, including
 ![](assets/hir-nh.3x.png)
 
 ::: example
-- ねこ = ne + ko = **neko**, "cat"
-- いぬ = i + nu = **inu**, "dog"
-- はな = ha + na = **hana**, "flower" (also "nose")
-- ほし = ho + shi = **hoshi**, "star"
+- !say[ねこ] = ne + ko = **neko**, "cat"
+- !say[いぬ] = i + nu = **inu**, "dog"
+- !say[はな] = ha + na = **hana**, "flower" (also "nose")
+- !say[ほし] = ho + shi = **hoshi**, "star"
 :::
 
 ::: problem id=p1 type=text answers="nu"
@@ -62,4 +62,11 @@ Which spells **hana** (flower)?
 - [ ] ほな
 - [ ] はね
 solution: は (ha) + な (na).
+:::
+
+::: problem id=p8 type=text answers="ふね"
+Listen: !listen[ふね]
+Type the word you hear (romaji turns into hiragana).
+hint: Two syllables: an H-row sound with "u", then an N-row sound with "e".
+solution: ふね (fune), "ship".
 :::

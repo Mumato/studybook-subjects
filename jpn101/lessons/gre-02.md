@@ -17,6 +17,8 @@ Meeting someone for the first time:
 
 はじめまして。わたしは たなか です。{日本|にほん}じん です。だいがくの いちねんせい です。よろしく おねがいします。
 
+!say[はじめまして。わたしは たなか です。にほんじん です。だいがくの いちねんせい です。よろしく おねがいします。]
+
 *Nice to meet you. I'm Tanaka. I'm Japanese. I'm a first-year university student. Pleased to meet you.*
 
 (Small text above a kanji, like the にほん over 日本, is **furigana**: it shows how to read the kanji.)
@@ -65,11 +67,12 @@ solution: はい (yes) and then repeat the statement.
 :::
 
 ::: problem id=p7 type=choice
-What is the small text above the kanji in {日本|にほん}?
-- [ ] a translation into English
-- [x] furigana: the reading of the kanji in hiragana
-- [ ] the stroke order
-solution: Furigana help learners (and children) read kanji they don't know yet.
+Listen: !listen[m|わたしは やまだ です。がくせい じゃないです。せんせい です。]
+What is Yamada's job?
+- [ ] student
+- [x] teacher
+- [ ] doctor
+solution: やまだ says: わたしは やまだ です。がくせい じゃないです。せんせい です。 "I'm Yamada. I'm not a student. I'm a teacher."
 :::
 
 ::: problem id=p8 type=choice creative=true

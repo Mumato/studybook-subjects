@@ -15,10 +15,12 @@ The five vowels come first, and every other row is a consonant plus these vowels
 
 ::: example
 Put syllables together to read words:
-- あか = a + ka = **aka**, "red"
-- いえ = i + e = **ie**, "house"
-- かお = ka + o = **kao**, "face"
-- こえ = ko + e = **koe**, "voice"
+- !say[あか] = a + ka = **aka**, "red"
+- !say[いえ] = i + e = **ie**, "house"
+- !say[かお] = ka + o = **kao**, "face"
+- !say[こえ] = ko + e = **koe**, "voice"
+
+Click ▶ to hear a word.
 
 Tip: き looks like a **key**, and く is a beak going "**ku**ku".
 :::
@@ -57,11 +59,12 @@ solution: か (ka) + お (o) = **kao**, "face".
 :::
 
 ::: problem id=p7 type=choice
-What does いえ mean?
-- [x] house
-- [ ] red
-- [ ] voice
-solution: いえ (ie) means "house".
+Listen: !listen[いえ]
+Which word did you hear?
+- [x] いえ
+- [ ] いけ
+- [ ] えい
+solution: You heard いえ (ie), "house". いけ (ike) is "pond"; えい (ei) has the vowels the other way round.
 :::
 
 ::: problem id=p8 type=choice

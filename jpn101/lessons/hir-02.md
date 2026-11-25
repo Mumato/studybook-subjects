@@ -14,10 +14,10 @@ Two more rows, and two surprises: a couple of characters don't follow the patter
 ![](assets/hir-st.3x.png)
 
 ::: example
-- すし = su + shi = **sushi**
-- たこ = ta + ko = **tako**, "octopus"
-- くつ = ku + tsu = **kutsu**, "shoes"
-- とけい = to + ke + i = **tokei**, "clock, watch"
+- !say[すし] = su + shi = **sushi**
+- !say[たこ] = ta + ko = **tako**, "octopus"
+- !say[くつ] = ku + tsu = **kutsu**, "shoes"
+- !say[とけい] = to + ke + i = **tokei**, "clock, watch"
 :::
 
 ::: problem id=p1 type=text answers="shi;si"
@@ -62,9 +62,10 @@ solution: くつ (kutsu) means "shoes".
 :::
 
 ::: problem id=p8 type=choice
-Which spells **tako** (octopus)?
+Listen: !listen[たこ]
+Which word did you hear?
 - [ ] たけ
 - [x] たこ
 - [ ] とこ
-solution: た (ta) + こ (ko).
+solution: You heard たこ (tako), "octopus".
 :::

@@ -12,6 +12,8 @@ You don't need a Japanese keyboard. When an answer is in Japanese, type **romaji
 - Katakana answers accept the same romaji, with `-` for the long mark ー: `ko-hi-` → コーヒー.
 - Answers asking for a **reading** ("type the reading of か") want romaji: `ka`.
 
+Click **▶** next to Japanese to hear it. Listening questions show **▶ Listen** with the words hidden: play it as often as you like. (Volume: Minecraft's Voice/Speech slider.)
+
 Small text above a kanji, like {日本|にほん}, is **furigana**: it tells you how to read it.
 
 ### How a lesson works
@@ -22,7 +24,9 @@ Every lesson gives you **a rule**, **a worked example** and then **practice prob
 
 - Part 1: Hiragana
 - Part 2: Greetings and introductions
-- More parts are on the way: katakana, numbers and time, shopping, verbs, particles, adjectives and kanji, plus **listening**, **speaking** and **handwriting** practice.
+- More parts are on the way: katakana, numbers and time, shopping, verbs, particles, adjectives and kanji, plus **speaking** and **handwriting** practice.
+
+Voices: VOICEVOX:No.7 and VOICEVOX:玄野武宏.
 
 Want only the problems? Name a book **JPN101 Workbook** (or **JPN101 WB**).
 

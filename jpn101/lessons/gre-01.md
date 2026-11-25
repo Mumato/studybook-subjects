@@ -5,14 +5,14 @@ title: Everyday greetings
 Greetings are the first thing you'll use, and Japanese has a set phrase for almost every everyday moment. Politeness matters: the longer form is usually the polite one.
 
 ::: rule
-- おはようございます: good morning (polite; with friends just おはよう)
-- こんにちは: hello, good afternoon (the final は is read **wa**: *konnichiwa*)
-- こんばんは: good evening (*konbanwa*)
-- さようなら: goodbye (for longer partings; with friends, じゃあね)
-- ありがとうございます: thank you (polite)
-- すみません: excuse me / I'm sorry
-- いただきます: said before eating; ごちそうさまでした: said after eating
-- おやすみなさい: good night (before bed)
+- !say[おはようございます]: good morning (polite; with friends just おはよう)
+- !say[こんにちは]: hello, good afternoon (the final は is read **wa**: *konnichiwa*)
+- !say[こんばんは]: good evening (*konbanwa*)
+- !say[さようなら]: goodbye (for longer partings; with friends, じゃあね)
+- !say[ありがとうございます]: thank you (polite)
+- !say[すみません]: excuse me / I'm sorry
+- !say[いただきます]: before eating; !say[ごちそうさまでした]: after eating
+- !say[おやすみなさい]: good night (before bed)
 :::
 
 ::: example
@@ -65,6 +65,15 @@ You step on someone's foot on a crowded train. What do you say?
 - [x] すみません
 - [ ] ありがとうございます
 solution: すみません is "excuse me" and "sorry".
+:::
+
+::: problem id=p8 type=choice
+Listen: !listen[こんばんは]
+When would you say what you heard?
+- [ ] in the morning
+- [ ] at lunchtime
+- [x] in the evening
+solution: You heard こんばんは (konbanwa), "good evening".
 :::
 
 ::: problem id=p7 type=text answers="おやすみなさい"

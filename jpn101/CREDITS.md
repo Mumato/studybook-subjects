@@ -7,3 +7,6 @@ Japanese text in the book and diagrams uses the **M PLUS 1p** font by the M+ Pro
 SIL Open Font License 1.1 (bundled with the StudyBook mod).
 
 Diagram sources are in `.src/` (SVG drawn by script, rendered to `assets/*.3x.png`).
+
+Audio was generated with VOICEVOX (https://voicevox.hiroshiba.jp/), offline text-to-speech:
+**VOICEVOX:No.7** (female voice, announcer style) and **VOICEVOX:玄野武宏** (male voice).

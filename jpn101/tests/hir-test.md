@@ -35,12 +35,10 @@ Which is **nu**?
 solution: ぬ (nu) has the loop at the end; め (me) doesn't.
 :::
 
-::: problem id=t7 type=choice
-Which spells **ocha** (green tea)?
-- [x] おちゃ
-- [ ] おちや
-- [ ] あちゃ
-solution: お (o) + ちゃ (cha, with a small ゃ).
+::: problem id=t7 type=text answers="おちゃ"
+Listen: !listen[おちゃ]
+Type the word you hear.
+solution: おちゃ (ocha), "green tea": お + ちゃ (with a small ゃ).
 :::
 
 ::: problem id=t8 type=choice

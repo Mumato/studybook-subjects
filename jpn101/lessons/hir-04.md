@@ -15,10 +15,10 @@ The last basic rows. After this lesson you can read every one of the 46 basic hi
 ![](assets/hir-mw.3x.png)
 
 ::: example
-- やま = **yama**, "mountain"
-- わたし = **watashi**, "I, me"
-- ほん = **hon**, "book"
-- せんせい = **sensei**, "teacher"
+- !say[やま] = **yama**, "mountain"
+- !say[わたし] = **watashi**, "I, me"
+- !say[ほん] = **hon**, "book"
+- !say[せんせい] = **sensei**, "teacher"
 :::
 
 ![All 46 basic hiragana](assets/hir-full.3x.png)
@@ -54,6 +54,12 @@ These pairs look alike. Which is **me**?
 - [ ] ぬ
 - [x] め
 solution: め is **me**; ぬ (**nu**) has an extra loop at the end.
+:::
+
+::: problem id=p8 type=text answers="よる"
+Listen: !listen[よる]
+Type the word you hear.
+solution: よる (yoru), "night".
 :::
 
 ::: problem id=p7 type=choice
