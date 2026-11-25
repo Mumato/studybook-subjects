@@ -9,11 +9,12 @@ How each practice item works:
 - Click **▶** to hear the model. Listen two or three times.
 - Click **● Record**, say the phrase, and click **■ Stop** (it also stops by itself after 8 seconds).
 - Click **▶ Me** to hear yourself, then the model again. Compare, and record again as often as you like.
+- Click **✔ Check** and the book listens to your recording and tells you whether it heard the right words. It checks the words, not your accent, so still compare with the model for rhythm. (The first time, it needs a one-time download.)
 - When you're happy, open the solution and mark yourself.
 
 What to listen for: the **rhythm** (each kana takes about the same time), **long vowels** (held twice as long), the short pause of a small っ, and は read **wa** as a particle.
 
-Your recordings stay on your computer and are deleted when you close the game. On a Mac, Minecraft may ask for microphone access the first time: allow it (or turn it on in System Settings, Privacy and Security, Microphone).
+Your recordings stay on your computer and are deleted when you close the game; the check runs on your computer too. On a Mac, Minecraft may ask for microphone access the first time: allow it (or turn it on in System Settings, Privacy and Security, Microphone).
 :::
 
 ::: example

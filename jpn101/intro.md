@@ -23,7 +23,7 @@ Every lesson gives you **a rule**, **a worked example** and then **practice prob
 ### The course
 
 - Part 1: Hiragana (with handwriting practice)
-- Part 2: Greetings and introductions, with speaking practice (record yourself and compare with the model)
+- Part 2: Greetings and introductions, with speaking practice (record yourself, compare with the model, and let the book check your words)
 - Part 3: Katakana
 - Part 4: Numbers, time and shopping
 - Part 5: Verbs and particles
