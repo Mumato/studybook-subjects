@@ -93,7 +93,7 @@ module.exports = {
 		s += `<ellipse cx="146" cy="88" rx="20" ry="9" fill="#E0D2C0" stroke="${C.ink}" stroke-width="1.2"/>`;
 		s += path("M112,82 L112,104 L124,104 L126,82", { fill: "#E0D2C0", sw: 1.2 });
 		s += text(52, 40, "frontal", { size: 8, bold: true }) + text(116, 26, "parietal", { size: 8, bold: true });
-		s += text(166, 52, "occipital", { size: 7, bold: true }) + text(104, 64, "temporal", { size: 8, bold: true });
+		s += text(156, 56, "occipital", { size: 7, bold: true }) + text(104, 64, "temporal", { size: 8, bold: true });
 		s += text(178, 104, "cerebellum", { size: 7, anchor: "end" }) + text(98, 104, "brainstem", { size: 7, anchor: "end" });
 		s += text(14, 96, "front", { size: 7, color: C.faint, anchor: "start" });
 		return svg(200, 108, s);

@@ -528,10 +528,10 @@
     },
     {
       "id": "psyc101",
-      "version": 1,
+      "version": 2,
       "files": {
         "CREDITS.md": "121eb224c203ac59c4061c6141dfce1655499732a1df66225d91087874a7887f",
-        "assets/bio-brain.3x.png": "b07af11365431efe9d4d50fd892a218aa30b9c6dabb08ba4bb27ac56a0763ca5",
+        "assets/bio-brain.3x.png": "9ff306a9a993e0cb5d6c0f613786d9f638f2afc8dd8df51f234f0ca25a18a370",
         "assets/bio-neuron.3x.png": "673890e3ccc144537c62831a0a4b1ad0627c0777d9960b85f089ac323c3da5f6",
         "assets/bio-synapse.3x.png": "983d82b96d9ab80fa9b2854c5393ecfd86bdafe3c9c0d325aca8d29bd9e6f20d",
         "assets/con-sleep.3x.png": "f1457e84ed5cd3c2ba0f94565aaaad1617260cace55491b6c2295786b69c1e36",
@@ -589,7 +589,7 @@
         "lessons/thk-01.md": "f4cdb8fd29ec29c610de92ed50f8d04e9fa3c50a061c49bf25b0f07ae31a50bf",
         "lessons/thk-02.md": "52f10bc8dee6c46e181894758aef2249ca5dc8ea13216d27a1b7437b1ed41d75",
         "lessons/thk-03.md": "d583f9837c992c7a2dff67116d1bc4ec6002cc77528f697ebd5cd251c318d599",
-        "subject.json": "5e7349304b1a8d3df7f8bc606c9f3481d789a6fc9897c66ed46dce32374a78e4",
+        "subject.json": "34dc97ad36be49de829d65b29cd2e2f4b76148b6ef18feb79995370432c0420f",
         "tests/bio-test.md": "26ad30166eb791d25372328aab9185e4141b417164871c58a4bf3eddbbc2dd7e",
         "tests/con-test.md": "5cc253a40fd6040f292edfba78bcaa115483d26cfb3ab59ef70bc5608e5d6285",
         "tests/dev-test.md": "e6d46e4ce9f51206c8ddedff08e6088130c05a270b29cf44557c36261840db47",

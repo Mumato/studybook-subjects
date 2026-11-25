@@ -1,6 +1,6 @@
 {
   "name": "PSYC101",
-  "version": 1,
+  "version": 2,
   "description": "Introduction to Psychology: how the mind and brain shape what we sense, learn, remember, feel and do.",
   "intro": "intro.md",
   "parts": [
