@@ -1,0 +1,298 @@
+Every word the lessons teach, part by part, in the order you meet them. Click ▶ to hear a word. Verbs are listed in their polite ます form, the form this course uses.
+
+### Part 1: Hiragana
+
+- !say[あか] red
+- !say[いえ] house
+- !say[かお] face
+- !say[こえ] voice
+- !say[すし] sushi
+- !say[たこ] octopus
+- !say[くつ] shoes
+- !say[とけい] clock, watch
+- !say[ねこ] cat
+- !say[いぬ] dog
+- !say[はな] flower; nose
+- !say[ほし] star
+- !say[やま] mountain
+- !say[わたし] I, me
+- !say[ほん] book
+- !say[せんせい] teacher
+- !say[ぶた] pig
+- !say[きょう] today
+- !say[がっこう] school
+- !say[きって] stamp
+- !say[おばさん] aunt
+- !say[おばあさん] grandmother
+- !say[びょういん] hospital
+- !say[びよういん] beauty salon
+
+### Part 2: Greetings and introductions
+
+- !say[おはようございます] good morning (polite); おはよう with friends
+- !say[こんにちは] hello, good afternoon
+- !say[こんばんは] good evening
+- !say[さようなら] goodbye; じゃあね with friends
+- !say[ありがとうございます] thank you
+- !say[すみません] excuse me; I'm sorry
+- !say[いただきます] said before eating
+- !say[ごちそうさまでした] said after eating
+- !say[おやすみなさい] good night
+- !say[はじめまして] nice to meet you
+- !say[よろしく おねがいします] pleased to meet you; please treat me well
+- !say[はい] yes
+- !say[いいえ] no
+- !say[なまえ] name
+- !say[がくせい] student
+- !say[だいがく] university
+- !say[いちねんせい] first-year student
+- !say[にほん] Japan
+- !say[にほんじん] Japanese person
+- !say[あなた] you (rarely used: say the person's name + さん)
+- !say[せんこう] major (subject)
+- !say[けいざい] economics
+- !say[かんこく] Korea
+- !say[だいがくいんせい] graduate student
+- !say[びじゅつ] art
+
+### Part 3: Katakana
+
+- !say[ケーキ] cake
+- !say[タクシー] taxi
+- !say[テニス] tennis
+- !say[アイス] ice cream
+- !say[コーヒー] coffee
+- !say[ベッド] bed
+- !say[カップ] cup
+- !say[ジュース] juice
+- !say[ミルク] milk
+- !say[サンドイッチ] sandwich
+- !say[ハンバーガー] hamburger
+- !say[フォーク] fork
+- !say[パーティー] party
+- !say[ウェブ] web
+- !say[バイオリン] violin
+
+### Part 4: Numbers, time and shopping
+
+- !say[いち] 1, !say[に] 2, !say[さん] 3, !say[よん] 4, !say[ご] 5
+- !say[ろく] 6, !say[なな] 7, !say[はち] 8, !say[きゅう] 9, !say[じゅう] 10
+- !say[ゼロ] zero
+- !say[ひゃく] hundred
+- !say[せん] thousand
+- !say[いちまん] ten thousand
+- !say[えん] yen
+- !say[でんわばんごう] phone number
+- !say[なんばん] what number?
+- !say[いくら] how much?
+- !say[ください] please (give me)
+- !say[これ] this one (near me)
+- !say[それ] that one (near you)
+- !say[あれ] that one over there
+- !say[どれ] which one?
+- !say[この] this (+ noun)
+- !say[その] that (+ noun, near you)
+- !say[あの] that (+ noun, over there)
+- !say[どの] which (+ noun)?
+- !say[ここ] here
+- !say[そこ] there (near you)
+- !say[あそこ] over there
+- !say[どこ] where?
+- !say[だれ] who?
+- !say[だれの] whose?
+- !say[かさ] umbrella
+- !say[かばん] bag
+- !say[トイレ] toilet
+- !say[いま] now
+- !say[なんじ] what time?
+- !say[じ] o'clock
+- !say[ふん] minute(s) (also ぷん)
+- !say[はん] half past
+- !say[ごぜん] a.m.
+- !say[ごご] p.m.
+- !say[じゅぎょう] class, lesson
+
+### Part 5: Verbs and particles
+
+- !say[たべます] eat
+- !say[のみます] drink
+- !say[いきます] go
+- !say[きます] come
+- !say[かえります] go home
+- !say[みます] see, watch
+- !say[よみます] read
+- !say[ききます] listen
+- !say[します] do
+- !say[べんきょうします] study
+- !say[おきます] get up
+- !say[ねます] sleep, go to bed
+- !say[あいます] meet
+- !say[でます] leave, go out
+- !say[あります] there is (things); have
+- !say[きのう] yesterday
+- !say[きょう] today
+- !say[あした] tomorrow
+- !say[まいにち] every day
+- !say[あさ] morning
+- !say[よる] evening, night
+- !say[こんばん] this evening
+- !say[しゅうまつ] weekend
+- !say[どようび] Saturday
+- !say[せんしゅう] last week
+- !say[こんしゅう] this week
+- !say[らいしゅう] next week
+- !say[いつも] always
+- !say[よく] often
+- !say[ときどき] sometimes
+- !say[あまり] not much (+ negative)
+- !say[ぜんぜん] not at all (+ negative)
+- !say[いっしょに] together
+- !say[ちょっと] a little; a bit (polite refusal)
+- !say[それから] after that
+- !say[でも] but
+- !say[ともだち] friend
+- !say[うち] home
+- !say[としょかん] library
+- !say[えいが] movie
+- !say[テレビ] TV
+- !say[しゅくだい] homework
+- !say[あさごはん] breakfast
+- !say[ひるごはん] lunch
+- !say[ばんごはん] dinner
+- !say[レストラン] restaurant
+- !say[しょくどう] cafeteria
+- !say[でんしゃ] train
+- !say[えき] station
+- !say[クラス] class
+- !say[にほんご] Japanese (language)
+- !say[いちにち] a day
+- !say[たいへん] tough, hard
+
+### Part 6: Adjectives
+
+- !say[おおきい] big
+- !say[ちいさい] small
+- !say[たかい] expensive; tall
+- !say[やすい] cheap
+- !say[おいしい] tasty
+- !say[おもしろい] interesting; funny
+- !say[むずかしい] difficult
+- !say[あたらしい] new
+- !say[たのしい] fun
+- !say[いい] good (past よかった)
+- !say[しずか] quiet
+- !say[きれい] pretty; clean
+- !say[げんき] lively, well
+- !say[ゆうめい] famous
+- !say[すき] liked (～が すきです: I like ～)
+- !say[だいすき] love, really like
+- !say[きらい] disliked
+- !say[ひま] free, not busy
+- !say[とても] very
+- !say[どんな] what kind of?
+- !say[まち] town
+- !say[おんがく] music
+- !say[やさい] vegetables
+- !say[りょこう] trip, travel
+- !say[てんき] weather
+- !say[ホテル] hotel
+
+### Part 7: Places, counting and dates
+
+- !say[います] there is (people, animals)
+- !say[うえ] on, above
+- !say[した] under, below
+- !say[なか] in, inside
+- !say[まえ] in front of
+- !say[うしろ] behind
+- !say[となり] next to
+- !say[ちかく] near
+- !say[みぎ] right
+- !say[ひだり] left
+- !say[そと] outside
+- !say[つくえ] desk
+- !say[いす] chair
+- !say[ぎんこう] bank
+- !say[ゆうびんきょく] post office
+- !say[ひとつ] one thing, !say[ふたつ] two, !say[みっつ] three, !say[よっつ] four, !say[いつつ] five
+- !say[むっつ] six, !say[ななつ] seven, !say[やっつ] eight, !say[ここのつ] nine, !say[とお] ten
+- !say[いくつ] how many?
+- !say[ひとり] one person, !say[ふたり] two people, !say[さんにん] three people, !say[よにん] four people
+- !say[なんにん] how many people?
+- !say[いっぽん] one (long thin thing), !say[なんぼん] how many (long thin things)?
+- !say[いちまい] one (flat thing)
+- !say[りんご] apple
+- !say[いちがつ] January, !say[しがつ] April, !say[しちがつ] July, !say[くがつ] September
+- !say[ついたち] the 1st, !say[ふつか] 2nd, !say[みっか] 3rd, !say[よっか] 4th, !say[いつか] 5th
+- !say[むいか] 6th, !say[なのか] 7th, !say[ようか] 8th, !say[ここのか] 9th, !say[とおか] 10th
+- !say[はつか] the 20th
+- !say[たんじょうび] birthday
+- !say[いつ] when?
+- !say[なんがつ なんにち] what date?
+
+### Part 8: More everyday Japanese
+
+- !say[も] too, also
+- !say[と] and (nouns); with (a person)
+- !say[から] from; because
+- !say[まで] until, as far as
+- !say[なんで] by what means? how?
+- !say[どうして] why?
+- !say[バス] bus
+- !say[はし] chopsticks
+- !say[あるいて] on foot
+- !say[はたらきます] work
+- !say[はなします] speak
+- !say[あけます] open
+- ～!say[たいです] want to ～
+- !say[なつやすみ] summer holidays
+- !say[うみ] sea
+- !say[あつい] hot
+- !say[すずしい] cool
+- !say[さむい] cold
+- !say[まど] window
+- !say[アニメ] anime
+- !say[かぞく] (my) family, !say[ごかぞく] (your) family
+- !say[ちち] (my) father, !say[おとうさん] (your) father
+- !say[はは] (my) mother, !say[おかあさん] (your) mother
+- !say[あに] (my) older brother, !say[おにいさん] (your) older brother
+- !say[あね] (my) older sister, !say[おねえさん] (your) older sister
+- !say[おとうと] (my) younger brother, !say[いもうと] (my) younger sister
+- !say[なんさい] how old?
+- !say[はたち] twenty years old
+- !say[せが たかい] tall
+- !say[かみが ながい] has long hair
+- !say[やさしい] kind
+- !say[あたまが いい] smart
+- !say[わかい] young
+- !say[ね] isn't it? (sentence ending)
+- !say[よ] you know (sentence ending)
+- !say[そうですね] that's right; let me see
+- !say[ごろ] around (a time)
+- !say[ぐらい] about (an amount)
+- !say[じかん] hour(s)
+- !say[わたしたち] we
+- !say[おてら] temple
+- !say[たくさん] many, a lot
+- !say[ふるい] old (things)
+
+### Part 9: Kanji
+
+- 一 !say[いち] one, 二 !say[に] two, 三 !say[さん] three, 四 !say[よん] four, 五 !say[ご] five
+- 六 !say[ろく] six, 七 !say[なな] seven, 八 !say[はち] eight, 九 !say[きゅう] nine, 十 !say[じゅう] ten
+- 百 !say[ひゃく] hundred, 千 !say[せん] thousand, 万 !say[まん] ten thousand, 円 !say[えん] yen
+- 日曜日 !say[にちようび] Sunday, 月曜日 !say[げつようび] Monday, 火曜日 !say[かようび] Tuesday
+- 水曜日 !say[すいようび] Wednesday, 木曜日 !say[もくようび] Thursday, 金曜日 !say[きんようび] Friday, 土曜日 !say[どようび] Saturday
+- 何曜日 !say[なんようび] which day of the week?
+- 時 !say[じ] o'clock, 分 !say[ふん] minute, 半 !say[はん] half, 今 !say[いま] now, 年 !say[ねん] year
+- 山 !say[やま] mountain, 川 !say[かわ] river, 人 !say[ひと] person, 口 !say[くち] mouth, 木 !say[き] tree, 田 !say[た] rice field
+- 大きい !say[おおきい] big, 小さい !say[ちいさい] small, 中 !say[なか] inside, middle
+- 学生 !say[がくせい] student, 先生 !say[せんせい] teacher, 大学 !say[だいがく] university, 日本 !say[にほん] Japan, 日本人 !say[にほんじん] Japanese person
+- 上 !say[うえ] up, on, 下 !say[した] down, under, 左 !say[ひだり] left, 右 !say[みぎ] right
+- 前 !say[まえ] in front, before, 後 !say[うしろ] behind, 外 !say[そと] outside
+- 父 !say[ちち] father, 母 !say[はは] mother, 男 !say[おとこ] man, 女 !say[おんな] woman, 子 !say[こ] child
+- 女の子 !say[おんなのこ] girl, 男の人 !say[おとこのひと] man, 外国人 !say[がいこくじん] foreigner
+- 午前 !say[ごぜん] a.m., 午後 !say[ごご] p.m.
+- 行きます !say[いきます] go, 来ます !say[きます] come, 見ます !say[みます] see
+- 食べます !say[たべます] eat, 飲みます !say[のみます] drink, 休みます !say[やすみます] rest
+- 読みます !say[よみます] read, 聞きます !say[ききます] listen, 来週 !say[らいしゅう] next week
