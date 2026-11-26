@@ -11,7 +11,7 @@ Long sentences in one breath:
 - **～んです** is said with a soft, almost swallowed ん: *itain desu*.
 - **かもしれません** falls gently at the end. It sounds unsure, and that's the point.
 
-Click **● Record**, **▶ Me** and **✔ Check** as in the other speaking lessons. Each model sentence takes about 4 seconds, well inside the 8-second recording.
+Click **● Record**, **▶ Me** and **✔ Check** as in the other speaking lessons. Each model sentence takes about 4 seconds, well inside the 15-second recording.
 :::
 
 ::: example

@@ -137,7 +137,7 @@
     },
     {
       "id": "jpn101",
-      "version": 12,
+      "version": 13,
       "files": {
         "CREDITS.md": "f341229b99723dbf666702a6145165b544431e66a211ac7883459831a76dcf19",
         "assets/audio/0076bd1708f4d359.ogg": "92e00db6d5bd208f6f4b4419ef53f5abeb2406e01c5504078acddd4db80b4afe",
@@ -857,7 +857,7 @@
         "lessons/adj-02.md": "9df3ce3163902bc41f4e283296b80514c2451e88d6addf4d949e93ce42a9ea4f",
         "lessons/gre-01.md": "94f1f8a1f38723c4b6c054bd40ccb0f96b4ed0ffb3f9e727998c3fc3b237b392",
         "lessons/gre-02.md": "17d245ec0a25b7b07b9a342e8ced6d51efe448fb561602ab40d37da5ebf2256e",
-        "lessons/gre-03.md": "85058be60fc820f34da7f36ad524c0c228d115e75a204214ff9beaacdf5b7631",
+        "lessons/gre-03.md": "e329c999b21db1148e460e9c3a77256382bdf1294964a3dcf647d866beb3baef",
         "lessons/gre-04.md": "b3d8d6070c9534eb14102ea58626c11905130237bd7510b40a55925cba03ccf6",
         "lessons/hir-01.md": "bddc8db132f289cda7d0ec4f169f70857a0493c3517ed3b5a4489a400e591685",
         "lessons/hir-02.md": "cd058656d4129b27d3f1e45798c9b207241f5cff9f06a1bce4aa56a4f07c174d",
@@ -890,7 +890,7 @@
         "lessons/vrb-03.md": "6b992870b258b2b1bb18400cc4222e78b8c5b5704a11b3f6ba33ae6f2e1b47eb",
         "lessons/vrb-04.md": "a867cfd02e9bc01d521cb84b216b95213039282d62a996c2834dae5651feced1",
         "lessons/vrb-05.md": "49cdfa62ef4ca34d79b0d29d2745d9f323577b502bb3d3807e0c7f8b6926c752",
-        "subject.json": "65c6d785c9a50e35b7c358ca8533a7463e053f0ecdc2146566e736e482cb1c7c",
+        "subject.json": "d4c1746ce09ec4489e51880c21a51017d56b83146631b513bfa10bfec2d48d3f",
         "tests/adj-test.md": "73b37ba089e334eef8a8bf1f9b1a990a14d009bd1a2e2328f23ec48a03396be9",
         "tests/gre-test.md": "0c7e6c1ba4500a543387d00c28bcb1dd2eaae1f31ff697e54ede3f3387fff222",
         "tests/hir-test.md": "f3450f46141d3d114e8ed5977aa6a0ea83691ae21034037e84bd1c4557dd9c36",
@@ -904,7 +904,7 @@
     },
     {
       "id": "jpn102",
-      "version": 4,
+      "version": 5,
       "files": {
         "CREDITS.md": "1d0d7be5896432338eef33f738aad03d3b8cd688b7e7430bc66c7d7240e11e56",
         "assets/audio/002e3bb82560da87.ogg": "1b96724dbec9b3fe98d746ae24c6592a956e3658c9ccb68d22c645860830d337",
@@ -1620,7 +1620,7 @@
         "lessons/cnd-02.md": "444f3b83d88ff4275c0a5a121748e15e3fd363d7500b253ccc29a1034d54ebe5",
         "lessons/cnd-03.md": "2bc1ccf7783803cd383540dccbfd2d872d49d9c581847a71f1c08def6ae63c79",
         "lessons/cnd-04.md": "3d53952c147b432b9df075930f900082df3570723d834f6804eb88d4bedd72af",
-        "lessons/cnd-05.md": "01b6b793c61c9be0e806adbca38692c55af792949b77b35eadf5bb02723a9586",
+        "lessons/cnd-05.md": "3acd3d25f13a612352c329d86772097c46ade6a5f83c0707a29bc9d77bbb98d3",
         "lessons/giv-01.md": "321eda9946f0b1efb26e177d5345a0c4a9d818fd464a790d75668e2372477ca0",
         "lessons/giv-02.md": "b75e4d64134f0230f90e78c4e9293b55363f8514fa55ac63520af3111057191d",
         "lessons/kan-01.md": "625727d09a5d23a7539b43b584303348d00a04f679f9d517def3cdd72a80b2a0",
@@ -1649,7 +1649,7 @@
         "lessons/tei-01.md": "cbe37d5bf2f45f743824ba7ffd6fb5522c3df5e4364048e320fb736f66c354af",
         "lessons/tei-02.md": "bd2a4ce588ad28e764e0d4eb788be2a8d21cc81d11eb46b1f77c7bf20050ff60",
         "lessons/tei-03.md": "d7f9ce2eec1d500717d1d3a8fd9108b9240afb000ef189869949317639ee23fd",
-        "subject.json": "51e7c89f8ea8e14b9aa1d4a053366dff98697ea8491eda9f53a4fa17f618bfe2",
+        "subject.json": "450912d58cf8e9a0ab551ad1e808a0b4d6d771d86ece246ad1a48fc4f6fd61b3",
         "tests/chg-test.md": "00ecb2932636905f76c68605375192920895583caec1924580130bd058b70924",
         "tests/cmp-test.md": "7f5e638fd20342e1c221ba349ea10814e2a229edf2f9c2b25f82a07cb80508f4",
         "tests/cnd-test.md": "6ceb42297f9d3fd01f3b6f14c008e0bbba9dab438e6f98bd7192f8d893f08e45",

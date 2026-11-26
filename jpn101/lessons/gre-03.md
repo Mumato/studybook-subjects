@@ -7,7 +7,7 @@ You learn to speak a language by speaking it. **Shadowing** is a technique langu
 ::: rule
 How each practice item works:
 - Click **▶** to hear the model. Listen two or three times.
-- Click **● Record**, say the phrase, and click **■ Stop** (it also stops by itself after 8 seconds).
+- Click **● Record**, say the phrase, and click **■ Stop** (it also stops by itself after 15 seconds).
 - Click **▶ Me** to hear yourself, then the model again. Compare, and record again as often as you like.
 - Click **✔ Check** and the book listens to your recording and tells you whether it heard the right words. It checks the words, not your accent, so still compare with the model for rhythm. (The first time, it needs a one-time download.)
 - When you're happy, open the solution and mark yourself.
@@ -65,7 +65,7 @@ Shadow the whole self-introduction. Pause where the model pauses.
 !say[はじめまして。わたしは たなか です。にほんじん です。だいがくの いちねんせい です。よろしく おねがいします。]
 **はじめまして。わたしは たなか です。にほんじん です。だいがくの いちねんせい です。よろしく おねがいします。**
 !speak[はじめまして。わたしは たなか です。にほんじん です。だいがくの いちねんせい です。よろしく おねがいします。]
-solution: Listen for the rhythm: each sentence ends with です, a falling, almost silent "desu". If 8 seconds runs out, record it in two halves.
+solution: Listen for the rhythm: each sentence ends with です, a falling, almost silent "desu". If 15 seconds runs out, record it in two halves.
 :::
 
 ::: problem id=p7 type=open
