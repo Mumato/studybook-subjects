@@ -27,6 +27,7 @@ Both っ beats are short pauses: *chot-to mat-te kudasai*.
 ::: problem id=p1 type=open
 At dinner, ask politely for the salt to be passed.
 !say[すみません、しおを とって ください。]
+**すみません、しおを とって ください。**
 !speak[すみません、しおを とって ください。]
 solution: すみません、しおを とって ください。 *sumimasen, shio o tot-te kudasai*. を sounds like "o".
 :::
@@ -34,6 +35,7 @@ solution: すみません、しおを とって ください。 *sumimasen, shio
 ::: problem id=p2 type=open
 You didn't catch that: ask your teacher to say it once more.
 !say[もう いちど いって ください。]
+**もう いちど いって ください。**
 !speak[もう いちど いって ください。]
 solution: もう いちど いって ください。 The most useful sentence in class. Hold the long o in もう.
 :::
@@ -41,6 +43,7 @@ solution: もう いちど いって ください。 The most useful sentence in
 ::: problem id=p3 type=open
 Ask someone to speak slowly.
 !say[ゆっくり はなして ください。]
+**ゆっくり はなして ください。**
 !speak[ゆっくり はなして ください。]
 solution: ゆっくり はなして ください。 *yuk-kuri hanashite kudasai*: the "shi" is almost whispered.
 :::
@@ -48,6 +51,7 @@ solution: ゆっくり はなして ください。 *yuk-kuri hanashite kudasai*
 ::: problem id=p4 type=open
 At a temple, ask whether you may take a photo.
 !say[しゃしんを とっても いいですか。]
+**しゃしんを とっても いいですか。**
 !speak[しゃしんを とっても いいですか。]
 solution: しゃしんを とっても いいですか。 Let your voice rise on the final か. いい is two beats: *i-i*.
 :::
@@ -55,6 +59,7 @@ solution: しゃしんを とっても いいですか。 Let your voice rise on
 ::: problem id=p5 type=open
 Tell a visitor that smoking isn't allowed here.
 !say[ここで たばこを すっては いけません。]
+**ここで たばこを すっては いけません。**
 !speak[ここで たばこを すっては いけません。]
 solution: ここで たばこを すっては いけません。 The particle は after て is read "wa": *sut-te wa ikemasen*.
 :::
@@ -62,6 +67,7 @@ solution: ここで たばこを すっては いけません。 The particle �
 ::: problem id=p6 type=open
 Describe your morning as three linked actions.
 !say[あさ おきて、シャワーを あびて、がっこうに いきます。]
+**あさ おきて、シャワーを あびて、がっこうに いきます。**
 !speak[あさ おきて、シャワーを あびて、がっこうに いきます。]
 solution: あさ おきて、シャワーを あびて、がっこうに いきます。 Make a small pause at each comma: the ～て forms carry the "and then".
 :::

@@ -17,6 +17,7 @@ Click **● Record**, **▶ Me** and **✔ Check** as in the other speaking less
 ::: example
 Say what you'll do if it rains: !say[あめが ふったら、うちで えいがを みます。]
 
+**あめが ふったら、うちで えいがを みます。**
 !speak[あめが ふったら、うちで えいがを みます。]
 
 One short pause after ふったら, then the main sentence.
@@ -25,6 +26,7 @@ One short pause after ふったら, then the main sentence.
 ::: problem id=p1 type=open
 Explain that you have to study because there's an exam tomorrow.
 !say[あしたは しけんが あるので、べんきょうしなければ なりません。]
+**あしたは しけんが あるので、べんきょうしなければ なりません。**
 !speak[あしたは しけんが あるので、べんきょうしなければ なりません。]
 solution: あしたは しけんが あるので、べんきょうしなければ なりません。 ので gives the reason, ～なければ なりません the obligation.
 :::
@@ -32,6 +34,7 @@ solution: あしたは しけんが あるので、べんきょうしなけれ�
 ::: problem id=p2 type=open
 Say you plan to go to Japan in the summer holidays.
 !say[なつやすみに にほんへ いく つもりです。]
+**なつやすみに にほんへ いく つもりです。**
 !speak[なつやすみに にほんへ いく つもりです。]
 solution: なつやすみに にほんへ いく つもりです。 へ is read "e". つもり follows the dictionary form.
 :::
@@ -39,6 +42,7 @@ solution: なつやすみに にほんへ いく つもりです。 へ is read 
 ::: problem id=p3 type=open
 Say a friend lent you a book (you received the favour).
 !say[ともだちに ほんを かして もらいました。]
+**ともだちに ほんを かして もらいました。**
 !speak[ともだちに ほんを かして もらいました。]
 solution: ともだちに ほんを かして もらいました。 ～て もらいました: I had my friend lend it to me.
 :::
@@ -46,6 +50,7 @@ solution: ともだちに ほんを かして もらいました。 ～て も�
 ::: problem id=p4 type=open
 Guess that it might snow tomorrow.
 !say[あしたは ゆきが ふるかもしれません。]
+**あしたは ゆきが ふるかもしれません。**
 !speak[あしたは ゆきが ふるかもしれません。]
 solution: あしたは ゆきが ふるかもしれません。 Let かもしれません fall softly.
 :::
@@ -60,6 +65,7 @@ solution: あたまが いたいんです。 ～んです explains your situatio
 ::: problem id=p6 type=open
 Say you often played in the park when you were a child.
 !say[こどもの とき、よく こうえんで あそびました。]
+**こどもの とき、よく こうえんで あそびました。**
 !speak[こどもの とき、よく こうえんで あそびました。]
 solution: こどもの とき、よく こうえんで あそびました。 Hold the long o in こうえん: *ko-o-en*.
 :::

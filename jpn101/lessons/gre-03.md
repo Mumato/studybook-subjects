@@ -63,6 +63,7 @@ solution: ko-n-ba-n-wa: five beats, both ん sounds held for a full beat, and th
 ::: problem id=p6 type=open
 Shadow the whole self-introduction. Pause where the model pauses.
 !say[はじめまして。わたしは たなか です。にほんじん です。だいがくの いちねんせい です。よろしく おねがいします。]
+**はじめまして。わたしは たなか です。にほんじん です。だいがくの いちねんせい です。よろしく おねがいします。**
 !speak[はじめまして。わたしは たなか です。にほんじん です。だいがくの いちねんせい です。よろしく おねがいします。]
 solution: Listen for the rhythm: each sentence ends with です, a falling, almost silent "desu". If 8 seconds runs out, record it in two halves.
 :::

@@ -53,6 +53,7 @@ solution: いいね、いく。 Two short sentences. Polite: いいですね。�
 ::: problem id=p5 type=open
 Explain that you stayed home yesterday because it rained.
 !say[きのうは あめだったから、うちに いた。]
+**きのうは あめだったから、うちに いた。**
 !speak[きのうは あめだったから、うちに いた。]
 solution: きのうは あめだったから、うちに いた。 The plain past だった and いた. Polite: あめでしたから、うちに いました。
 :::

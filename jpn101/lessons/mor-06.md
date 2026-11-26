@@ -19,6 +19,7 @@ What to listen for in whole sentences:
 ::: example
 Say you drink coffee every morning: !say[まいあさ コーヒーを のみます。]
 
+**まいあさ コーヒーを のみます。**
 !speak[まいあさ コーヒーを のみます。]
 
 コーヒー has two long sounds: *kō-hī*. Hold each one for two beats.
@@ -27,6 +28,7 @@ Say you drink coffee every morning: !say[まいあさ コーヒーを のみま�
 ::: problem id=p1 type=open
 Say you study at the library.
 !say[としょかんで べんきょうします。]
+**としょかんで べんきょうします。**
 !speak[としょかんで べんきょうします。]
 solution: としょかんで べんきょうします。 Both "o" sounds in としょかん are short, but べんきょう ends in a long o.
 :::
@@ -34,6 +36,7 @@ solution: としょかんで べんきょうします。 Both "o" sounds in と�
 ::: problem id=p2 type=open
 Invite someone to go to a movie together.
 !say[いっしょに えいがを みませんか。]
+**いっしょに えいがを みませんか。**
 !speak[いっしょに えいがを みませんか。]
 solution: いっしょに えいがを みませんか。 The small っ in いっしょ is a short pause: *is-sho*. Rise on the final か.
 :::
@@ -41,6 +44,7 @@ solution: いっしょに えいがを みませんか。 The small っ in い�
 ::: problem id=p3 type=open
 Say this ramen is very delicious.
 !say[この ラーメンは とても おいしいです。]
+**この ラーメンは とても おいしいです。**
 !speak[この ラーメンは とても おいしいです。]
 solution: この ラーメンは とても おいしいです。 Hold the long ā in ラーメン, and read は as "wa".
 :::
@@ -48,6 +52,7 @@ solution: この ラーメンは とても おいしいです。 Hold the long �
 ::: problem id=p4 type=open
 Ask where the station is.
 !say[すみません、えきは どこですか。]
+**すみません、えきは どこですか。**
 !speak[すみません、えきは どこですか。]
 solution: すみません、えきは どこですか。 A tiny pause after すみません, then one smooth question.
 :::
@@ -55,6 +60,7 @@ solution: すみません、えきは どこですか。 A tiny pause after す�
 ::: problem id=p5 type=open
 Say there's a cat under the table.
 !say[テーブルの したに ねこが います。]
+**テーブルの したに ねこが います。**
 !speak[テーブルの したに ねこが います。]
 solution: テーブルの したに ねこが います。 います, because a cat is alive. The "shi" in した is almost whispered.
 :::
@@ -69,6 +75,7 @@ solution: にほんに いきたいです。 ～たい takes the ます-stem: �
 ::: problem id=p7 type=open
 Say you went to Kyoto with a friend last weekend.
 !say[せんしゅうまつ ともだちと きょうとへ いきました。]
+**せんしゅうまつ ともだちと きょうとへ いきました。**
 !speak[せんしゅうまつ ともだちと きょうとへ いきました。]
 solution: せんしゅうまつ ともだちと きょうとへ いきました。 Hold the long sounds in しゅう and きょう; へ is read "e".
 :::
