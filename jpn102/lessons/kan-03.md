@@ -106,3 +106,8 @@ solution: 早 has 6 strokes. 日 on top (four strokes), then the horizontal and 
 Write 雨 **rain**.
 solution: 雨 has 8 strokes. The top bar, the short vertical, the frame with its hook, the middle vertical, then the four drops, left side first.
 :::
+
+::: problem id=p13 type=draw answer="気"
+Write 気 **spirit**.
+solution: 気 has 6 strokes. The short slanted stroke, two horizontals, the long hooked stroke, then the cross (メ) inside.
+:::

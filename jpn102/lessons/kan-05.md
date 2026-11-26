@@ -105,3 +105,8 @@ solution: 正 has 5 strokes. The top bar, the short vertical in the middle, the 
 Write 少 **a little**.
 solution: 少 has 4 strokes. The vertical with its hook, the left dot, the right dot, then the long sweep to the left.
 :::
+
+::: problem id=p13 type=draw answer="赤"
+Write 赤 **red**.
+solution: 赤 has 7 strokes. 土 on top (three strokes), then the four strokes underneath, left to right.
+:::

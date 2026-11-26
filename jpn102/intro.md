@@ -12,7 +12,7 @@ This semester is where Japanese opens up. The **て-form** lets you make request
 - Writing drills: draw each kanji with the mouse; **▶ Strokes** shows the order.
 - Kanji you haven't learned yet appear with **furigana** (small kana above them).
 
-Every lesson gives you **a rule**, **an example** and **practice problems**. Each part ends with a **test**, and there's a **midterm review** after Part 5 and a **final review** at the end, mixing everything, like a real course.
+Every lesson gives you **a rule**, **an example** and **practice problems**. Three parts end with a **reading lesson**: a letter, an email to a professor and an end-of-year essay, with comprehension questions and audio of the whole text. Each part ends with a **test**, and there's a **midterm review** after Part 5 and a **final review** at the end, mixing everything, like a real course.
 
 ### The course
 
@@ -26,7 +26,8 @@ Every lesson gives you **a rule**, **an example** and **practice problems**. Eac
 - Part 7: Giving and receiving
 - Part 8: Time, reasons and conditions: ～とき, ～たら, ～ので, ～んです
 - Part 9: Ability and change: the potential form and ～なる
-- Part 10: Kanji: about 80 more
+- Part 10: More useful patterns: ～ないで, ～まえに/あとで, ～ながら, なにか/なにも, や, ～のが好き, ～にいく, もう/まだ
+- Part 11: Kanji: about 80 more
 - Final review
 
 Voices: VOICEVOX:No.7 and VOICEVOX:玄野武宏.

@@ -18,7 +18,7 @@ Small text above a kanji, like {日本|にほん}, is **furigana**: it tells you
 
 ### How a lesson works
 
-Every lesson gives you **a rule**, **a worked example** and then **practice problems**. Wrong answers go on your **Review mistakes** list on the contents page. Each chapter ends with a **test**: score 80% to complete it.
+Every lesson gives you **a rule**, **a worked example** and then **practice problems**. Some parts end with a **reading lesson**: a short real-life text (a message board, a diary, an email) with comprehension questions and audio of the whole passage. Wrong answers go on your **Review mistakes** list on the contents page. Each chapter ends with a **test**: score 80% to complete it.
 
 ### The course
 

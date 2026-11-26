@@ -106,3 +106,8 @@ solution: 自 has 6 strokes. The short top stroke, then 目 underneath.
 Write 名 **name**.
 solution: 名 has 6 strokes. 夕 on top (three strokes), then 口 underneath.
 :::
+
+::: problem id=p13 type=draw answer="作"
+Write 作 **make**.
+solution: 作 has 7 strokes. The person 亻 on the left, then the right side: the slanted stroke, the top bar, the vertical, and the two short bars.
+:::

@@ -101,3 +101,13 @@ solution: 何 has 7 strokes. The person 亻 on the left (two strokes), then 可 
 Write 有 **have, exist**.
 solution: 有 has 6 strokes. The sweep left and the horizontal (in that order, like 右 and unlike 左), then 月 underneath.
 :::
+
+::: problem id=p12 type=draw answer="画"
+Write 画 **picture**.
+solution: 画 has 8 strokes. The top bar, then 田 in the middle, then the open box around it: the left side, then the bottom and right side.
+:::
+
+::: problem id=p13 type=draw answer="紙"
+Write 紙 **paper**.
+solution: 紙 has 10 strokes. 糸 on the left (six strokes), then 氏 on the right.
+:::

@@ -1,6 +1,6 @@
 {
   "name": "JPN102",
-  "version": 1,
+  "version": 2,
   "description": "Elementary Japanese II: the て-form, plain forms and casual speech, comparisons, giving and receiving, conditions, the potential form and 80 more kanji.",
   "intro": "intro.md",
   "parts": [
@@ -29,7 +29,8 @@
           "title": "What's happening and how things are",
           "lessons": [
             "lessons/tei-01.md",
-            "lessons/tei-02.md"
+            "lessons/tei-02.md",
+            "lessons/tei-03.md"
           ],
           "test": "tests/tei-test.md"
         }
@@ -141,7 +142,8 @@
           "lessons": [
             "lessons/cnd-01.md",
             "lessons/cnd-02.md",
-            "lessons/cnd-03.md"
+            "lessons/cnd-03.md",
+            "lessons/cnd-04.md"
           ],
           "test": "tests/cnd-test.md"
         }
@@ -156,15 +158,32 @@
           "title": "Can do, and becoming",
           "lessons": [
             "lessons/chg-01.md",
-            "lessons/chg-02.md"
+            "lessons/chg-02.md",
+            "lessons/chg-03.md"
           ],
           "test": "tests/chg-test.md"
         }
       ]
     },
     {
+      "id": "pat",
+      "title": "Part 10: More useful patterns",
+      "chapters": [
+        {
+          "id": "pat",
+          "title": "Before, while, nothing, not yet",
+          "lessons": [
+            "lessons/pat-01.md",
+            "lessons/pat-02.md",
+            "lessons/pat-03.md"
+          ],
+          "test": "tests/pat-test.md"
+        }
+      ]
+    },
+    {
       "id": "kan",
-      "title": "Part 10: Kanji",
+      "title": "Part 11: Kanji",
       "chapters": [
         {
           "id": "kan",

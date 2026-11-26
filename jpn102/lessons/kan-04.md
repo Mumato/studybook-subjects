@@ -105,3 +105,8 @@ solution: 出 has 5 strokes. The centre vertical first, then the small upper box
 Write 言 **say**.
 solution: 言 has 7 strokes. The dot, three horizontals (top longest), then 口 underneath.
 :::
+
+::: problem id=p13 type=draw answer="知"
+Write 知 **know**.
+solution: 知 has 8 strokes. 矢 on the left (five strokes), then 口 on the right.
+:::

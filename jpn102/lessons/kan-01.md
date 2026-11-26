@@ -105,3 +105,8 @@ solution: 町 has 7 strokes. 田 on the left (five strokes), then 丁 on the rig
 Write 車 **car**.
 solution: 車 has 7 strokes. Top bar, then the box with its middle line, the bar below it, and the long vertical through everything last.
 :::
+
+::: problem id=p13 type=draw answer="会"
+Write 会 **meet**.
+solution: 会 has 6 strokes. The roof (two strokes), the two horizontals, then ム underneath.
+:::

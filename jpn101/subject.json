@@ -1,6 +1,6 @@
 {
   "name": "JPN101",
-  "version": 9,
+  "version": 10,
   "description": "Elementary Japanese I: hiragana, katakana, everyday conversation and your first kanji, from zero.",
   "intro": "intro.md",
   "parts": [
@@ -32,7 +32,8 @@
           "lessons": [
             "lessons/gre-01.md",
             "lessons/gre-02.md",
-            "lessons/gre-03.md"
+            "lessons/gre-03.md",
+            "lessons/gre-04.md"
           ],
           "test": "tests/gre-test.md"
         }
@@ -64,7 +65,8 @@
           "lessons": [
             "lessons/num-01.md",
             "lessons/num-02.md",
-            "lessons/num-03.md"
+            "lessons/num-03.md",
+            "lessons/num-04.md"
           ],
           "test": "tests/num-test.md"
         }
@@ -81,7 +83,8 @@
             "lessons/vrb-01.md",
             "lessons/vrb-02.md",
             "lessons/vrb-03.md",
-            "lessons/vrb-04.md"
+            "lessons/vrb-04.md",
+            "lessons/vrb-05.md"
           ],
           "test": "tests/vrb-test.md"
         }
@@ -128,7 +131,9 @@
           "lessons": [
             "lessons/mor-01.md",
             "lessons/mor-02.md",
-            "lessons/mor-03.md"
+            "lessons/mor-03.md",
+            "lessons/mor-04.md",
+            "lessons/mor-05.md"
           ],
           "test": "tests/mor-test.md"
         }
