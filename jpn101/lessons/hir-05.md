@@ -84,3 +84,18 @@ solution: が has 5 strokes. Write か first, then the two dakuten dots at the t
 Write !say[ぱ] **pa**.
 solution: ぱ has 4 strokes. Write は first, then the small handakuten circle at the top right.
 :::
+
+::: problem id=p11 type=draw answer="ざ"
+Write !say[ざ] **za**.
+solution: ざ has 5 strokes. Write さ first, then the two dakuten dots at the top right.
+:::
+
+::: problem id=p12 type=draw answer="だ"
+Write !say[だ] **da**.
+solution: だ has 6 strokes. Write た first, then the two dakuten dots at the top right.
+:::
+
+::: problem id=p13 type=draw answer="ば"
+Write !say[ば] **ba**.
+solution: ば has 5 strokes. Write は first, then the two dakuten dots at the top right.
+:::

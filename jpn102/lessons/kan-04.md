@@ -110,3 +110,48 @@ solution: 言 has 7 strokes. The dot, three horizontals (top longest), then 口 
 Write 知 **know**.
 solution: 知 has 8 strokes. 矢 on the left (five strokes), then 口 on the right.
 :::
+
+::: problem id=p14 type=draw answer="話"
+Write 話 **speak**.
+solution: 話 has 13 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p15 type=draw answer="書"
+Write 書 **write**.
+solution: 書 has 10 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p16 type=draw answer="思"
+Write 思 **think**.
+solution: 思 has 9 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p17 type=draw answer="住"
+Write 住 **live**.
+solution: 住 has 7 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p18 type=draw answer="起"
+Write 起 **get up**.
+solution: 起 has 10 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p19 type=draw answer="帰"
+Write 帰 **return home**.
+solution: 帰 has 10 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p20 type=draw answer="持"
+Write 持 **hold**.
+solution: 持 has 9 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p21 type=draw answer="売"
+Write 売 **sell**.
+solution: 売 has 7 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p22 type=draw answer="買"
+Write 買 **buy**.
+solution: 買 has 12 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::

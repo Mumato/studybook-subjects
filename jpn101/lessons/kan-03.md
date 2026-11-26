@@ -107,3 +107,43 @@ solution: 川 has 3 strokes. Left to right: the curving left stroke, the short m
 Write 口 **mouth**.
 solution: 口 has 3 strokes. The left side, then the top and right side in one stroke, then the bottom.
 :::
+
+::: problem id=p13 type=draw answer="田"
+Write 田 **rice field**.
+solution: 田 has 5 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p14 type=draw answer="大"
+Write 大 **big**.
+solution: 大 has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p15 type=draw answer="小"
+Write 小 **small**.
+solution: 小 has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p16 type=draw answer="中"
+Write 中 **inside, middle**.
+solution: 中 has 4 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p17 type=draw answer="学"
+Write 学 **study (学生, 大学)**.
+solution: 学 has 8 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p18 type=draw answer="生"
+Write 生 **life, birth (学生)**.
+solution: 生 has 5 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p19 type=draw answer="先"
+Write 先 **ahead (先生)**.
+solution: 先 has 6 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p20 type=draw answer="本"
+Write 本 **book; origin (日本)**.
+solution: 本 has 5 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::

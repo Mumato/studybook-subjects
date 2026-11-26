@@ -101,3 +101,108 @@ solution: ワ has 2 strokes. The short stroke down on the left, then the stroke 
 Write !say[ル] **ru**.
 solution: ル has 2 strokes. The left stroke curving down, then the right stroke down with a flick up to the right.
 :::
+
+::: problem id=p12 type=draw answer="ハ"
+Write !say[ハ] **ha**.
+solution: ハ has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p13 type=draw answer="ヒ"
+Write !say[ヒ] **hi**.
+solution: ヒ has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p14 type=draw answer="ヘ"
+Write !say[ヘ] **he**.
+solution: ヘ has 1 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p15 type=draw answer="ホ"
+Write !say[ホ] **ho**.
+solution: ホ has 4 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p16 type=draw answer="マ"
+Write !say[マ] **ma**.
+solution: マ has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p17 type=draw answer="ミ"
+Write !say[ミ] **mi**.
+solution: ミ has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p18 type=draw answer="ム"
+Write !say[ム] **mu**.
+solution: ム has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p19 type=draw answer="モ"
+Write !say[モ] **mo**.
+solution: モ has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p20 type=draw answer="ヤ"
+Write !say[ヤ] **ya**.
+solution: ヤ has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p21 type=draw answer="ユ"
+Write !say[ユ] **yu**.
+solution: ユ has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p22 type=draw answer="ヨ"
+Write !say[ヨ] **yo**.
+solution: ヨ has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p23 type=draw answer="ラ"
+Write !say[ラ] **ra**.
+solution: ラ has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p24 type=draw answer="リ"
+Write !say[リ] **ri**.
+solution: リ has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p25 type=draw answer="レ"
+Write !say[レ] **re**.
+solution: レ has 1 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p26 type=draw answer="ロ"
+Write !say[ロ] **ro**.
+solution: ロ has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p27 type=draw answer="ガ"
+Write !say[ガ] **ga**.
+solution: ガ has 4 strokes. Write カ first, then the two dakuten dots at the top right.
+:::
+
+::: problem id=p28 type=draw answer="ザ"
+Write !say[ザ] **za**.
+solution: ザ has 5 strokes. Write サ first, then the two dakuten dots at the top right.
+:::
+
+::: problem id=p29 type=draw answer="ダ"
+Write !say[ダ] **da**.
+solution: ダ has 5 strokes. Write タ first, then the two dakuten dots at the top right.
+:::
+
+::: problem id=p30 type=draw answer="バ"
+Write !say[バ] **ba**.
+solution: バ has 4 strokes. Write ハ first, then the two dakuten dots at the top right.
+:::
+
+::: problem id=p31 type=draw answer="パ"
+Write !say[パ] **pa**.
+solution: パ has 3 strokes. Write ハ first, then the small handakuten circle at the top right.
+:::
+
+::: problem id=p32 type=draw answer="ヲ"
+Write ヲ **o** (the katakana for the particle を: you'll rarely need it, but it completes the set).
+solution: ヲ has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::

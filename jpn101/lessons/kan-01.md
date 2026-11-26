@@ -93,3 +93,58 @@ solution: 十 has 2 strokes. The horizontal bar first, then the vertical stroke 
 Write 円 **yen**.
 solution: 円 has 4 strokes. The left side, the top and right side in one stroke, the short vertical in the middle, then the bar across the bottom of the box.
 :::
+
+::: problem id=p12 type=draw answer="一"
+Write 一 **one**.
+solution: 一 has 1 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p13 type=draw answer="二"
+Write 二 **two**.
+solution: 二 has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p14 type=draw answer="四"
+Write 四 **four**.
+solution: 四 has 5 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p15 type=draw answer="五"
+Write 五 **five**.
+solution: 五 has 4 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p16 type=draw answer="六"
+Write 六 **six**.
+solution: 六 has 4 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p17 type=draw answer="七"
+Write 七 **seven**.
+solution: 七 has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p18 type=draw answer="八"
+Write 八 **eight**.
+solution: 八 has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p19 type=draw answer="九"
+Write 九 **nine**.
+solution: 九 has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p20 type=draw answer="百"
+Write 百 **hundred**.
+solution: 百 has 6 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p21 type=draw answer="千"
+Write 千 **thousand**.
+solution: 千 has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p22 type=draw answer="万"
+Write 万 **ten thousand**.
+solution: 万 has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::

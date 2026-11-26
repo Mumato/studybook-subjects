@@ -109,3 +109,38 @@ solution: 木 has 4 strokes. The bar, the vertical stroke, then the sweep down l
 Write 水 **water**.
 solution: 水 has 4 strokes. The centre stroke with a hook first, then the left side, then the right side's two sweeps.
 :::
+
+::: problem id=p13 type=draw answer="火"
+Write 火 **fire (Tuesday)**.
+solution: 火 has 4 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p14 type=draw answer="金"
+Write 金 **gold, money (Friday)**.
+solution: 金 has 8 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p15 type=draw answer="土"
+Write 土 **earth (Saturday)**.
+solution: 土 has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p16 type=draw answer="時"
+Write 時 **time, o'clock**.
+solution: 時 has 10 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p17 type=draw answer="分"
+Write 分 **minute**.
+solution: 分 has 4 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p18 type=draw answer="半"
+Write 半 **half**.
+solution: 半 has 5 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p19 type=draw answer="今"
+Write 今 **now**.
+solution: 今 has 4 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::

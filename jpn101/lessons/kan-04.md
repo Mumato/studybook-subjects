@@ -114,3 +114,48 @@ solution: 女 has 3 strokes. The bent stroke from the top, the sweep down to the
 Write 男 **man**.
 solution: 男 has 7 strokes. The field 田 first (five strokes), then 力 underneath.
 :::
+
+::: problem id=p14 type=draw answer="左"
+Write 左 **left**.
+solution: 左 has 5 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p15 type=draw answer="右"
+Write 右 **right**.
+solution: 右 has 5 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p16 type=draw answer="前"
+Write 前 **in front, before**.
+solution: 前 has 9 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p17 type=draw answer="後"
+Write 後 **behind, after**.
+solution: 後 has 9 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p18 type=draw answer="外"
+Write 外 **outside**.
+solution: 外 has 5 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p19 type=draw answer="父"
+Write 父 **father**.
+solution: 父 has 4 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p20 type=draw answer="母"
+Write 母 **mother**.
+solution: 母 has 5 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p21 type=draw answer="国"
+Write 国 **country**.
+solution: 国 has 8 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p22 type=draw answer="午"
+Write 午 **noon (午前, 午後)**.
+solution: 午 has 4 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::

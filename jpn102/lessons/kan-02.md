@@ -111,3 +111,38 @@ solution: 名 has 6 strokes. 夕 on top (three strokes), then 口 underneath.
 Write 作 **make**.
 solution: 作 has 7 strokes. The person 亻 on the left, then the right side: the slanted stroke, the top bar, the vertical, and the two short bars.
 :::
+
+::: problem id=p14 type=draw answer="私"
+Write 私 **I**.
+solution: 私 has 7 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p15 type=draw answer="家"
+Write 家 **house**.
+solution: 家 has 10 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p16 type=draw answer="仕"
+Write 仕 **serve (仕事)**.
+solution: 仕 has 5 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p17 type=draw answer="事"
+Write 事 **thing, matter (仕事)**.
+solution: 事 has 8 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p18 type=draw answer="員"
+Write 員 **member (会社員)**.
+solution: 員 has 10 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p19 type=draw answer="働"
+Write 働 **work**.
+solution: 働 has 13 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p20 type=draw answer="使"
+Write 使 **use**.
+solution: 使 has 8 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::

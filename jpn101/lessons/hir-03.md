@@ -91,3 +91,38 @@ solution: ひ has 1 stroke: a small dip, a big U, and a little flick up at the e
 Write !say[ふ] **fu**.
 solution: ふ has 4 strokes. Top dot, the middle curve, then the two side dots, left then right.
 :::
+
+::: problem id=p12 type=draw answer="に"
+Write !say[に] **ni**.
+solution: に has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p13 type=draw answer="ぬ"
+Write !say[ぬ] **nu**.
+solution: ぬ has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p14 type=draw answer="ね"
+Write !say[ね] **ne**.
+solution: ね has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p15 type=draw answer="の"
+Write !say[の] **no**.
+solution: の has 1 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p16 type=draw answer="は"
+Write !say[は] **ha**.
+solution: は has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p17 type=draw answer="へ"
+Write !say[へ] **he**.
+solution: へ has 1 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p18 type=draw answer="ほ"
+Write !say[ほ] **ho**.
+solution: ほ has 4 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::

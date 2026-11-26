@@ -110,3 +110,48 @@ solution: 車 has 7 strokes. Top bar, then the box with its middle line, the bar
 Write 会 **meet**.
 solution: 会 has 6 strokes. The roof (two strokes), the two horizontals, then ム underneath.
 :::
+
+::: problem id=p14 type=draw answer="東"
+Write 東 **east**.
+solution: 東 has 8 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p15 type=draw answer="南"
+Write 南 **south**.
+solution: 南 has 9 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p16 type=draw answer="京"
+Write 京 **capital (東京)**.
+solution: 京 has 8 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p17 type=draw answer="市"
+Write 市 **city**.
+solution: 市 has 5 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p18 type=draw answer="道"
+Write 道 **road**.
+solution: 道 has 12 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p19 type=draw answer="所"
+Write 所 **place**.
+solution: 所 has 8 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p20 type=draw answer="電"
+Write 電 **electricity**.
+solution: 電 has 13 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p21 type=draw answer="旅"
+Write 旅 **journey (旅行)**.
+solution: 旅 has 10 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p22 type=draw answer="社"
+Write 社 **company (会社)**.
+solution: 社 has 7 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::

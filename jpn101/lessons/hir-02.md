@@ -90,3 +90,38 @@ solution: し has 1 stroke: straight down, then curve up to the right.
 Write !say[つ] **tsu**.
 solution: つ has 1 stroke: across and over, curving down to the left.
 :::
+
+::: problem id=p12 type=draw answer="す"
+Write !say[す] **su**.
+solution: す has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p13 type=draw answer="せ"
+Write !say[せ] **se**.
+solution: せ has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p14 type=draw answer="そ"
+Write !say[そ] **so**.
+solution: そ has 1 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p15 type=draw answer="た"
+Write !say[た] **ta**.
+solution: た has 4 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p16 type=draw answer="ち"
+Write !say[ち] **chi**.
+solution: ち has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p17 type=draw answer="て"
+Write !say[て] **te**.
+solution: て has 1 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p18 type=draw answer="と"
+Write !say[と] **to**.
+solution: と has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::

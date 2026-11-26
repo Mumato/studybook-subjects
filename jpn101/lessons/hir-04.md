@@ -91,3 +91,68 @@ solution: る has 1 stroke: across, a long zigzag down, ending in a small loop a
 Write !say[ん] **n**.
 solution: ん has 1 stroke: down to the left, back up, then down and flick up to the right.
 :::
+
+::: problem id=p12 type=draw answer="ま"
+Write !say[ま] **ma**.
+solution: ま has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p13 type=draw answer="み"
+Write !say[み] **mi**.
+solution: み has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p14 type=draw answer="む"
+Write !say[む] **mu**.
+solution: む has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p15 type=draw answer="も"
+Write !say[も] **mo**.
+solution: も has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p16 type=draw answer="や"
+Write !say[や] **ya**.
+solution: や has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p17 type=draw answer="ゆ"
+Write !say[ゆ] **yu**.
+solution: ゆ has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p18 type=draw answer="よ"
+Write !say[よ] **yo**.
+solution: よ has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p19 type=draw answer="ら"
+Write !say[ら] **ra**.
+solution: ら has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p20 type=draw answer="り"
+Write !say[り] **ri**.
+solution: り has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p21 type=draw answer="れ"
+Write !say[れ] **re**.
+solution: れ has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p22 type=draw answer="ろ"
+Write !say[ろ] **ro**.
+solution: ろ has 1 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p23 type=draw answer="わ"
+Write !say[わ] **wa**.
+solution: わ has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p24 type=draw answer="を"
+Write !say[を] **o**.
+solution: を has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::

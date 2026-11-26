@@ -111,3 +111,43 @@ solution: 雨 has 8 strokes. The top bar, the short vertical, the frame with its
 Write 気 **spirit**.
 solution: 気 has 6 strokes. The short slanted stroke, two horizontals, the long hooked stroke, then the cross (メ) inside.
 :::
+
+::: problem id=p14 type=draw answer="毎"
+Write 毎 **every**.
+solution: 毎 has 6 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p15 type=draw answer="朝"
+Write 朝 **morning**.
+solution: 朝 has 12 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p16 type=draw answer="夜"
+Write 夜 **night**.
+solution: 夜 has 8 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p17 type=draw answer="昔"
+Write 昔 **long ago**.
+solution: 昔 has 8 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p18 type=draw answer="間"
+Write 間 **interval (時間)**.
+solution: 間 has 12 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p19 type=draw answer="次"
+Write 次 **next**.
+solution: 次 has 6 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p20 type=draw answer="度"
+Write 度 **times (一度)**.
+solution: 度 has 9 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p21 type=draw answer="雪"
+Write 雪 **snow**.
+solution: 雪 has 11 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::

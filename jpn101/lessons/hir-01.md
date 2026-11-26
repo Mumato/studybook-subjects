@@ -101,3 +101,38 @@ solution: い has 2 strokes. Two short strokes, left then right. The left one is
 Write !say[か] **ka**.
 solution: か has 3 strokes. The 'hooked seven' first, then the long stroke through it, then the little tick on the right.
 :::
+
+::: problem id=p12 type=draw answer="う"
+Write !say[う] **u**.
+solution: う has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p13 type=draw answer="え"
+Write !say[え] **e**.
+solution: え has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p14 type=draw answer="お"
+Write !say[お] **o**.
+solution: お has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p15 type=draw answer="き"
+Write !say[き] **ki**.
+solution: き has 4 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p16 type=draw answer="く"
+Write !say[く] **ku**.
+solution: く has 1 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p17 type=draw answer="け"
+Write !say[け] **ke**.
+solution: け has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p18 type=draw answer="こ"
+Write !say[こ] **ko**.
+solution: こ has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::

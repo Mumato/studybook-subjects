@@ -111,3 +111,43 @@ solution: 画 has 8 strokes. The top bar, then 田 in the middle, then the open 
 Write 紙 **paper**.
 solution: 紙 has 10 strokes. 糸 on the left (six strokes), then 氏 on the right.
 :::
+
+::: problem id=p14 type=draw answer="校"
+Write 校 **school (学校)**.
+solution: 校 has 10 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p15 type=draw answer="語"
+Write 語 **language (日本語)**.
+solution: 語 has 14 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p16 type=draw answer="勉"
+Write 勉 **effort (勉強)**.
+solution: 勉 has 10 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p17 type=draw answer="強"
+Write 強 **strong**.
+solution: 強 has 11 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p18 type=draw answer="映"
+Write 映 **reflect (映画)**.
+solution: 映 has 9 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p19 type=draw answer="歌"
+Write 歌 **song**.
+solution: 歌 has 14 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p20 type=draw answer="病"
+Write 病 **illness**.
+solution: 病 has 10 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p21 type=draw answer="院"
+Write 院 **institution (病院)**.
+solution: 院 has 10 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::

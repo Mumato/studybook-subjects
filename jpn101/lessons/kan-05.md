@@ -102,3 +102,28 @@ solution: 見 has 7 strokes. The eye 目 first (five strokes), then the two legs
 Write 行 **go**.
 solution: 行 has 6 strokes. The left side (three strokes), then the two bars and the hooked stroke on the right.
 :::
+
+::: problem id=p12 type=draw answer="来"
+Write 来 **come**.
+solution: 来 has 7 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p13 type=draw answer="食"
+Write 食 **eat**.
+solution: 食 has 9 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p14 type=draw answer="飲"
+Write 飲 **drink**.
+solution: 飲 has 12 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p15 type=draw answer="読"
+Write 読 **read**.
+solution: 読 has 14 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p16 type=draw answer="聞"
+Write 聞 **listen, hear**.
+solution: 聞 has 14 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::

@@ -110,3 +110,43 @@ solution: 少 has 4 strokes. The vertical with its hook, the left dot, the right
 Write 赤 **red**.
 solution: 赤 has 7 strokes. 土 on top (three strokes), then the four strokes underneath, left to right.
 :::
+
+::: problem id=p14 type=draw answer="高"
+Write 高 **high, expensive**.
+solution: 高 has 10 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p15 type=draw answer="新"
+Write 新 **new**.
+solution: 新 has 13 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p16 type=draw answer="長"
+Write 長 **long**.
+solution: 長 has 8 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p17 type=draw answer="近"
+Write 近 **near**.
+solution: 近 has 7 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p18 type=draw answer="明"
+Write 明 **bright**.
+solution: 明 has 8 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p19 type=draw answer="好"
+Write 好 **like**.
+solution: 好 has 6 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p20 type=draw answer="青"
+Write 青 **blue**.
+solution: 青 has 8 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p21 type=draw answer="色"
+Write 色 **colour**.
+solution: 色 has 6 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::

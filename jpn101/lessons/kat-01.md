@@ -105,3 +105,108 @@ solution: ソ has 2 strokes. The short dot on the left, then the long stroke fal
 Write !say[ン] **n**.
 solution: ン has 2 strokes. The dot at the top left, then the long stroke sweeping up from the bottom.
 :::
+
+::: problem id=p13 type=draw answer="ア"
+Write !say[ア] **a**.
+solution: ア has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p14 type=draw answer="イ"
+Write !say[イ] **i**.
+solution: イ has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p15 type=draw answer="ウ"
+Write !say[ウ] **u**.
+solution: ウ has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p16 type=draw answer="エ"
+Write !say[エ] **e**.
+solution: エ has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p17 type=draw answer="オ"
+Write !say[オ] **o**.
+solution: オ has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p18 type=draw answer="カ"
+Write !say[カ] **ka**.
+solution: カ has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p19 type=draw answer="キ"
+Write !say[キ] **ki**.
+solution: キ has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p20 type=draw answer="ケ"
+Write !say[ケ] **ke**.
+solution: ケ has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p21 type=draw answer="コ"
+Write !say[コ] **ko**.
+solution: コ has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p22 type=draw answer="サ"
+Write !say[サ] **sa**.
+solution: サ has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p23 type=draw answer="ス"
+Write !say[ス] **su**.
+solution: ス has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p24 type=draw answer="セ"
+Write !say[セ] **se**.
+solution: セ has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p25 type=draw answer="タ"
+Write !say[タ] **ta**.
+solution: タ has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p26 type=draw answer="チ"
+Write !say[チ] **chi**.
+solution: チ has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p27 type=draw answer="テ"
+Write !say[テ] **te**.
+solution: テ has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p28 type=draw answer="ト"
+Write !say[ト] **to**.
+solution: ト has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p29 type=draw answer="ナ"
+Write !say[ナ] **na**.
+solution: ナ has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p30 type=draw answer="ニ"
+Write !say[ニ] **ni**.
+solution: ニ has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p31 type=draw answer="ヌ"
+Write !say[ヌ] **nu**.
+solution: ヌ has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p32 type=draw answer="ネ"
+Write !say[ネ] **ne**.
+solution: ネ has 4 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p33 type=draw answer="ノ"
+Write !say[ノ] **no**.
+solution: ノ has 1 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
