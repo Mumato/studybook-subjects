@@ -29,7 +29,7 @@ Every lesson gives you **a rule**, **a worked example** and then **practice prob
 - Part 5: Verbs and particles
 - Part 6: Adjectives
 - Part 7: Places, counting and dates
-- Part 8: More everyday Japanese: も, と, で, から/まで, ～たい, ～から (because), family
+- Part 8: More everyday Japanese: も, と, で, から/まで, ～たい, ～から (because), family, and a second speaking practice
 - Part 9: Kanji: about 60 characters, from numbers to everyday verbs
 
 The kana and kanji lessons end with **handwriting** practice: draw each character with the mouse and get each stroke checked.

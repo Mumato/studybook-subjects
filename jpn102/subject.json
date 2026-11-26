@@ -1,6 +1,6 @@
 {
   "name": "JPN102",
-  "version": 2,
+  "version": 3,
   "description": "Elementary Japanese II: the て-form, plain forms and casual speech, comparisons, giving and receiving, conditions, the potential form and 80 more kanji.",
   "intro": "intro.md",
   "parts": [
@@ -14,7 +14,8 @@
           "lessons": [
             "lessons/tef-01.md",
             "lessons/tef-02.md",
-            "lessons/tef-03.md"
+            "lessons/tef-03.md",
+            "lessons/tef-04.md"
           ],
           "test": "tests/tef-test.md"
         }
@@ -46,7 +47,8 @@
           "lessons": [
             "lessons/pln-01.md",
             "lessons/pln-02.md",
-            "lessons/pln-03.md"
+            "lessons/pln-03.md",
+            "lessons/pln-04.md"
           ],
           "test": "tests/pln-test.md"
         }
@@ -143,7 +145,8 @@
             "lessons/cnd-01.md",
             "lessons/cnd-02.md",
             "lessons/cnd-03.md",
-            "lessons/cnd-04.md"
+            "lessons/cnd-04.md",
+            "lessons/cnd-05.md"
           ],
           "test": "tests/cnd-test.md"
         }

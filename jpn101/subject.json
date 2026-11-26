@@ -1,6 +1,6 @@
 {
   "name": "JPN101",
-  "version": 10,
+  "version": 11,
   "description": "Elementary Japanese I: hiragana, katakana, everyday conversation and your first kanji, from zero.",
   "intro": "intro.md",
   "parts": [
@@ -133,7 +133,8 @@
             "lessons/mor-02.md",
             "lessons/mor-03.md",
             "lessons/mor-04.md",
-            "lessons/mor-05.md"
+            "lessons/mor-05.md",
+            "lessons/mor-06.md"
           ],
           "test": "tests/mor-test.md"
         }
