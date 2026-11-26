@@ -86,39 +86,9 @@ solution: みなみぐち: 南口, the south exit.
 solution: Edo became 東京 in 1868. Place names often record history: kanji make it visible, as with 北海道 (the "northern sea road").
 :::
 
-::: problem id=p9 type=draw answer="北"
-Write 北 **north**.
-solution: 北 has 5 strokes. Left half first: the vertical, the short horizontal, the rising stroke; then the right half.
-:::
-
-::: problem id=p10 type=draw answer="西"
-Write 西 **west**.
-solution: 西 has 6 strokes. The top bar, the left side of the box, the top and right side in one stroke, the two inner strokes, then the bottom.
-:::
-
-::: problem id=p11 type=draw answer="町"
-Write 町 **town**.
-solution: 町 has 7 strokes. 田 on the left (five strokes), then 丁 on the right.
-:::
-
-::: problem id=p12 type=draw answer="車"
-Write 車 **car**.
-solution: 車 has 7 strokes. Top bar, then the box with its middle line, the bar below it, and the long vertical through everything last.
-:::
-
-::: problem id=p13 type=draw answer="会"
-Write 会 **meet**.
-solution: 会 has 6 strokes. The roof (two strokes), the two horizontals, then ム underneath.
-:::
-
 ::: problem id=p14 type=draw answer="東"
 Write 東 **east**.
 solution: 東 has 8 strokes. Click **▶ Strokes** to watch the order once, then copy it.
-:::
-
-::: problem id=p15 type=draw answer="南"
-Write 南 **south**.
-solution: 南 has 9 strokes. Click **▶ Strokes** to watch the order once, then copy it.
 :::
 
 ::: problem id=p16 type=draw answer="京"
@@ -126,9 +96,34 @@ Write 京 **capital (東京)**.
 solution: 京 has 8 strokes. Click **▶ Strokes** to watch the order once, then copy it.
 :::
 
+::: problem id=p10 type=draw answer="西"
+Write 西 **west**.
+solution: 西 has 6 strokes. The top bar, the left side of the box, the top and right side in one stroke, the two inner strokes, then the bottom.
+:::
+
+::: problem id=p15 type=draw answer="南"
+Write 南 **south**.
+solution: 南 has 9 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p9 type=draw answer="北"
+Write 北 **north**.
+solution: 北 has 5 strokes. Left half first: the vertical, the short horizontal, the rising stroke; then the right half.
+:::
+
+::: problem id=p11 type=draw answer="町"
+Write 町 **town**.
+solution: 町 has 7 strokes. 田 on the left (five strokes), then 丁 on the right.
+:::
+
 ::: problem id=p17 type=draw answer="市"
 Write 市 **city**.
 solution: 市 has 5 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p19 type=draw answer="所"
+Write 所 **place**.
+solution: 所 has 8 strokes. Click **▶ Strokes** to watch the order once, then copy it.
 :::
 
 ::: problem id=p18 type=draw answer="道"
@@ -136,9 +131,9 @@ Write 道 **road**.
 solution: 道 has 12 strokes. Click **▶ Strokes** to watch the order once, then copy it.
 :::
 
-::: problem id=p19 type=draw answer="所"
-Write 所 **place**.
-solution: 所 has 8 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+::: problem id=p12 type=draw answer="車"
+Write 車 **car**.
+solution: 車 has 7 strokes. Top bar, then the box with its middle line, the bar below it, and the long vertical through everything last.
 :::
 
 ::: problem id=p20 type=draw answer="電"
@@ -149,6 +144,11 @@ solution: 電 has 13 strokes. Click **▶ Strokes** to watch the order once, the
 ::: problem id=p21 type=draw answer="旅"
 Write 旅 **journey (旅行)**.
 solution: 旅 has 10 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p13 type=draw answer="会"
+Write 会 **meet**.
+solution: 会 has 6 strokes. The roof (two strokes), the two horizontals, then ム underneath.
 :::
 
 ::: problem id=p22 type=draw answer="社"

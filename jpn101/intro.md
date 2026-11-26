@@ -10,6 +10,7 @@ You don't need a Japanese keyboard. When an answer is in Japanese, type **romaji
 - Double a consonant for a small っ: `kitte` → きって. Use `n'` or `nn` for ん when the next letter is a vowel: `kin'en` → きんえん.
 - Particles can be typed as they sound: `wa` for は, `e` for へ, `o` for を.
 - Katakana answers accept the same romaji, with `-` for the long mark ー: `ko-hi-` → コーヒー.
+- Either common spelling works: `shi`/`si`, `chi`/`ti`, `tsu`/`tu`, `fu`/`hu`, `ji`/`zi`. When the answer needs a loanword sound, `ti` and `di` give ティ and ディ (パーティー: `pa-ti-`). `kinyoubi` works for きんようび without the apostrophe.
 - Answers asking for a **reading** ("type the reading of か") want romaji: `ka`.
 
 Click **▶** next to Japanese to hear it. Listening questions show **▶ Listen** with the words hidden: play it as often as you like. (Volume: Minecraft's Voice/Speech slider.)

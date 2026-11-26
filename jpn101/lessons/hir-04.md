@@ -77,21 +77,6 @@ solution: れ (re) ends with an outward flick; ね (ne) ends with a loop; わ (w
 Hear it: !say[れ]
 :::
 
-::: problem id=p9 type=draw answer="め"
-Write !say[め] **me**.
-solution: め has 2 strokes. The short slanted stroke first, then the big loop that crosses it.
-:::
-
-::: problem id=p10 type=draw answer="る"
-Write !say[る] **ru**.
-solution: る has 1 stroke: across, a long zigzag down, ending in a small loop at the bottom.
-:::
-
-::: problem id=p11 type=draw answer="ん"
-Write !say[ん] **n**.
-solution: ん has 1 stroke: down to the left, back up, then down and flick up to the right.
-:::
-
 ::: problem id=p12 type=draw answer="ま"
 Write !say[ま] **ma**.
 solution: ま has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
@@ -105,6 +90,11 @@ solution: み has 2 strokes. Click **▶ Strokes** to watch the order once, then
 ::: problem id=p14 type=draw answer="む"
 Write !say[む] **mu**.
 solution: む has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p9 type=draw answer="め"
+Write !say[め] **me**.
+solution: め has 2 strokes. The short slanted stroke first, then the big loop that crosses it.
 :::
 
 ::: problem id=p15 type=draw answer="も"
@@ -137,6 +127,11 @@ Write !say[り] **ri**.
 solution: り has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
 :::
 
+::: problem id=p10 type=draw answer="る"
+Write !say[る] **ru**.
+solution: る has 1 stroke: across, a long zigzag down, ending in a small loop at the bottom.
+:::
+
 ::: problem id=p21 type=draw answer="れ"
 Write !say[れ] **re**.
 solution: れ has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
@@ -155,4 +150,9 @@ solution: わ has 2 strokes. Click **▶ Strokes** to watch the order once, then
 ::: problem id=p24 type=draw answer="を"
 Write !say[を] **o**.
 solution: を has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p11 type=draw answer="ん"
+Write !say[ん] **n**.
+solution: ん has 1 stroke: down to the left, back up, then down and flick up to the right.
 :::

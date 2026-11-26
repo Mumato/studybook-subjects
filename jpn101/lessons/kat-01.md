@@ -86,26 +86,6 @@ Why might Japanese use a separate script for loanwords instead of writing them i
 solution: Hiragana could spell most loanwords, but katakana marks them out. Japanese is written without spaces, so switching scripts also shows where words start and end.
 :::
 
-::: problem id=p9 type=draw answer="シ"
-Write !say[シ] **shi**.
-solution: シ has 3 strokes. Two dots on the left, top first, then the long stroke sweeping up from the bottom left.
-:::
-
-::: problem id=p10 type=draw answer="ツ"
-Write !say[ツ] **tsu**.
-solution: ツ has 3 strokes. Two dots along the top, left first, then the long stroke from the top right sweeping down.
-:::
-
-::: problem id=p11 type=draw answer="ソ"
-Write !say[ソ] **so**.
-solution: ソ has 2 strokes. The short dot on the left, then the long stroke falling from the top right.
-:::
-
-::: problem id=p12 type=draw answer="ン"
-Write !say[ン] **n**.
-solution: ン has 2 strokes. The dot at the top left, then the long stroke sweeping up from the bottom.
-:::
-
 ::: problem id=p13 type=draw answer="ア"
 Write !say[ア] **a**.
 solution: ア has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
@@ -156,6 +136,11 @@ Write !say[サ] **sa**.
 solution: サ has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
 :::
 
+::: problem id=p9 type=draw answer="シ"
+Write !say[シ] **shi**.
+solution: シ has 3 strokes. Two dots on the left, top first, then the long stroke sweeping up from the bottom left.
+:::
+
 ::: problem id=p23 type=draw answer="ス"
 Write !say[ス] **su**.
 solution: ス has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
@@ -166,6 +151,11 @@ Write !say[セ] **se**.
 solution: セ has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
 :::
 
+::: problem id=p11 type=draw answer="ソ"
+Write !say[ソ] **so**.
+solution: ソ has 2 strokes. The short dot on the left, then the long stroke falling from the top right.
+:::
+
 ::: problem id=p25 type=draw answer="タ"
 Write !say[タ] **ta**.
 solution: タ has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
@@ -174,6 +164,11 @@ solution: タ has 3 strokes. Click **▶ Strokes** to watch the order once, then
 ::: problem id=p26 type=draw answer="チ"
 Write !say[チ] **chi**.
 solution: チ has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p10 type=draw answer="ツ"
+Write !say[ツ] **tsu**.
+solution: ツ has 3 strokes. Two dots along the top, left first, then the long stroke from the top right sweeping down.
 :::
 
 ::: problem id=p27 type=draw answer="テ"
@@ -209,4 +204,9 @@ solution: ネ has 4 strokes. Click **▶ Strokes** to watch the order once, then
 ::: problem id=p33 type=draw answer="ノ"
 Write !say[ノ] **no**.
 solution: ノ has 1 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p12 type=draw answer="ン"
+Write !say[ン] **n**.
+solution: ン has 2 strokes. The dot at the top left, then the long stroke sweeping up from the bottom.
 :::

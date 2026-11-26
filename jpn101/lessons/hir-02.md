@@ -86,11 +86,6 @@ Write !say[し] **shi**.
 solution: し has 1 stroke: straight down, then curve up to the right.
 :::
 
-::: problem id=p11 type=draw answer="つ"
-Write !say[つ] **tsu**.
-solution: つ has 1 stroke: across and over, curving down to the left.
-:::
-
 ::: problem id=p12 type=draw answer="す"
 Write !say[す] **su**.
 solution: す has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
@@ -114,6 +109,11 @@ solution: た has 4 strokes. Click **▶ Strokes** to watch the order once, then
 ::: problem id=p16 type=draw answer="ち"
 Write !say[ち] **chi**.
 solution: ち has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p11 type=draw answer="つ"
+Write !say[つ] **tsu**.
+solution: つ has 1 stroke: across and over, curving down to the left.
 :::
 
 ::: problem id=p17 type=draw answer="て"

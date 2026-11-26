@@ -100,21 +100,6 @@ Write 下 **down**.
 solution: 下 has 3 strokes. The long top bar, the vertical stroke down, then the short dot to the right.
 :::
 
-::: problem id=p11 type=draw answer="子"
-Write 子 **child**.
-solution: 子 has 3 strokes. The top hook, the vertical stroke with a hook at the bottom, then the arms across.
-:::
-
-::: problem id=p12 type=draw answer="女"
-Write 女 **woman**.
-solution: 女 has 3 strokes. The bent stroke from the top, the sweep down to the left, then the long horizontal.
-:::
-
-::: problem id=p13 type=draw answer="男"
-Write 男 **man**.
-solution: 男 has 7 strokes. The field 田 first (five strokes), then 力 underneath.
-:::
-
 ::: problem id=p14 type=draw answer="左"
 Write 左 **left**.
 solution: 左 has 5 strokes. Click **▶ Strokes** to watch the order once, then copy it.
@@ -148,6 +133,21 @@ solution: 父 has 4 strokes. Click **▶ Strokes** to watch the order once, then
 ::: problem id=p20 type=draw answer="母"
 Write 母 **mother**.
 solution: 母 has 5 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p13 type=draw answer="男"
+Write 男 **man**.
+solution: 男 has 7 strokes. The field 田 first (five strokes), then 力 underneath.
+:::
+
+::: problem id=p12 type=draw answer="女"
+Write 女 **woman**.
+solution: 女 has 3 strokes. The bent stroke from the top, the sweep down to the left, then the long horizontal.
+:::
+
+::: problem id=p11 type=draw answer="子"
+Write 子 **child**.
+solution: 子 has 3 strokes. The top hook, the vertical stroke with a hook at the bottom, then the arms across.
 :::
 
 ::: problem id=p21 type=draw answer="国"

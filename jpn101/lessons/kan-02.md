@@ -100,9 +100,9 @@ Write 月 **moon, month**.
 solution: 月 has 4 strokes. The curving left stroke, then the top and right side with a hook, then the two short bars inside.
 :::
 
-::: problem id=p11 type=draw answer="木"
-Write 木 **tree**.
-solution: 木 has 4 strokes. The bar, the vertical stroke, then the sweep down left, then the sweep down right.
+::: problem id=p13 type=draw answer="火"
+Write 火 **fire (Tuesday)**.
+solution: 火 has 4 strokes. Click **▶ Strokes** to watch the order once, then copy it.
 :::
 
 ::: problem id=p12 type=draw answer="水"
@@ -110,9 +110,9 @@ Write 水 **water**.
 solution: 水 has 4 strokes. The centre stroke with a hook first, then the left side, then the right side's two sweeps.
 :::
 
-::: problem id=p13 type=draw answer="火"
-Write 火 **fire (Tuesday)**.
-solution: 火 has 4 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+::: problem id=p11 type=draw answer="木"
+Write 木 **tree**.
+solution: 木 has 4 strokes. The bar, the vertical stroke, then the sweep down left, then the sweep down right.
 :::
 
 ::: problem id=p14 type=draw answer="金"

@@ -87,31 +87,6 @@ Which kanji is in the word you heard?
 solution: うた / うたう: 歌, song, sing.
 :::
 
-::: problem id=p9 type=draw answer="文"
-Write 文 **writing**.
-solution: 文 has 4 strokes. The dot, the horizontal, then the sweep left and the sweep right.
-:::
-
-::: problem id=p10 type=draw answer="何"
-Write 何 **what**.
-solution: 何 has 7 strokes. The person 亻 on the left (two strokes), then 可 on the right.
-:::
-
-::: problem id=p11 type=draw answer="有"
-Write 有 **have, exist**.
-solution: 有 has 6 strokes. The sweep left and the horizontal (in that order, like 右 and unlike 左), then 月 underneath.
-:::
-
-::: problem id=p12 type=draw answer="画"
-Write 画 **picture**.
-solution: 画 has 8 strokes. The top bar, then 田 in the middle, then the open box around it: the left side, then the bottom and right side.
-:::
-
-::: problem id=p13 type=draw answer="紙"
-Write 紙 **paper**.
-solution: 紙 has 10 strokes. 糸 on the left (six strokes), then 氏 on the right.
-:::
-
 ::: problem id=p14 type=draw answer="校"
 Write 校 **school (学校)**.
 solution: 校 has 10 strokes. Click **▶ Strokes** to watch the order once, then copy it.
@@ -120,6 +95,16 @@ solution: 校 has 10 strokes. Click **▶ Strokes** to watch the order once, the
 ::: problem id=p15 type=draw answer="語"
 Write 語 **language (日本語)**.
 solution: 語 has 14 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p9 type=draw answer="文"
+Write 文 **writing**.
+solution: 文 has 4 strokes. The dot, the horizontal, then the sweep left and the sweep right.
+:::
+
+::: problem id=p13 type=draw answer="紙"
+Write 紙 **paper**.
+solution: 紙 has 10 strokes. 糸 on the left (six strokes), then 氏 on the right.
 :::
 
 ::: problem id=p16 type=draw answer="勉"
@@ -132,14 +117,29 @@ Write 強 **strong**.
 solution: 強 has 11 strokes. Click **▶ Strokes** to watch the order once, then copy it.
 :::
 
+::: problem id=p10 type=draw answer="何"
+Write 何 **what**.
+solution: 何 has 7 strokes. The person 亻 on the left (two strokes), then 可 on the right.
+:::
+
 ::: problem id=p18 type=draw answer="映"
 Write 映 **reflect (映画)**.
 solution: 映 has 9 strokes. Click **▶ Strokes** to watch the order once, then copy it.
 :::
 
+::: problem id=p12 type=draw answer="画"
+Write 画 **picture**.
+solution: 画 has 8 strokes. The top bar, then 田 in the middle, then the open box around it: the left side, then the bottom and right side.
+:::
+
 ::: problem id=p19 type=draw answer="歌"
 Write 歌 **song**.
 solution: 歌 has 14 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p11 type=draw answer="有"
+Write 有 **have, exist**.
+solution: 有 has 6 strokes. The sweep left and the horizontal (in that order, like 右 and unlike 左), then 月 underneath.
 :::
 
 ::: problem id=p20 type=draw answer="病"

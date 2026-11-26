@@ -86,29 +86,9 @@ Which kanji is in the verb you heard?
 solution: もって います: 持って います. 待 (まつ, wait) looks similar.
 :::
 
-::: problem id=p9 type=draw answer="入"
-Write 入 **enter**.
-solution: 入 has 2 strokes. The left stroke, then the longer stroke to the right, starting on top of it.
-:::
-
-::: problem id=p10 type=draw answer="立"
-Write 立 **stand**.
-solution: 立 has 5 strokes. The dot, the horizontal, the two short strokes, then the long base.
-:::
-
-::: problem id=p11 type=draw answer="出"
-Write 出 **go out**.
-solution: 出 has 5 strokes. The centre vertical first, then the small upper box shape, then the bigger lower one.
-:::
-
 ::: problem id=p12 type=draw answer="言"
 Write 言 **say**.
 solution: 言 has 7 strokes. The dot, three horizontals (top longest), then 口 underneath.
-:::
-
-::: problem id=p13 type=draw answer="知"
-Write 知 **know**.
-solution: 知 has 8 strokes. 矢 on the left (five strokes), then 口 on the right.
 :::
 
 ::: problem id=p14 type=draw answer="話"
@@ -126,9 +106,19 @@ Write 思 **think**.
 solution: 思 has 9 strokes. Click **▶ Strokes** to watch the order once, then copy it.
 :::
 
+::: problem id=p13 type=draw answer="知"
+Write 知 **know**.
+solution: 知 has 8 strokes. 矢 on the left (five strokes), then 口 on the right.
+:::
+
 ::: problem id=p17 type=draw answer="住"
 Write 住 **live**.
 solution: 住 has 7 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p10 type=draw answer="立"
+Write 立 **stand**.
+solution: 立 has 5 strokes. The dot, the horizontal, the two short strokes, then the long base.
 :::
 
 ::: problem id=p18 type=draw answer="起"
@@ -139,6 +129,16 @@ solution: 起 has 10 strokes. Click **▶ Strokes** to watch the order once, the
 ::: problem id=p19 type=draw answer="帰"
 Write 帰 **return home**.
 solution: 帰 has 10 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p11 type=draw answer="出"
+Write 出 **go out**.
+solution: 出 has 5 strokes. The centre vertical first, then the small upper box shape, then the bigger lower one.
+:::
+
+::: problem id=p9 type=draw answer="入"
+Write 入 **enter**.
+solution: 入 has 2 strokes. The left stroke, then the longer stroke to the right, starting on top of it.
 :::
 
 ::: problem id=p20 type=draw answer="持"

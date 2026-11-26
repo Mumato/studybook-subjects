@@ -88,16 +88,6 @@ solution: よみました: 読みました, read.
 solution: Most kanji combine a few hundred recurring parts (亻 person, 氵 water, 言 words). Learning the parts turns new kanji into combinations of old ones. Memory stories are a tool even when the real history differs.
 :::
 
-::: problem id=p9 type=draw answer="休"
-Write 休 **rest**.
-solution: 休 has 6 strokes. The person 亻 on the left (two strokes), then the tree 木.
-:::
-
-::: problem id=p10 type=draw answer="見"
-Write 見 **see**.
-solution: 見 has 7 strokes. The eye 目 first (five strokes), then the two legs below.
-:::
-
 ::: problem id=p11 type=draw answer="行"
 Write 行 **go**.
 solution: 行 has 6 strokes. The left side (three strokes), then the two bars and the hooked stroke on the right.
@@ -108,6 +98,11 @@ Write 来 **come**.
 solution: 来 has 7 strokes. Click **▶ Strokes** to watch the order once, then copy it.
 :::
 
+::: problem id=p10 type=draw answer="見"
+Write 見 **see**.
+solution: 見 has 7 strokes. The eye 目 first (five strokes), then the two legs below.
+:::
+
 ::: problem id=p13 type=draw answer="食"
 Write 食 **eat**.
 solution: 食 has 9 strokes. Click **▶ Strokes** to watch the order once, then copy it.
@@ -116,6 +111,11 @@ solution: 食 has 9 strokes. Click **▶ Strokes** to watch the order once, then
 ::: problem id=p14 type=draw answer="飲"
 Write 飲 **drink**.
 solution: 飲 has 12 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p9 type=draw answer="休"
+Write 休 **rest**.
+solution: 休 has 6 strokes. The person 亻 on the left (two strokes), then the tree 木.
 :::
 
 ::: problem id=p15 type=draw answer="読"

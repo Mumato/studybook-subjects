@@ -6,7 +6,7 @@ Some English sounds don't exist in Japanese, so katakana combines letters with s
 
 ::: rule
 - **f** sounds: !say[ファ] **fa**, !say[フィ] **fi**, !say[フェ] **fe**, !say[フォ] **fo**, as in !say[フォーク] (fork).
-- **ti** and **di**: !say[ティ] **ti**, !say[ディ] **di**, as in !say[パーティー] (party). On the keyboard, type `thi` and `dhi` (plain `ti` gives チ).
+- **ti** and **di**: !say[ティ] **ti**, !say[ディ] **di**, as in !say[パーティー] (party). Type `ti` and `di`: the book reads them as ティ and ディ when the answer needs it. (On a real Japanese keyboard, `ti` gives チ, so there you type `thi` and `dhi`.)
 - **w** sounds: !say[ウィ] **wi**, !say[ウェ] **we**, as in !say[ウェブ] (web).
 - **v** sounds: !say[ヴァ] **va** and friends exist, but most words use B instead: !say[バイオリン] (violin) is more common than ヴァイオリン.
 - **Your name in katakana**: write it by **sound**, not spelling. Split it into Japanese syllables, add vowels after stray consonants (usually **u**, or **o** after t and d), and use ー for long vowels. "Mike" → !say[マイク], "Emma" → !say[エマ], "David" → !say[デイビッド].
@@ -30,8 +30,8 @@ Hear it: !say[フォーク]
 
 ::: problem id=p2 type=text answers="パーティー"
 Type "party" in katakana.
-hint: pa-thi-
-solution: パーティー (paatii). Type `thi` for ティ.
+hint: pa-ti-
+solution: パーティー (paatii). `ti` or `thi` both give ティ here.
 Hear it: !say[パーティー]
 :::
 
@@ -82,14 +82,4 @@ solution: He says: わたしは デイビッド です。アメリカじん で�
 Write your own name in katakana, the way it **sounds**, and say it in a self-introduction.
 !speak[my name in katakana]
 solution: For example: "Sarah" → セーラ or サラ, "Alex" → アレックス, "Chris" → クリス. There's often more than one acceptable spelling: Japanese people with your name may spell it differently. Then: はじめまして。わたしは （your name） です。
-:::
-
-::: problem id=p9 type=draw answer="フ"
-Write !say[フ] **fu**.
-solution: フ has 1 stroke: across, then down curving to the left.
-:::
-
-::: problem id=p10 type=draw answer="メ"
-Write !say[メ] **me**.
-solution: メ has 2 strokes. The long stroke from the top right down to the left, then the short stroke crossing it.
 :::

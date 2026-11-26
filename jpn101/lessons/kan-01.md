@@ -79,21 +79,6 @@ English speakers often notice that "yen" and 円 (えん) don't sound the same. 
 solution: "Yen" comes from older spellings used by Westerners in the 1800s. In modern Japanese the word is simply えん. (Chinese reads the character as *yuán*.)
 :::
 
-::: problem id=p9 type=draw answer="三"
-Write 三 **three**.
-solution: 三 has 3 strokes. Three horizontal strokes, top to bottom; the bottom one is the longest.
-:::
-
-::: problem id=p10 type=draw answer="十"
-Write 十 **ten**.
-solution: 十 has 2 strokes. The horizontal bar first, then the vertical stroke through it.
-:::
-
-::: problem id=p11 type=draw answer="円"
-Write 円 **yen**.
-solution: 円 has 4 strokes. The left side, the top and right side in one stroke, the short vertical in the middle, then the bar across the bottom of the box.
-:::
-
 ::: problem id=p12 type=draw answer="一"
 Write 一 **one**.
 solution: 一 has 1 strokes. Click **▶ Strokes** to watch the order once, then copy it.
@@ -102,6 +87,11 @@ solution: 一 has 1 strokes. Click **▶ Strokes** to watch the order once, then
 ::: problem id=p13 type=draw answer="二"
 Write 二 **two**.
 solution: 二 has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p9 type=draw answer="三"
+Write 三 **three**.
+solution: 三 has 3 strokes. Three horizontal strokes, top to bottom; the bottom one is the longest.
 :::
 
 ::: problem id=p14 type=draw answer="四"
@@ -134,6 +124,11 @@ Write 九 **nine**.
 solution: 九 has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
 :::
 
+::: problem id=p10 type=draw answer="十"
+Write 十 **ten**.
+solution: 十 has 2 strokes. The horizontal bar first, then the vertical stroke through it.
+:::
+
 ::: problem id=p20 type=draw answer="百"
 Write 百 **hundred**.
 solution: 百 has 6 strokes. Click **▶ Strokes** to watch the order once, then copy it.
@@ -147,4 +142,9 @@ solution: 千 has 3 strokes. Click **▶ Strokes** to watch the order once, then
 ::: problem id=p22 type=draw answer="万"
 Write 万 **ten thousand**.
 solution: 万 has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p11 type=draw answer="円"
+Write 円 **yen**.
+solution: 円 has 4 strokes. The left side, the top and right side in one stroke, the short vertical in the middle, then the bar across the bottom of the box.
 :::

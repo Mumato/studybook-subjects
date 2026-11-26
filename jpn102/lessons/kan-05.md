@@ -86,31 +86,6 @@ Which kanji is ちかい?
 solution: ちかい: 近い, near. 遠い (とおい) is far.
 :::
 
-::: problem id=p9 type=draw answer="白"
-Write 白 **white**.
-solution: 白 has 5 strokes. The short stroke on top, then 日 underneath.
-:::
-
-::: problem id=p10 type=draw answer="古"
-Write 古 **old**.
-solution: 古 has 5 strokes. 十 first (horizontal, then vertical), then 口 underneath.
-:::
-
-::: problem id=p11 type=draw answer="正"
-Write 正 **correct**.
-solution: 正 has 5 strokes. The top bar, the short vertical in the middle, the short horizontal, the left vertical, then the long base.
-:::
-
-::: problem id=p12 type=draw answer="少"
-Write 少 **a little**.
-solution: 少 has 4 strokes. The vertical with its hook, the left dot, the right dot, then the long sweep to the left.
-:::
-
-::: problem id=p13 type=draw answer="赤"
-Write 赤 **red**.
-solution: 赤 has 7 strokes. 土 on top (three strokes), then the four strokes underneath, left to right.
-:::
-
 ::: problem id=p14 type=draw answer="高"
 Write 高 **high, expensive**.
 solution: 高 has 10 strokes. Click **▶ Strokes** to watch the order once, then copy it.
@@ -121,9 +96,19 @@ Write 新 **new**.
 solution: 新 has 13 strokes. Click **▶ Strokes** to watch the order once, then copy it.
 :::
 
+::: problem id=p10 type=draw answer="古"
+Write 古 **old**.
+solution: 古 has 5 strokes. 十 first (horizontal, then vertical), then 口 underneath.
+:::
+
 ::: problem id=p16 type=draw answer="長"
 Write 長 **long**.
 solution: 長 has 8 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p12 type=draw answer="少"
+Write 少 **a little**.
+solution: 少 has 4 strokes. The vertical with its hook, the left dot, the right dot, then the long sweep to the left.
 :::
 
 ::: problem id=p17 type=draw answer="近"
@@ -136,9 +121,24 @@ Write 明 **bright**.
 solution: 明 has 8 strokes. Click **▶ Strokes** to watch the order once, then copy it.
 :::
 
+::: problem id=p11 type=draw answer="正"
+Write 正 **correct**.
+solution: 正 has 5 strokes. The top bar, the short vertical in the middle, the short horizontal, the left vertical, then the long base.
+:::
+
 ::: problem id=p19 type=draw answer="好"
 Write 好 **like**.
 solution: 好 has 6 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p9 type=draw answer="白"
+Write 白 **white**.
+solution: 白 has 5 strokes. The short stroke on top, then 日 underneath.
+:::
+
+::: problem id=p13 type=draw answer="赤"
+Write 赤 **red**.
+solution: 赤 has 7 strokes. 土 on top (three strokes), then the four strokes underneath, left to right.
 :::
 
 ::: problem id=p20 type=draw answer="青"

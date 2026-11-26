@@ -87,19 +87,19 @@ Which kanji is いえ?
 solution: いえ: 家, house.
 :::
 
+::: problem id=p14 type=draw answer="私"
+Write 私 **I**.
+solution: 私 has 7 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
 ::: problem id=p9 type=draw answer="友"
 Write 友 **friend**.
 solution: 友 has 4 strokes. The horizontal first, then the sweep down to the left, then 又 underneath.
 :::
 
-::: problem id=p10 type=draw answer="手"
-Write 手 **hand**.
-solution: 手 has 4 strokes. The short top stroke falling left, two horizontals, then the long hooked vertical.
-:::
-
-::: problem id=p11 type=draw answer="自"
-Write 自 **self**.
-solution: 自 has 6 strokes. The short top stroke, then 目 underneath.
+::: problem id=p15 type=draw answer="家"
+Write 家 **house**.
+solution: 家 has 10 strokes. Click **▶ Strokes** to watch the order once, then copy it.
 :::
 
 ::: problem id=p12 type=draw answer="名"
@@ -107,19 +107,14 @@ Write 名 **name**.
 solution: 名 has 6 strokes. 夕 on top (three strokes), then 口 underneath.
 :::
 
-::: problem id=p13 type=draw answer="作"
-Write 作 **make**.
-solution: 作 has 7 strokes. The person 亻 on the left, then the right side: the slanted stroke, the top bar, the vertical, and the two short bars.
+::: problem id=p11 type=draw answer="自"
+Write 自 **self**.
+solution: 自 has 6 strokes. The short top stroke, then 目 underneath.
 :::
 
-::: problem id=p14 type=draw answer="私"
-Write 私 **I**.
-solution: 私 has 7 strokes. Click **▶ Strokes** to watch the order once, then copy it.
-:::
-
-::: problem id=p15 type=draw answer="家"
-Write 家 **house**.
-solution: 家 has 10 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+::: problem id=p10 type=draw answer="手"
+Write 手 **hand**.
+solution: 手 has 4 strokes. The short top stroke falling left, two horizontals, then the long hooked vertical.
 :::
 
 ::: problem id=p16 type=draw answer="仕"
@@ -145,4 +140,9 @@ solution: 働 has 13 strokes. Click **▶ Strokes** to watch the order once, the
 ::: problem id=p20 type=draw answer="使"
 Write 使 **use**.
 solution: 使 has 8 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p13 type=draw answer="作"
+Write 作 **make**.
+solution: 作 has 7 strokes. The person 亻 on the left, then the right side: the slanted stroke, the top bar, the vertical, and the two short bars.
 :::

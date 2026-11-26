@@ -88,11 +88,6 @@ Who is Japanese?
 solution: わたしの せんせい (my teacher) は にほんじん です: "My teacher is Japanese." In kanji: 私の先生は日本人です。
 :::
 
-::: problem id=p9 type=draw answer="人"
-Write 人 **person**.
-solution: 人 has 2 strokes. The left sweep first, then the right stroke, which starts partway down the first.
-:::
-
 ::: problem id=p10 type=draw answer="山"
 Write 山 **mountain**.
 solution: 山 has 3 strokes. The centre stroke first, then the left side with the bottom in one stroke, then the right side.
@@ -101,6 +96,11 @@ solution: 山 has 3 strokes. The centre stroke first, then the left side with th
 ::: problem id=p11 type=draw answer="川"
 Write 川 **river**.
 solution: 川 has 3 strokes. Left to right: the curving left stroke, the short middle one, then the long right one.
+:::
+
+::: problem id=p9 type=draw answer="人"
+Write 人 **person**.
+solution: 人 has 2 strokes. The left sweep first, then the right stroke, which starts partway down the first.
 :::
 
 ::: problem id=p12 type=draw answer="口"

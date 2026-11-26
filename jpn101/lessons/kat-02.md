@@ -87,21 +87,6 @@ solution: You heard カップ (kappu, cup): the small ッ is a short pause befor
 solution: Long loanwords are often clipped: パーソナル・コンピューター → パソコン, エアコンディショナー → エアコン. Some even have new meanings, so learn them as Japanese words.
 :::
 
-::: problem id=p9 type=draw answer="ク"
-Write !say[ク] **ku**.
-solution: ク has 2 strokes. The short stroke from the top, then the bent stroke across and down to the left.
-:::
-
-::: problem id=p10 type=draw answer="ワ"
-Write !say[ワ] **wa**.
-solution: ワ has 2 strokes. The short stroke down on the left, then the stroke across and down, curving left.
-:::
-
-::: problem id=p11 type=draw answer="ル"
-Write !say[ル] **ru**.
-solution: ル has 2 strokes. The left stroke curving down, then the right stroke down with a flick up to the right.
-:::
-
 ::: problem id=p12 type=draw answer="ハ"
 Write !say[ハ] **ha**.
 solution: ハ has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
@@ -110,6 +95,11 @@ solution: ハ has 2 strokes. Click **▶ Strokes** to watch the order once, then
 ::: problem id=p13 type=draw answer="ヒ"
 Write !say[ヒ] **hi**.
 solution: ヒ has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p33 type=draw answer="フ"
+Write !say[フ] **fu**.
+solution: フ has 1 stroke: across, then down curving to the left.
 :::
 
 ::: problem id=p14 type=draw answer="ヘ"
@@ -135,6 +125,11 @@ solution: ミ has 3 strokes. Click **▶ Strokes** to watch the order once, then
 ::: problem id=p18 type=draw answer="ム"
 Write !say[ム] **mu**.
 solution: ム has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p34 type=draw answer="メ"
+Write !say[メ] **me**.
+solution: メ has 2 strokes. The long stroke from the top right down to the left, then the short stroke crossing it.
 :::
 
 ::: problem id=p19 type=draw answer="モ"
@@ -167,6 +162,11 @@ Write !say[リ] **ri**.
 solution: リ has 2 strokes. Click **▶ Strokes** to watch the order once, then copy it.
 :::
 
+::: problem id=p11 type=draw answer="ル"
+Write !say[ル] **ru**.
+solution: ル has 2 strokes. The left stroke curving down, then the right stroke down with a flick up to the right.
+:::
+
 ::: problem id=p25 type=draw answer="レ"
 Write !say[レ] **re**.
 solution: レ has 1 strokes. Click **▶ Strokes** to watch the order once, then copy it.
@@ -175,6 +175,15 @@ solution: レ has 1 strokes. Click **▶ Strokes** to watch the order once, then
 ::: problem id=p26 type=draw answer="ロ"
 Write !say[ロ] **ro**.
 solution: ロ has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p10 type=draw answer="ワ"
+Write !say[ワ] **wa**.
+solution: ワ has 2 strokes. The short stroke down on the left, then the stroke across and down, curving left.
+:::
+::: problem id=p32 type=draw answer="ヲ"
+Write ヲ **o** (the katakana for the particle を: you'll rarely need it, but it completes the set).
+solution: ヲ has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
 :::
 
 ::: problem id=p27 type=draw answer="ガ"
@@ -202,7 +211,8 @@ Write !say[パ] **pa**.
 solution: パ has 3 strokes. Write ハ first, then the small handakuten circle at the top right.
 :::
 
-::: problem id=p32 type=draw answer="ヲ"
-Write ヲ **o** (the katakana for the particle を: you'll rarely need it, but it completes the set).
-solution: ヲ has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+::: problem id=p9 type=draw answer="ク"
+Write !say[ク] **ku**.
+solution: ク has 2 strokes. The short stroke from the top, then the bent stroke across and down to the left.
 :::
+

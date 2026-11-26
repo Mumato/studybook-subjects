@@ -82,16 +82,6 @@ Write !say[な] **na**.
 solution: な has 4 strokes. The short bar, the slanted stroke, the dot, then the loop at the bottom right.
 :::
 
-::: problem id=p10 type=draw answer="ひ"
-Write !say[ひ] **hi**.
-solution: ひ has 1 stroke: a small dip, a big U, and a little flick up at the end.
-:::
-
-::: problem id=p11 type=draw answer="ふ"
-Write !say[ふ] **fu**.
-solution: ふ has 4 strokes. Top dot, the middle curve, then the two side dots, left then right.
-:::
-
 ::: problem id=p12 type=draw answer="に"
 Write !say[に] **ni**.
 solution: に has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
@@ -115,6 +105,16 @@ solution: の has 1 strokes. Click **▶ Strokes** to watch the order once, then
 ::: problem id=p16 type=draw answer="は"
 Write !say[は] **ha**.
 solution: は has 3 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p10 type=draw answer="ひ"
+Write !say[ひ] **hi**.
+solution: ひ has 1 stroke: a small dip, a big U, and a little flick up at the end.
+:::
+
+::: problem id=p11 type=draw answer="ふ"
+Write !say[ふ] **fu**.
+solution: ふ has 4 strokes. Top dot, the middle curve, then the two side dots, left then right.
 :::
 
 ::: problem id=p17 type=draw answer="へ"

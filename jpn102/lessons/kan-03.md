@@ -87,31 +87,6 @@ Which is the forecast, in kanji?
 solution: こんや (今夜, tonight) あめ (雨, rain).
 :::
 
-::: problem id=p9 type=draw answer="天"
-Write 天 **sky, heaven**.
-solution: 天 has 4 strokes. The two horizontals, then the sweep left, then the sweep right.
-:::
-
-::: problem id=p10 type=draw answer="元"
-Write 元 **origin**.
-solution: 元 has 4 strokes. The two horizontals, then the left leg, then the right leg with its hook.
-:::
-
-::: problem id=p11 type=draw answer="早"
-Write 早 **early**.
-solution: 早 has 6 strokes. 日 on top (four strokes), then the horizontal and the long vertical.
-:::
-
-::: problem id=p12 type=draw answer="雨"
-Write 雨 **rain**.
-solution: 雨 has 8 strokes. The top bar, the short vertical, the frame with its hook, the middle vertical, then the four drops, left side first.
-:::
-
-::: problem id=p13 type=draw answer="気"
-Write 気 **spirit**.
-solution: 気 has 6 strokes. The short slanted stroke, two horizontals, the long hooked stroke, then the cross (メ) inside.
-:::
-
 ::: problem id=p14 type=draw answer="毎"
 Write 毎 **every**.
 solution: 毎 has 6 strokes. Click **▶ Strokes** to watch the order once, then copy it.
@@ -132,6 +107,11 @@ Write 昔 **long ago**.
 solution: 昔 has 8 strokes. Click **▶ Strokes** to watch the order once, then copy it.
 :::
 
+::: problem id=p11 type=draw answer="早"
+Write 早 **early**.
+solution: 早 has 6 strokes. 日 on top (four strokes), then the horizontal and the long vertical.
+:::
+
 ::: problem id=p18 type=draw answer="間"
 Write 間 **interval (時間)**.
 solution: 間 has 12 strokes. Click **▶ Strokes** to watch the order once, then copy it.
@@ -145,6 +125,26 @@ solution: 次 has 6 strokes. Click **▶ Strokes** to watch the order once, then
 ::: problem id=p20 type=draw answer="度"
 Write 度 **times (一度)**.
 solution: 度 has 9 strokes. Click **▶ Strokes** to watch the order once, then copy it.
+:::
+
+::: problem id=p9 type=draw answer="天"
+Write 天 **sky, heaven**.
+solution: 天 has 4 strokes. The two horizontals, then the sweep left, then the sweep right.
+:::
+
+::: problem id=p13 type=draw answer="気"
+Write 気 **spirit**.
+solution: 気 has 6 strokes. The short slanted stroke, two horizontals, the long hooked stroke, then the cross (メ) inside.
+:::
+
+::: problem id=p10 type=draw answer="元"
+Write 元 **origin**.
+solution: 元 has 4 strokes. The two horizontals, then the left leg, then the right leg with its hook.
+:::
+
+::: problem id=p12 type=draw answer="雨"
+Write 雨 **rain**.
+solution: 雨 has 8 strokes. The top bar, the short vertical, the frame with its hook, the middle vertical, then the four drops, left side first.
 :::
 
 ::: problem id=p21 type=draw answer="雪"
