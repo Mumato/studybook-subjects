@@ -1,0 +1,203 @@
+{
+  "name": "JPN102",
+  "version": 1,
+  "description": "Elementary Japanese II: the て-form, plain forms and casual speech, comparisons, giving and receiving, conditions, the potential form and 80 more kanji.",
+  "intro": "intro.md",
+  "parts": [
+    {
+      "id": "tef",
+      "title": "Part 1: The て-form",
+      "chapters": [
+        {
+          "id": "tef",
+          "title": "Requests, permission and linking actions",
+          "lessons": [
+            "lessons/tef-01.md",
+            "lessons/tef-02.md",
+            "lessons/tef-03.md"
+          ],
+          "test": "tests/tef-test.md"
+        }
+      ]
+    },
+    {
+      "id": "tei",
+      "title": "Part 2: ～ている",
+      "chapters": [
+        {
+          "id": "tei",
+          "title": "What's happening and how things are",
+          "lessons": [
+            "lessons/tei-01.md",
+            "lessons/tei-02.md"
+          ],
+          "test": "tests/tei-test.md"
+        }
+      ]
+    },
+    {
+      "id": "pln",
+      "title": "Part 3: Plain forms and casual speech",
+      "chapters": [
+        {
+          "id": "pln",
+          "title": "Talking like friends do",
+          "lessons": [
+            "lessons/pln-01.md",
+            "lessons/pln-02.md",
+            "lessons/pln-03.md"
+          ],
+          "test": "tests/pln-test.md"
+        }
+      ]
+    },
+    {
+      "id": "mod",
+      "title": "Part 4: Describing and connecting",
+      "chapters": [
+        {
+          "id": "mod",
+          "title": "Longer, richer sentences",
+          "lessons": [
+            "lessons/mod-01.md",
+            "lessons/mod-02.md",
+            "lessons/mod-03.md"
+          ],
+          "test": "tests/mod-test.md"
+        }
+      ]
+    },
+    {
+      "id": "cmp",
+      "title": "Part 5: Comparisons and advice",
+      "chapters": [
+        {
+          "id": "cmp",
+          "title": "Better, best, too much",
+          "lessons": [
+            "lessons/cmp-01.md",
+            "lessons/cmp-02.md"
+          ],
+          "test": "tests/cmp-test.md"
+        }
+      ]
+    },
+    {
+      "id": "mid",
+      "title": "Midterm review",
+      "chapters": [
+        {
+          "id": "mida",
+          "title": "Midterm review A",
+          "lessons": [],
+          "test": "tests/mida-test.md"
+        },
+        {
+          "id": "midb",
+          "title": "Midterm review B",
+          "lessons": [],
+          "test": "tests/midb-test.md"
+        }
+      ]
+    },
+    {
+      "id": "obl",
+      "title": "Part 6: Plans, obligations and guesses",
+      "chapters": [
+        {
+          "id": "obl",
+          "title": "Must, plan to, might",
+          "lessons": [
+            "lessons/obl-01.md",
+            "lessons/obl-02.md",
+            "lessons/obl-03.md"
+          ],
+          "test": "tests/obl-test.md"
+        }
+      ]
+    },
+    {
+      "id": "giv",
+      "title": "Part 7: Giving and receiving",
+      "chapters": [
+        {
+          "id": "giv",
+          "title": "Gifts and favours",
+          "lessons": [
+            "lessons/giv-01.md",
+            "lessons/giv-02.md"
+          ],
+          "test": "tests/giv-test.md"
+        }
+      ]
+    },
+    {
+      "id": "cnd",
+      "title": "Part 8: Time, reasons and conditions",
+      "chapters": [
+        {
+          "id": "cnd",
+          "title": "When, if and because",
+          "lessons": [
+            "lessons/cnd-01.md",
+            "lessons/cnd-02.md",
+            "lessons/cnd-03.md"
+          ],
+          "test": "tests/cnd-test.md"
+        }
+      ]
+    },
+    {
+      "id": "chg",
+      "title": "Part 9: Ability and change",
+      "chapters": [
+        {
+          "id": "chg",
+          "title": "Can do, and becoming",
+          "lessons": [
+            "lessons/chg-01.md",
+            "lessons/chg-02.md"
+          ],
+          "test": "tests/chg-test.md"
+        }
+      ]
+    },
+    {
+      "id": "kan",
+      "title": "Part 10: Kanji",
+      "chapters": [
+        {
+          "id": "kan",
+          "title": "80 more kanji",
+          "lessons": [
+            "lessons/kan-01.md",
+            "lessons/kan-02.md",
+            "lessons/kan-03.md",
+            "lessons/kan-04.md",
+            "lessons/kan-05.md",
+            "lessons/kan-06.md"
+          ],
+          "test": "tests/kan-test.md"
+        }
+      ]
+    },
+    {
+      "id": "fin",
+      "title": "Final review",
+      "chapters": [
+        {
+          "id": "fina",
+          "title": "Final review A",
+          "lessons": [],
+          "test": "tests/fina-test.md"
+        },
+        {
+          "id": "finb",
+          "title": "Final review B",
+          "lessons": [],
+          "test": "tests/finb-test.md"
+        }
+      ]
+    }
+  ]
+}
