@@ -45,3 +45,57 @@ Between which two whole numbers is $\sqrt{40}$?
 - [ ] 7 and 8
 solution: $6^2 = 36$ and $7^2 = 49$.
 :::
+
+::: problem id=t9 type=numeric answer="0.9"
+$\sqrt{0.81} = ?$
+solution: $0.9 \times 0.9 = 0.81$.
+:::
+
+::: problem id=t10 type=choice
+Between which two whole numbers is $\sqrt{90}$?
+- [x] 9 and 10
+- [ ] 8 and 9
+- [ ] 10 and 11
+- [ ] 44 and 46
+solution: $9^2 = 81$ and $10^2 = 100$.
+:::
+
+::: problem id=t11 type=numeric answer="121"
+A square has a perimeter of 44 cm. What is its area in cm²?
+solution: Side $44 \div 4 = 11$. Area $11^2 = 121$ cm².
+:::
+
+::: problem id=t12 type=numeric answer="13"
+A rectangle has an area of 91 m² and a width of 7 m. How long is it?
+solution: $91 \div 7 = 13$ m.
+:::
+
+::: problem id=t13 type=numeric answer="18pi"
+What is the circumference of a circle with radius 9? Give it in terms of π.
+solution: $2\pi \times 9 = 18\pi$.
+:::
+
+::: problem id=t14 type=numeric answer="49pi"
+What is the area of a circle with diameter 14? Give it in terms of π.
+solution: $r = 7$, so $\pi \times 7^2 = 49\pi$.
+:::
+
+::: problem id=t15 type=text answers="yes"
+Can a triangle with sides 9, 12 and 15 be a right triangle? Type yes or no.
+solution: $81 + 144 = 225 = 15^2$, so **yes**.
+:::
+
+::: problem id=t16 type=numeric answer="6"
+A 10 m ladder leans on a wall and reaches 8 m up. How far is its foot from the wall?
+solution: $d^2 = 100 - 64 = 36$, so $d = 6$ m.
+:::
+
+::: problem id=t17 type=numeric answer="13"
+On a grid, point P is 5 units to the right of point O and 12 units above it. How far is P from O, in a straight line?
+solution: Legs 5 and 12: $\sqrt{25 + 144} = \sqrt{169} = 13$.
+:::
+
+::: problem id=t18 type=numeric answer="64-9pi" tolerance="0.06"
+A round flower bed with radius 3 m sits in a square lawn 8 m by 8 m. What area of the square is not flower bed, to the nearest tenth of a m²?
+solution: $64 - 9\pi \approx 64 - 28.27 = 35.7$ m².
+:::

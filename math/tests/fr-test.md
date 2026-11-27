@@ -47,3 +47,61 @@ Which fraction equals $\frac{6}{9}$?
 - [ ] $\frac{9}{6}$
 solution: Divide top and bottom by 3: $\frac{2}{3}$.
 :::
+
+::: problem id=t9 type=shade parts=10 answer="2/5"
+Shade $\frac{2}{5}$ of the bar.
+solution: $\frac{2}{5} = \frac{4}{10}$, so shade any 4 of the 10 parts.
+:::
+
+::: problem id=t10 type=numeric answer="42"
+$\frac{5}{7} = \frac{30}{?}$. What is the missing number?
+solution: $5 \times 6 = 30$, so $7 \times 6 = 42$.
+:::
+
+::: problem id=t11 type=numeric answer="5"
+Simplify $\frac{40}{56}$. What is the numerator in simplest form?
+solution: GCF 8: $\frac{40 \div 8}{56 \div 8} = \frac{5}{7}$. The numerator is **5**.
+:::
+
+::: problem id=t12 type=choice
+Which fraction is already in simplest form?
+- [ ] $\frac{15}{25}$
+- [ ] $\frac{14}{35}$
+- [x] $\frac{9}{20}$
+- [ ] $\frac{12}{18}$
+solution: 15 and 25 share 5, 14 and 35 share 7, 12 and 18 share 6. 9 and 20 share only 1.
+:::
+
+::: problem id=t13 type=numeric answer="5/12"
+Which is smaller, $\frac{5}{12}$ or $\frac{4}{9}$? Type the smaller fraction.
+solution: Denominator 36: $\frac{15}{36}$ and $\frac{16}{36}$. The smaller is $\frac{5}{12}$.
+:::
+
+::: problem id=t14 type=choice
+Order from smallest to largest: $\frac{3}{4}$, $\frac{2}{3}$, $\frac{5}{8}$.
+- [x] $\frac{5}{8}, \frac{2}{3}, \frac{3}{4}$
+- [ ] $\frac{2}{3}, \frac{5}{8}, \frac{3}{4}$
+- [ ] $\frac{3}{4}, \frac{2}{3}, \frac{5}{8}$
+- [ ] $\frac{2}{3}, \frac{3}{4}, \frac{5}{8}$
+solution: In 24ths: $\frac{18}{24}$, $\frac{16}{24}$, $\frac{15}{24}$. Order: $\frac{5}{8}, \frac{2}{3}, \frac{3}{4}$.
+:::
+
+::: problem id=t15 type=numeric answer="43/6"
+Write $7\frac{1}{6}$ as an improper fraction.
+solution: $7 \times 6 + 1 = 43$, so $\frac{43}{6}$.
+:::
+
+::: problem id=t16 type=numeric answer="3 3/4"
+Write $\frac{30}{8}$ as a mixed number in simplest form.
+solution: $30 \div 8 = 3$ remainder 6: $3\frac{6}{8} = 3\frac{3}{4}$.
+:::
+
+::: problem id=t17 type=numeric answer="4"
+In a survey, 36 of 48 people said yes and the rest said no. What fraction said no, in simplest form? Type the denominator.
+solution: No: $48 - 36 = 12$. $\frac{12}{48} = \frac{1}{4}$. The denominator is **4**.
+:::
+
+::: problem id=t18 type=numeric answer="21"
+A jug holds $5\frac{1}{4}$ litres. How many quarter-litre glasses can it fill?
+solution: $5\frac{1}{4} = \frac{5 \times 4 + 1}{4} = \frac{21}{4}$: **21** glasses.
+:::

@@ -70,3 +70,116 @@ Think of a number n. Add 3, double it, subtract 6, then halve it. Write what you
 hint: Write each step: $n + 3$, then $2(n + 3)$, ...
 solution: $\frac{2(n + 3) - 6}{2} = \frac{2n + 6 - 6}{2} = \frac{2n}{2} = n$. You always get back your number!
 :::
+
+::: problem id=x1 type=numeric answer="12" set=extra
+$6(x + 2) = 6x + \square$. What goes in the box?
+solution: $6 \times 2 = 12$.
+:::
+
+::: problem id=x2 type=numeric answer="20" set=extra
+$4(3y - 5) = 12y - \square$. What goes in the box?
+solution: $4 \times 5 = 20$.
+:::
+
+::: problem id=x3 type=numeric answer="20" set=extra
+Expand $-5(x - 4)$. What is the number without an x?
+solution: $-5 \times (-4) = 20$, so $-5x + 20$.
+:::
+
+::: problem id=x4 type=numeric answer="-9" set=extra
+Expand $-(2x + 9)$. What is the number without an x?
+solution: The minus changes every sign: $-2x - 9$.
+:::
+
+::: problem id=x5 type=choice set=extra
+$7(2a + 1) = ?$
+- [x] $14a + 7$
+- [ ] $14a + 1$
+- [ ] $9a + 8$
+- [ ] $2a + 7$
+solution: Multiply both terms by 7: $14a + 7$.
+:::
+
+::: problem id=x6 type=numeric answer="5" set=extra
+Expand $\frac{1}{2}(4x + 10)$. What is the number without an x?
+solution: $\frac{1}{2} \times 10 = 5$, so $2x + 5$.
+:::
+
+::: problem id=x7 type=numeric answer="10" set=extra
+Simplify $3(x + 4) + 2(x - 1)$. What is the number without an x?
+solution: $3x + 12 + 2x - 2 = 5x + 10$.
+:::
+
+::: problem id=x8 type=numeric answer="2" set=extra
+Simplify $5(x - 2) - 3x$. What number goes in front of x?
+solution: $5x - 10 - 3x = 2x - 10$.
+:::
+
+::: problem id=x9 type=numeric answer="3" set=extra
+$8x + 12 = 4(2x + \square)$. What goes in the box?
+solution: $4 \times 3 = 12$.
+:::
+
+::: problem id=x10 type=numeric answer="3" set=extra
+$15y - 10 = 5(\square y - 2)$. What goes in the box?
+solution: $5 \times 3 = 15$, so $5(3y - 2)$.
+:::
+
+::: problem id=x11 type=choice set=extra
+Raj writes $3(x + 5) = 3x + 5$. What should it be?
+- [ ] $3x + 5$ is right.
+- [x] $3x + 15$
+- [ ] $x + 15$
+- [ ] $3x + 8$
+solution: Multiply **every** term by 3: $3x + 15$.
+:::
+
+::: problem id=x12 type=numeric answer="618" set=extra
+Use $6(100 + 3)$ to work out $6 \times 103$.
+solution: $600 + 18 = 618$.
+:::
+
+::: problem id=x13 type=expression answer="4x+8" set=extra
+4 friends each buy a sandwich for x dollars and a drink for 2 dollars. Write the total cost.
+solution: $4(x + 2) = 4x + 8$ dollars.
+:::
+
+::: problem id=x14 type=numeric answer="1" set=extra
+Simplify $2(x - 3) - (x - 7)$. What is the number without an x?
+solution: $2x - 6 - x + 7 = x + 1$.
+:::
+
+::: problem id=x15 type=numeric answer="12" set=extra
+Expand $-4(2 - 3x)$. What number goes in front of x?
+solution: $-4 \times (-3x) = 12x$, so $-8 + 12x$.
+:::
+
+::: problem id=x16 type=numeric answer="9" set=extra
+Evaluate $3(2x - 1) - 2(x + 4)$ when $x = 5$.
+solution: $3(9) - 2(9) = 27 - 18 = 9$.
+:::
+
+::: problem id=x17 type=numeric answer="1" set=extra
+Simplify $0.5(6x - 4) + 3(x + 1)$. What is the number without an x?
+hint: Expand each bracket first.
+solution: $3x - 2 + 3x + 3 = 6x + 1$.
+:::
+
+::: problem id=x18 type=numeric answer="4" set=extra
+Simplify $-3(x - 2) + 4(2x - 1) - x$. What number goes in front of x?
+hint: Watch the sign: $-3 \times (-2) = +6$.
+solution: $-3x + 6 + 8x - 4 - x = 4x + 2$.
+:::
+
+::: problem id=x19 type=expression answer="4x+16" set=extra
+A rectangle is $2x + 5$ long and 3 wide. Write its perimeter.
+hint: Perimeter is 2 times the length plus 2 times the width.
+solution: $2(2x + 5) + 2(3)$
+$= 4x + 10 + 6 = 4x + 16$.
+:::
+
+::: problem id=x20 type=numeric answer="4" set=extra creative=true
+What number k makes $3(x + k) - 2x = x + 12$ true for every x?
+hint: Expand and simplify the left side.
+solution: $3x + 3k - 2x = x + 3k$. This equals $x + 12$ when $3k = 12$, so $k = 4$.
+:::

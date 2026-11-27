@@ -11,7 +11,9 @@ Derivative of the **outside** (leave the inside alone), **times** the derivative
 :::
 
 ::: example
-$\frac{d}{dx}(3x + 1)^5 = 5(3x + 1)^4 \cdot 3 = 15(3x + 1)^4$.
+$\frac{d}{dx}(3x + 1)^5 = 5(3x + 1)^4 \cdot 3$
+
+$= 15(3x + 1)^4$.
 :::
 
 ::: example
@@ -66,4 +68,120 @@ solution: $e^{\sin x} \cdot \cos x$.
 Use the chain rule to differentiate $\sin^2 x + \cos^2 x$. What do you get, and why does it make sense?
 hint: $\frac{d}{dx}\sin^2 x = 2\sin x\cos x$.
 solution: $2\sin x\cos x - 2\cos x\sin x = 0$. It makes sense: $\sin^2 x + \cos^2 x = 1$, a constant.
+:::
+
+::: problem id=x1 type=expression answer="20(5x-2)^3" set=extra
+$\frac{d}{dx}(5x - 2)^4 = ?$
+solution: $4(5x - 2)^3 \cdot 5 = 20(5x - 2)^3$.
+:::
+
+::: problem id=x2 type=expression answer="-4sin(4x)" set=extra
+$\frac{d}{dx}\cos(4x) = ?$
+solution: $-\sin(4x) \cdot 4$.
+:::
+
+::: problem id=x3 type=expression answer="-2e^(-2x)" set=extra
+$\frac{d}{dx}e^{-2x} = ?$
+solution: $e^{-2x} \cdot (-2)$.
+:::
+
+::: problem id=x4 type=expression answer="3/(3x+1)" set=extra
+$\frac{d}{dx}\ln(3x + 1) = ?$
+solution: $\frac{1}{3x + 1} \cdot 3$.
+:::
+
+::: problem id=x5 type=expression answer="2/sqrt(4x+1)" set=extra
+$\frac{d}{dx}\sqrt{4x + 1} = ?$
+solution: $\frac{1}{2\sqrt{4x + 1}} \cdot 4 = \frac{2}{\sqrt{4x + 1}}$.
+:::
+
+::: problem id=x6 type=expression answer="3sin(x)^2cos(x)" set=extra
+$\frac{d}{dx}\sin^3 x = ?$
+hint: $\sin^3 x = (\sin x)^3$.
+solution: $3(\sin x)^2 \cdot \cos x$.
+:::
+
+::: problem id=x7 type=expression answer="5(x^2-3x)^4(2x-3)" set=extra
+$\frac{d}{dx}(x^2 - 3x)^5 = ?$
+solution: $5(x^2 - 3x)^4 \cdot (2x - 3)$.
+:::
+
+::: problem id=x8 type=expression answer="2sec(2x)^2" set=extra
+$\frac{d}{dx}\tan(2x) = ?$
+solution: $\sec^2(2x) \cdot 2$.
+:::
+
+::: problem id=x9 type=expression answer="-6x/(x^2+1)^4" set=extra
+$\frac{d}{dx}\frac{1}{(x^2 + 1)^3} = ?$
+hint: Write it as $(x^2 + 1)^{-3}$.
+solution: $-3(x^2 + 1)^{-4} \cdot 2x = \frac{-6x}{(x^2 + 1)^4}$.
+:::
+
+::: problem id=x10 type=numeric answer="3e" set=extra
+$f(x) = e^{x^3}$. What is $f'(1)$?
+solution: $f' = e^{x^3} \cdot 3x^2$. At 1: $3e$.
+:::
+
+::: problem id=x11 type=numeric answer="15" set=extra
+$g(1) = 2$, $g'(1) = 3$ and $f'(2) = 5$. What is the derivative of $f(g(x))$ at $x = 1$?
+solution: $f'(g(1)) \cdot g'(1) = f'(2) \cdot 3 = 15$.
+:::
+
+::: problem id=x12 type=choice set=extra
+A student writes $\frac{d}{dx}\sin(x^2) = \cos(2x)$. What is right?
+- [ ] $\cos(2x)$
+- [ ] $\cos(x^2)$
+- [x] $2x\cos(x^2)$
+- [ ] $2x\cos(2x)$
+solution: Keep the inside as it is, then multiply by its derivative: $\cos(x^2) \cdot 2x$.
+:::
+
+::: problem id=x13 type=expression answer="4x/5+9/5" set=extra
+Write the tangent line to $y = \sqrt{x^2 + 9}$ at $x = 4$ as $y = \ldots$
+hint: $y' = \frac{x}{\sqrt{x^2 + 9}}$.
+solution: Point $(4, 5)$, slope $\frac{4}{5}$.
+$y = \frac{4}{5}(x - 4) + 5 = \frac{4x}{5} + \frac{9}{5}$.
+:::
+
+::: problem id=x14 type=numeric answer="12pi" set=extra
+A circle's radius grows as $r = 2t + 1$ cm. Its area is $A = \pi r^2$. How fast is the area growing at $t = 1$ (in cm² per unit time)?
+hint: $A(t) = \pi(2t + 1)^2$.
+solution: $A' = 2\pi(2t + 1) \cdot 2$. At 1: $2\pi \cdot 3 \cdot 2 = 12\pi$.
+:::
+
+::: problem id=x15 type=expression answer="-tan(x)" set=extra
+$\frac{d}{dx}\ln(\cos x) = ?$
+solution: $\frac{1}{\cos x} \cdot (-\sin x) = -\tan x$.
+:::
+
+::: problem id=x16 type=expression answer="e^(2x)+2xe^(2x)" set=extra
+$\frac{d}{dx}(xe^{2x}) = ?$
+hint: Product rule, and the chain rule for $e^{2x}$.
+solution: $1 \cdot e^{2x} + x \cdot 2e^{2x}$.
+:::
+
+::: problem id=x17 type=expression answer="-6sin(3x)cos(3x)" set=extra
+$\frac{d}{dx}\cos^2(3x) = ?$
+hint: Three layers: square, cosine, $3x$.
+solution: $2\cos(3x) \cdot (-\sin(3x)) \cdot 3$
+$= -6\sin(3x)\cos(3x)$.
+:::
+
+::: problem id=x18 type=expression answer="1/(x^2+1)^(3/2)" set=extra
+$\frac{d}{dx}\frac{x}{\sqrt{x^2 + 1}} = ?$
+hint: Quotient rule; the bottom's derivative is $\frac{x}{\sqrt{x^2 + 1}}$.
+solution: $\frac{\sqrt{x^2 + 1} - \frac{x^2}{\sqrt{x^2 + 1}}}{x^2 + 1}$.
+Top over one root: $\frac{1}{\sqrt{x^2 + 1}}$. So $\frac{1}{(x^2 + 1)^{3/2}}$.
+:::
+
+::: problem id=x19 type=expression answer="2cos(2x)e^(sin(2x))" set=extra
+$\frac{d}{dx}e^{\sin 2x} = ?$
+hint: Outside $e^u$, middle $\sin v$, inside $2x$.
+solution: $e^{\sin 2x} \cdot \cos 2x \cdot 2$.
+:::
+
+::: problem id=x20 type=expression answer="ln(5)*5^x" set=extra creative=true
+Write $5^x = e^{x\ln 5}$ and use the chain rule. What is $\frac{d}{dx}5^x$?
+hint: $\ln 5$ is just a constant.
+solution: $e^{x\ln 5} \cdot \ln 5 = 5^x \ln 5$. This is why $a^x \to a^x\ln a$.
 :::

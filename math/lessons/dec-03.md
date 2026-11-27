@@ -60,3 +60,119 @@ $12.5 \times 0.04 = ?$
 hint: $125 \times 4 = 500$.
 solution: $125 \times 4 = 500$, three decimal digits: 0.500 = **0.5**.
 :::
+
+::: problem id=x1 type=numeric answer="5.6" set=extra
+$0.7 \times 8 = ?$
+solution: $7 \times 8 = 56$, one decimal digit: **5.6**.
+:::
+
+::: problem id=x2 type=numeric answer="0.72" set=extra
+$2.4 \times 0.3 = ?$
+solution: $24 \times 3 = 72$, two decimal digits: **0.72**.
+:::
+
+::: problem id=x3 type=numeric answer="0.03" set=extra
+$0.05 \times 0.6 = ?$
+solution: $5 \times 6 = 30$, three decimal digits: 0.030 = **0.03**.
+:::
+
+::: problem id=x4 type=numeric answer="625" set=extra
+$6.25 \times 100 = ?$
+solution: Move the point two places right: **625**.
+:::
+
+::: problem id=x5 type=numeric answer="1.44" set=extra
+$1.2 \times 1.2 = ?$
+solution: $12 \times 12 = 144$, two decimal digits: **1.44**.
+:::
+
+::: problem id=x6 type=numeric answer="4" set=extra
+$0.004 \times 1000 = ?$
+solution: Move the point three places right: 0004. = **4**.
+:::
+
+::: problem id=x7 type=numeric answer="9" set=extra
+$3.6 \times 2.5 = ?$
+solution: $36 \times 25 = 900$, two decimal digits: 9.00 = **9**.
+:::
+
+::: problem id=x8 type=choice set=extra
+Omar wrote $0.3 \times 0.2 = 0.6$. What is the right answer?
+- [ ] 0.6
+- [x] 0.06
+- [ ] 0.006
+- [ ] 6
+solution: $3 \times 2 = 6$, and there are two decimal digits in total: **0.06**.
+:::
+
+::: problem id=x9 type=choice set=extra
+Without working it out: $4.5 \times 0.8$ is...
+- [x] less than 4.5
+- [ ] more than 4.5
+- [ ] equal to 4.5
+solution: Multiplying by a number less than 1 gives less. ($4.5 \times 0.8 = 3.6$.)
+:::
+
+::: problem id=x10 type=numeric answer="74" set=extra
+Fuel costs 1.85 dollars per litre. How much do 40 litres cost?
+solution: $185 \times 40 = 7400$, two decimal digits: 74.00 = **74** dollars.
+:::
+
+::: problem id=x11 type=numeric answer="9.9" set=extra
+A rectangle is 4.5 m long and 2.2 m wide. What is its area in m²?
+solution: $45 \times 22 = 990$, two decimal digits: 9.90 = **9.9** m².
+:::
+
+::: problem id=x12 type=numeric answer="0.25" set=extra
+$(0.5)^2 = ?$
+solution: $0.5 \times 0.5$: $5 \times 5 = 25$, two decimal digits: **0.25**.
+:::
+
+::: problem id=x13 type=numeric answer="0.1" set=extra
+$0.25 \times 0.4 = ?$
+solution: $25 \times 4 = 100$, three decimal digits: 0.100 = **0.1**.
+:::
+
+::: problem id=x14 type=numeric answer="5" set=extra
+Before simplifying, how many decimal digits does the product $1.23 \times 0.045$ have?
+solution: 1.23 has 2 and 0.045 has 3: $2 + 3 = 5$. ($123 \times 45 = 5535$, so 0.05535.)
+:::
+
+::: problem id=x15 type=choice set=extra
+Estimate $5.9 \times 3.1$.
+- [ ] About 15
+- [x] About 18
+- [ ] About 24
+- [ ] About 180
+solution: $5.9 \approx 6$ and $3.1 \approx 3$: about 18. (Exact: 18.29.)
+:::
+
+::: problem id=x16 type=numeric answer="13.5" set=extra
+Apples cost 2.40 dollars per kg and grapes 4.20 dollars per kg. What do 3 kg of apples and 1.5 kg of grapes cost together?
+hint: Work out each cost, then add.
+solution: $3 \times 2.40 = 7.20$ and $1.5 \times 4.20 = 6.30$. Total **13.50** dollars.
+:::
+
+::: problem id=x17 type=numeric answer="15" set=extra
+$12 \times 0.75 + 0.75 \times 8 = ?$
+hint: Both terms have 0.75. Use the distributive property.
+solution: $0.75 \times (12 + 8) = 0.75 \times 20 = 15$.
+:::
+
+::: problem id=x18 type=numeric answer="42" set=extra
+A car uses 0.08 L of fuel per km. Fuel costs 1.50 dollars per litre. What does a 350 km trip cost?
+hint: Find the litres first.
+solution: $350 \times 0.08 = 28$ L. $28 \times 1.50 = 42$ dollars.
+:::
+
+::: problem id=x19 type=numeric answer="0.008" set=extra
+$(0.2)^3 = ?$
+hint: $2 \times 2 \times 2 = 8$. Count the decimal digits.
+solution: $0.2 \times 0.2 \times 0.2$: $2^3 = 8$, three decimal digits: **0.008**.
+:::
+
+::: problem id=x20 type=numeric answer="1.591" set=extra creative=true
+$37 \times 43 = 1591$. Use this to find $3.7 \times 0.43$.
+hint: Count the decimal digits in $3.7$ and $0.43$.
+solution: One plus two is three decimal digits: $1591 \to 1.591$.
+:::

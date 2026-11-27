@@ -72,3 +72,124 @@ solution: 0.305, 0.350 and 0.300. The smallest is **0.3**.
 Round 0.0961 to the nearest hundredth.
 solution: The hundredths digit is 9 and the next digit is 6, so round up: 0.10, which is **0.1**.
 :::
+
+::: problem id=x1 type=numeric answer="7.8" set=extra
+Round 7.849 to the nearest tenth.
+solution: The tenths digit is 8; the next digit is 4, so keep it: **7.8**.
+:::
+
+::: problem id=x2 type=numeric answer="0.456" set=extra
+Round 0.4562 to the nearest thousandth.
+solution: The thousandths digit is 6; the next digit is 2, so keep it: **0.456**.
+:::
+
+::: problem id=x3 type=numeric answer="4" set=extra
+Round 3.995 to the nearest hundredth.
+hint: Rounding the 9 up makes a chain of carries.
+solution: The next digit is 5, so round up: 3.99 becomes 4.00, which is **4**.
+:::
+
+::: problem id=x4 type=numeric answer="0.08" set=extra
+What is the digit 8 worth in 5.384? Type it as a decimal.
+solution: 3 is tenths, 8 is hundredths: **0.08**.
+:::
+
+::: problem id=x5 type=numeric answer="6.07" set=extra
+Write $6 + \frac{7}{100}$ as a decimal.
+solution: 6 ones, 0 tenths, 7 hundredths: **6.07**.
+:::
+
+::: problem id=x6 type=numeric answer="20" set=extra
+Round 19.96 to the nearest whole number.
+solution: The tenths digit is 9, so round up: **20**.
+:::
+
+::: problem id=x7 type=choice set=extra
+Which is the biggest?
+- [ ] 0.09
+- [x] 0.1
+- [ ] 0.089
+- [ ] 0.0999
+solution: Write all with four places: 0.0900, 0.1000, 0.0890, 0.0999. The biggest is **0.1**.
+:::
+
+::: problem id=x8 type=point answer="0.35" step=0.05 set=extra
+Mark 0.35 on the number line.
+graph:
+numberline 0..1
+ticks 0.05
+labels 0.1
+solution: 0.35 is halfway between 0.3 and 0.4.
+:::
+
+::: problem id=x9 type=text answers="hundredths;hundredth;hundredths place" set=extra
+In 4.27, which place is the 7 in?
+solution: 2 is in the tenths place and 7 in the **hundredths** place.
+:::
+
+::: problem id=x10 type=choice set=extra
+Order from smallest to largest: 0.6, 0.06, 0.66, 0.606.
+- [x] 0.06, 0.6, 0.606, 0.66
+- [ ] 0.06, 0.6, 0.66, 0.606
+- [ ] 0.6, 0.06, 0.606, 0.66
+- [ ] 0.66, 0.606, 0.6, 0.06
+solution: As thousandths: 600, 60, 660, 606. Order: 0.06, 0.6, 0.606, 0.66.
+:::
+
+::: problem id=x11 type=numeric answer="2.015" set=extra
+Write "two and fifteen thousandths" as a decimal.
+solution: Fifteen thousandths is $\frac{15}{1000} = 0.015$. So **2.015**.
+:::
+
+::: problem id=x12 type=choice set=extra
+Max says 0.45 is bigger than 0.5 because 45 is bigger than 5. What is right?
+- [x] 0.5 is bigger, because 0.5 = 0.50 and 50 > 45
+- [ ] Max is right
+- [ ] They are equal
+solution: Compare the same places: 0.50 against 0.45. 0.5 is bigger.
+:::
+
+::: problem id=x13 type=numeric answer="12.34" set=extra
+Three runners finish a race in 12.43 s, 12.4 s and 12.34 s. What is the winning (fastest) time?
+solution: Fastest is the smallest: 12.430, 12.400, 12.340. The winner ran **12.34** s.
+:::
+
+::: problem id=x14 type=numeric answer="70" set=extra
+How many hundredths are in 0.7?
+solution: 0.7 = 0.70, which is **70** hundredths.
+:::
+
+::: problem id=x15 type=numeric answer="4.68" set=extra
+A price works out to 4.678 dollars. Round it to the nearest cent (hundredth).
+solution: The thousandths digit is 8, so round up: **4.68** dollars.
+:::
+
+::: problem id=x16 type=numeric answer="3.55" set=extra
+What is the smallest number with two decimal places that rounds to 3.6 (nearest tenth)?
+hint: Which hundredths digits round 3.5_ up?
+solution: 3.55 to 3.59 round up to 3.6; 3.54 rounds down. The smallest is **3.55**.
+:::
+
+::: problem id=x17 type=numeric answer="9" set=extra
+How many numbers with exactly two decimal places lie strictly between 2.3 and 2.4?
+hint: Write 2.3 as 2.30 and 2.4 as 2.40.
+solution: 2.31, 2.32, ..., 2.39: **9** numbers.
+:::
+
+::: problem id=x18 type=numeric answer="0.523" set=extra
+What number is 4 tenths plus 12 hundredths plus 3 thousandths?
+hint: 12 hundredths is 1 tenth and 2 hundredths.
+solution: $0.4 + 0.12 + 0.003 = 0.523$.
+:::
+
+::: problem id=x19 type=numeric answer="2.54" set=extra
+What is the largest number with two decimal places that rounds to 2.5 (nearest tenth)?
+hint: 2.55 already rounds up to 2.6.
+solution: 2.45 up to 2.54 round to 2.5. The largest is **2.54**.
+:::
+
+::: problem id=x20 type=numeric answer="0.37" set=extra creative=true
+Use the digits 3, 0 and 7, each once, to fill $0.\square\square\square$. Which number is closest to 0.5?
+hint: List the options that start with 3 or 7 after the point.
+solution: Options near 0.5: 0.307, 0.370, 0.703, 0.730. Distances: 0.193, 0.130, 0.203, 0.230. Closest: 0.370 = **0.37**.
+:::

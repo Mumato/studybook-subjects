@@ -1,6 +1,6 @@
 {
   "name": "Math",
-  "version": 13,
+  "version": 14,
   "description": "From multiplication and division to calculus, one step at a time.",
   "intro": "intro.md",
   "parts": [
@@ -16,7 +16,12 @@
             "lessons/wn-02.md",
             "lessons/wn-03.md"
           ],
-          "test": "tests/wn-test.md"
+          "test": "tests/wn-test.md",
+          "drills": [
+            "add-whole",
+            "sub-whole",
+            "round"
+          ]
         },
         {
           "id": "mul",
@@ -26,7 +31,11 @@
             "lessons/mul-02.md",
             "lessons/mul-03.md"
           ],
-          "test": "tests/mul-test.md"
+          "test": "tests/mul-test.md",
+          "drills": [
+            "times-table",
+            "mul-multi"
+          ]
         },
         {
           "id": "div",
@@ -36,7 +45,11 @@
             "lessons/div-02.md",
             "lessons/div-03.md"
           ],
-          "test": "tests/div-test.md"
+          "test": "tests/div-test.md",
+          "drills": [
+            "div-exact",
+            "div-rem"
+          ]
         },
         {
           "id": "ord",
@@ -45,7 +58,11 @@
             "lessons/ord-01.md",
             "lessons/ord-02.md"
           ],
-          "test": "tests/ord-test.md"
+          "test": "tests/ord-test.md",
+          "drills": [
+            "powers",
+            "order-ops"
+          ]
         },
         {
           "id": "fac",
@@ -55,7 +72,17 @@
             "lessons/fac-02.md",
             "lessons/fac-03.md"
           ],
-          "test": "tests/fac-test.md"
+          "test": "tests/fac-test.md",
+          "drills": [
+            "gcf",
+            "lcm"
+          ]
+        },
+        {
+          "id": "arith-exam",
+          "title": "Part 1 exam",
+          "lessons": [],
+          "test": "tests/arith-exam.md"
         }
       ]
     },
@@ -72,7 +99,11 @@
             "lessons/fr-03.md",
             "lessons/fr-04.md"
           ],
-          "test": "tests/fr-test.md"
+          "test": "tests/fr-test.md",
+          "drills": [
+            "frac-simplify",
+            "mixed-to-improper"
+          ]
         },
         {
           "id": "frop",
@@ -84,7 +115,13 @@
             "lessons/frop-04.md",
             "lessons/frop-05.md"
           ],
-          "test": "tests/frop-test.md"
+          "test": "tests/frop-test.md",
+          "drills": [
+            "frac-add",
+            "frac-sub",
+            "frac-mul",
+            "frac-div"
+          ]
         },
         {
           "id": "dec",
@@ -96,7 +133,12 @@
             "lessons/dec-04.md",
             "lessons/dec-05.md"
           ],
-          "test": "tests/dec-test.md"
+          "test": "tests/dec-test.md",
+          "drills": [
+            "dec-add",
+            "dec-mul",
+            "dec-div"
+          ]
         },
         {
           "id": "pct",
@@ -107,7 +149,12 @@
             "lessons/pct-03.md",
             "lessons/pct-04.md"
           ],
-          "test": "tests/pct-test.md"
+          "test": "tests/pct-test.md",
+          "drills": [
+            "pct-of",
+            "pct-find",
+            "pct-change"
+          ]
         },
         {
           "id": "rat",
@@ -117,7 +164,17 @@
             "lessons/rat-02.md",
             "lessons/rat-03.md"
           ],
-          "test": "tests/rat-test.md"
+          "test": "tests/rat-test.md",
+          "drills": [
+            "unit-rate",
+            "proportion"
+          ]
+        },
+        {
+          "id": "fdp-exam",
+          "title": "Part 2 exam",
+          "lessons": [],
+          "test": "tests/fdp-exam.md"
         }
       ]
     },
@@ -135,7 +192,12 @@
             "lessons/int-04.md",
             "lessons/int-05.md"
           ],
-          "test": "tests/int-test.md"
+          "test": "tests/int-test.md",
+          "drills": [
+            "int-add",
+            "int-sub",
+            "int-muldiv"
+          ]
         },
         {
           "id": "expr",
@@ -146,7 +208,12 @@
             "lessons/expr-03.md",
             "lessons/expr-04.md"
           ],
-          "test": "tests/expr-test.md"
+          "test": "tests/expr-test.md",
+          "drills": [
+            "evaluate",
+            "like-terms",
+            "distribute"
+          ]
         },
         {
           "id": "eq",
@@ -157,7 +224,12 @@
             "lessons/eq-03.md",
             "lessons/eq-04.md"
           ],
-          "test": "tests/eq-test.md"
+          "test": "tests/eq-test.md",
+          "drills": [
+            "eq-one-step",
+            "eq-two-step",
+            "eq-both-sides"
+          ]
         },
         {
           "id": "wp",
@@ -178,7 +250,32 @@
             "lessons/geo-03.md",
             "lessons/geo-04.md"
           ],
-          "test": "tests/geo-test.md"
+          "test": "tests/geo-test.md",
+          "drills": [
+            "sqrt-perfect",
+            "area-perimeter",
+            "circle",
+            "pythag"
+          ]
+        },
+        {
+          "id": "dat",
+          "title": "Data, measurement and probability",
+          "lessons": [
+            "lessons/dat-01.md",
+            "lessons/dat-02.md",
+            "lessons/dat-03.md"
+          ],
+          "test": "tests/dat-test.md",
+          "drills": [
+            "mean-median"
+          ]
+        },
+        {
+          "id": "prealg-exam",
+          "title": "Part 3 exam",
+          "lessons": [],
+          "test": "tests/prealg-exam.md"
         }
       ]
     },
@@ -195,7 +292,10 @@
             "lessons/lin-03.md",
             "lessons/lin-04.md"
           ],
-          "test": "tests/lin-test.md"
+          "test": "tests/lin-test.md",
+          "drills": [
+            "lin-multi"
+          ]
         },
         {
           "id": "graph",
@@ -207,7 +307,11 @@
             "lessons/graph-04.md",
             "lessons/graph-05.md"
           ],
-          "test": "tests/graph-test.md"
+          "test": "tests/graph-test.md",
+          "drills": [
+            "slope",
+            "line-through"
+          ]
         },
         {
           "id": "sys",
@@ -218,7 +322,10 @@
             "lessons/sys-03.md",
             "lessons/sys-04.md"
           ],
-          "test": "tests/sys-test.md"
+          "test": "tests/sys-test.md",
+          "drills": [
+            "sys-solve"
+          ]
         },
         {
           "id": "poly",
@@ -230,7 +337,11 @@
             "lessons/poly-04.md",
             "lessons/poly-05.md"
           ],
-          "test": "tests/poly-test.md"
+          "test": "tests/poly-test.md",
+          "drills": [
+            "exp-rules",
+            "expand-binomial"
+          ]
         },
         {
           "id": "fact",
@@ -242,7 +353,16 @@
             "lessons/fact-04.md",
             "lessons/fact-05.md"
           ],
-          "test": "tests/fact-test.md"
+          "test": "tests/fact-test.md",
+          "drills": [
+            "factor-trinomial"
+          ]
+        },
+        {
+          "id": "alg1-exam",
+          "title": "Part 4 exam",
+          "lessons": [],
+          "test": "tests/alg1-exam.md"
         }
       ]
     },
@@ -257,9 +377,15 @@
             "lessons/quad-01.md",
             "lessons/quad-02.md",
             "lessons/quad-03.md",
-            "lessons/quad-04.md"
+            "lessons/quad-04.md",
+            "lessons/quad-05.md",
+            "lessons/quad-06.md"
           ],
-          "test": "tests/quad-test.md"
+          "test": "tests/quad-test.md",
+          "drills": [
+            "quad-roots",
+            "discriminant"
+          ]
         },
         {
           "id": "ratx",
@@ -281,7 +407,22 @@
             "lessons/rad-03.md",
             "lessons/rad-04.md"
           ],
-          "test": "tests/rad-test.md"
+          "test": "tests/rad-test.md",
+          "drills": [
+            "sqrt-simplify"
+          ]
+        },
+        {
+          "id": "cpx",
+          "title": "Complex numbers",
+          "lessons": [
+            "lessons/cpx-01.md",
+            "lessons/cpx-02.md"
+          ],
+          "test": "tests/cpx-test.md",
+          "drills": [
+            "complex-mul"
+          ]
         },
         {
           "id": "fun",
@@ -291,9 +432,20 @@
             "lessons/fun-02.md",
             "lessons/fun-03.md",
             "lessons/fun-04.md",
-            "lessons/fun-05.md"
+            "lessons/fun-05.md",
+            "lessons/fun-06.md"
           ],
-          "test": "tests/fun-test.md"
+          "test": "tests/fun-test.md",
+          "drills": [
+            "fn-eval",
+            "compose"
+          ]
+        },
+        {
+          "id": "alg2-exam",
+          "title": "Part 5 exam",
+          "lessons": [],
+          "test": "tests/alg2-exam.md"
         }
       ]
     },
@@ -318,9 +470,14 @@
           "lessons": [
             "lessons/trig-01.md",
             "lessons/trig-02.md",
-            "lessons/trig-03.md"
+            "lessons/trig-03.md",
+            "lessons/trig-04.md",
+            "lessons/trig-05.md"
           ],
-          "test": "tests/trig-test.md"
+          "test": "tests/trig-test.md",
+          "drills": [
+            "trig-sides"
+          ]
         },
         {
           "id": "unit",
@@ -329,9 +486,21 @@
             "lessons/unit-01.md",
             "lessons/unit-02.md",
             "lessons/unit-03.md",
-            "lessons/unit-04.md"
+            "lessons/unit-04.md",
+            "lessons/unit-05.md",
+            "lessons/unit-06.md"
           ],
-          "test": "tests/unit-test.md"
+          "test": "tests/unit-test.md",
+          "drills": [
+            "trig-exact",
+            "deg-rad"
+          ]
+        },
+        {
+          "id": "geotrig-exam",
+          "title": "Part 6 exam",
+          "lessons": [],
+          "test": "tests/geotrig-exam.md"
         }
       ]
     },
@@ -349,7 +518,11 @@
             "lessons/exp-04.md",
             "lessons/exp-05.md"
           ],
-          "test": "tests/exp-test.md"
+          "test": "tests/exp-test.md",
+          "drills": [
+            "log-eval",
+            "exp-solve"
+          ]
         },
         {
           "id": "pre",
@@ -362,15 +535,55 @@
           "test": "tests/pre-test.md"
         },
         {
+          "id": "con",
+          "title": "Conic sections",
+          "lessons": [
+            "lessons/con-01.md",
+            "lessons/con-02.md",
+            "lessons/con-03.md"
+          ],
+          "test": "tests/con-test.md"
+        },
+        {
+          "id": "mat",
+          "title": "Matrices",
+          "lessons": [
+            "lessons/mat-01.md",
+            "lessons/mat-02.md"
+          ],
+          "test": "tests/mat-test.md"
+        },
+        {
           "id": "seq",
           "title": "Sequences and series",
           "lessons": [
             "lessons/seq-01.md",
             "lessons/seq-02.md",
             "lessons/seq-03.md",
-            "lessons/seq-04.md"
+            "lessons/seq-04.md",
+            "lessons/seq-05.md"
           ],
-          "test": "tests/seq-test.md"
+          "test": "tests/seq-test.md",
+          "drills": [
+            "seq-nth",
+            "arith-sum"
+          ]
+        },
+        {
+          "id": "vec",
+          "title": "Vectors, parametric equations and polar coordinates",
+          "lessons": [
+            "lessons/vec-01.md",
+            "lessons/vec-02.md",
+            "lessons/vec-03.md"
+          ],
+          "test": "tests/vec-test.md"
+        },
+        {
+          "id": "precalc-exam",
+          "title": "Part 7 exam",
+          "lessons": [],
+          "test": "tests/precalc-exam.md"
         }
       ]
     },
@@ -385,9 +598,13 @@
             "lessons/lim-01.md",
             "lessons/lim-02.md",
             "lessons/lim-03.md",
-            "lessons/lim-04.md"
+            "lessons/lim-04.md",
+            "lessons/lim-05.md"
           ],
-          "test": "tests/lim-test.md"
+          "test": "tests/lim-test.md",
+          "drills": [
+            "limit-factor"
+          ]
         },
         {
           "id": "der",
@@ -397,9 +614,16 @@
             "lessons/der-02.md",
             "lessons/der-03.md",
             "lessons/der-04.md",
-            "lessons/der-05.md"
+            "lessons/der-05.md",
+            "lessons/der-06.md",
+            "lessons/der-07.md"
           ],
-          "test": "tests/der-test.md"
+          "test": "tests/der-test.md",
+          "drills": [
+            "deriv-poly",
+            "deriv-at",
+            "chain-power"
+          ]
         },
         {
           "id": "app",
@@ -408,9 +632,21 @@
             "lessons/app-01.md",
             "lessons/app-02.md",
             "lessons/app-03.md",
-            "lessons/app-04.md"
+            "lessons/app-04.md",
+            "lessons/app-05.md"
           ],
           "test": "tests/app-test.md"
+        },
+        {
+          "id": "app2",
+          "title": "More applications of derivatives",
+          "lessons": [
+            "lessons/app-06.md",
+            "lessons/app-07.md",
+            "lessons/app-08.md",
+            "lessons/app-09.md"
+          ],
+          "test": "tests/app2-test.md"
         },
         {
           "id": "int1",
@@ -421,7 +657,17 @@
             "lessons/int1-03.md",
             "lessons/int1-04.md"
           ],
-          "test": "tests/int1-test.md"
+          "test": "tests/int1-test.md",
+          "drills": [
+            "antideriv-poly",
+            "definite-poly"
+          ]
+        },
+        {
+          "id": "calc1-exam",
+          "title": "Part 8 exam",
+          "lessons": [],
+          "test": "tests/calc1-exam.md"
         }
       ]
     },
@@ -436,9 +682,14 @@
             "lessons/tech-01.md",
             "lessons/tech-02.md",
             "lessons/tech-03.md",
-            "lessons/tech-04.md"
+            "lessons/tech-04.md",
+            "lessons/tech-05.md",
+            "lessons/tech-06.md"
           ],
-          "test": "tests/tech-test.md"
+          "test": "tests/tech-test.md",
+          "drills": [
+            "parts-xexp"
+          ]
         },
         {
           "id": "iapp",
@@ -447,9 +698,20 @@
             "lessons/iapp-01.md",
             "lessons/iapp-02.md",
             "lessons/iapp-03.md",
-            "lessons/iapp-04.md"
+            "lessons/iapp-04.md",
+            "lessons/iapp-05.md",
+            "lessons/iapp-06.md"
           ],
           "test": "tests/iapp-test.md"
+        },
+        {
+          "id": "par",
+          "title": "Parametric and polar calculus",
+          "lessons": [
+            "lessons/par-01.md",
+            "lessons/par-02.md"
+          ],
+          "test": "tests/par-test.md"
         },
         {
           "id": "ser",
@@ -458,9 +720,21 @@
             "lessons/ser-01.md",
             "lessons/ser-02.md",
             "lessons/ser-03.md",
-            "lessons/ser-04.md"
+            "lessons/ser-04.md",
+            "lessons/ser-05.md",
+            "lessons/ser-06.md"
           ],
-          "test": "tests/ser-test.md"
+          "test": "tests/ser-test.md",
+          "drills": [
+            "geo-series",
+            "taylor-coef"
+          ]
+        },
+        {
+          "id": "calc2-exam",
+          "title": "Part 9 exam",
+          "lessons": [],
+          "test": "tests/calc2-exam.md"
         }
       ]
     }

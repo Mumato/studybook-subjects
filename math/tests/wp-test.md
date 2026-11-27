@@ -43,3 +43,66 @@ solution: Divide by $-3$ and flip: $x > -4$.
 What is the smallest whole number n with $4n \ge 30$?
 solution: $n \ge 7.5$, so **8**.
 :::
+
+::: problem id=t8 type=numeric answer="-18"
+The quotient of a number and 6 is $-3$. What is the number?
+solution: $\frac{n}{6} = -3$, so $n = -18$.
+:::
+
+::: problem id=t9 type=numeric answer="7"
+8 less than 5 times a number is 27. What is the number?
+solution: $5n - 8 = 27$, $5n = 35$, $n = 7$.
+:::
+
+::: problem id=t10 type=choice
+Which equation means "twice the difference of a number and 4 is 10"?
+- [x] $2(n - 4) = 10$
+- [ ] $2n - 4 = 10$
+- [ ] $2(n + 4) = 10$
+- [ ] $n - 8 = 10$
+solution: The difference $n - 4$ is made first, then doubled.
+:::
+
+::: problem id=t11 type=numeric answer="-3"
+Three consecutive integers add up to $-6$. What is the smallest?
+solution: $3n + 3 = -6$, $3n = -9$, $n = -3$. ($-3, -2, -1$.)
+:::
+
+::: problem id=t12 type=numeric answer="7"
+Jen has 3 times as many books as Ken, which is 14 more than Ken has. How many books does Ken have?
+solution: $3k = k + 14$, so $2k = 14$ and $k = 7$.
+:::
+
+::: problem id=t13 type=numeric answer="80"
+30% of a number is 24. What is the number?
+solution: $0.3n = 24$, so $n = 80$.
+:::
+
+::: problem id=t14 type=numeric answer="12"
+60 m of fence goes around a rectangle that is 18 m long. How wide is it?
+solution: $2(18) + 2w = 60$, so $2w = 24$ and $w = 12$ m.
+:::
+
+::: problem id=t15 type=choice
+Solve $5 - 3x \le 20$.
+- [x] $x \ge -5$
+- [ ] $x \le -5$
+- [ ] $x \ge 5$
+- [ ] $x \le 5$
+solution: $-3x \le 15$. Divide by $-3$ and flip: $x \ge -5$.
+:::
+
+::: problem id=t16 type=numeric answer="-4"
+What is the largest integer that makes $2x + 7 < 0$ true?
+solution: $2x < -7$, so $x < -3.5$. The largest integer is $-4$.
+:::
+
+::: problem id=t17 type=text answers="yes"
+Is $-1$ a solution of $4 - x \ge 5$? Type yes or no.
+solution: $4 - (-1) = 5$, and $5 \ge 5$ is true: **yes**.
+:::
+
+::: problem id=t18 type=numeric answer="41"
+A hall costs 250 dollars plus 18 dollars per guest. The budget is 1000 dollars. What is the greatest number of guests?
+solution: $250 + 18g \le 1000$, so $18g \le 750$ and $g \le 41.7$. At most **41** guests.
+:::

@@ -74,3 +74,122 @@ solution: $21 \div 7 = 3$, so $2100 \div 7 = 300$.
 $4056 \div 12 = ?$
 solution: 40 ÷ 12 = 3 r 4. 45 ÷ 12 = 3 r 9. 96 ÷ 12 = 8. Answer: **338**. Check: $338 \times 12 = 4056$.
 :::
+
+::: problem id=x1 type=numeric answer="32" set=extra
+$96 \div 3 = ?$
+solution: 9 ÷ 3 = 3, 6 ÷ 3 = 2: **32**. Check: $32 \times 3 = 96$.
+:::
+
+::: problem id=x2 type=numeric answer="57" set=extra
+$456 \div 8 = ?$
+solution: 45 ÷ 8 = 5, $45 - 40 = 5$. Bring down 6: 56 ÷ 8 = 7. Answer: **57**.
+:::
+
+::: problem id=x3 type=numeric answer="213" set=extra
+$852 \div 4 = ?$
+solution: 8 ÷ 4 = 2. 5 ÷ 4 = 1 r 1. 12 ÷ 4 = 3. Answer: **213**. Check: $213 \times 4 = 852$.
+:::
+
+::: problem id=x4 type=numeric answer="469" set=extra
+$2345 \div 5 = ?$
+solution: 23 ÷ 5 = 4 r 3. 34 ÷ 5 = 6 r 4. 45 ÷ 5 = 9. Answer: **469**.
+:::
+
+::: problem id=x5 type=numeric answer="132" set=extra
+$1584 \div 12 = ?$
+solution: 15 ÷ 12 = 1 r 3. 38 ÷ 12 = 3 r 2. 24 ÷ 12 = 2. Answer: **132**.
+:::
+
+::: problem id=x6 type=numeric answer="133" set=extra
+$3192 \div 24 = ?$
+solution: 31 ÷ 24 = 1 r 7. 79 ÷ 24 = 3 r 7. 72 ÷ 24 = 3. Answer: **133**. Check: $133 \times 24 = 3192$.
+:::
+
+::: problem id=x7 type=numeric answer="800" set=extra
+$4800 \div 6 = ?$
+solution: $48 \div 6 = 8$, and the two zeros come along: **800**.
+:::
+
+::: problem id=x8 type=numeric answer="98" set=extra
+1176 eggs are packed in boxes of 12. How many boxes are filled?
+solution: 117 ÷ 12 = 9 r 9. 96 ÷ 12 = 8. Answer: **98** boxes.
+:::
+
+::: problem id=x9 type=choice set=extra
+Which calculation checks that $728 \div 8 = 91$?
+- [x] $91 \times 8 = 728$
+- [ ] $728 \times 8 = 5824$
+- [ ] $91 + 8 = 99$
+- [ ] $728 - 91 = 637$
+solution: Answer times divisor should give the starting number: $91 \times 8 = 728$.
+:::
+
+::: problem id=x10 type=choice set=extra
+Ana worked out $618 \div 6$ and got 13. What went wrong?
+- [x] 1 ÷ 6 is 0, so she needed a 0 in the tens place; the answer is 103
+- [ ] Nothing, 13 is right
+- [ ] The answer should be 130
+- [ ] The answer should be 1030
+solution: 6 ÷ 6 = 1. Bring down 1: 1 ÷ 6 = 0, write 0. Bring down 8: 18 ÷ 6 = 3. Answer: **103**. Check: $103 \times 6 = 618$.
+:::
+
+::: problem id=x11 type=numeric answer="150" set=extra
+9 friends share a prize of 1350 dollars equally. How many dollars does each get?
+solution: 13 ÷ 9 = 1 r 4. 45 ÷ 9 = 5. 0 ÷ 9 = 0. Answer: **150** dollars.
+:::
+
+::: problem id=x12 type=numeric answer="875" set=extra
+What number goes in the box? $\square \div 7 = 125$
+hint: Undo the division.
+solution: $\square = 125 \times 7 = 875$.
+:::
+
+::: problem id=x13 type=numeric answer="130" set=extra
+What number goes in the box? $1950 \div 15 = \square$
+solution: 19 ÷ 15 = 1 r 4. 45 ÷ 15 = 3. 0 ÷ 15 = 0. Answer: **130**.
+:::
+
+::: problem id=x14 type=numeric answer="6" set=extra
+A family drives 1260 km in 3 days, the same distance each day, at 70 km each hour. How many hours do they drive each day?
+hint: First find the distance for one day.
+solution: One day: $1260 \div 3 = 420$ km. Hours: $420 \div 70 = 6$.
+:::
+
+::: problem id=x15 type=choice set=extra
+Which is the best estimate of $3589 \div 9$?
+- [ ] 40
+- [x] 400
+- [ ] 4000
+- [ ] 300
+solution: $3589 \approx 3600$ and $3600 \div 9 = 400$.
+:::
+
+::: problem id=x16 type=numeric answer="469" set=extra
+4 concert tickets cost 268 dollars. How many dollars do 7 tickets cost?
+hint: Find the price of one ticket first.
+solution: One: $268 \div 4 = 67$. Seven: $67 \times 7 = 469$ dollars.
+:::
+
+::: problem id=x17 type=numeric answer="864" set=extra
+A factory makes 2016 toys in 7 days, the same number each day. How many toys does it make in 3 days?
+hint: Find one day first.
+solution: One day: $2016 \div 7 = 288$. Three days: $288 \times 3 = 864$.
+:::
+
+::: problem id=x18 type=numeric answer="148" set=extra
+A rectangular field has area 1344 square metres and is 32 m wide. How many metres of fence go around all four sides?
+hint: Length = area ÷ width.
+solution: Length: $1344 \div 32 = 42$ m. Fence: $42 + 32 + 42 + 32 = 148$ m.
+:::
+
+::: problem id=x19 type=numeric answer="459" set=extra
+$7344 \div 16 = ?$
+hint: Start with 73 ÷ 16.
+solution: 73 ÷ 16 = 4 r 9. 94 ÷ 16 = 5 r 14. 144 ÷ 16 = 9. Answer: **459**.
+:::
+
+::: problem id=x20 type=numeric answer="988" set=extra creative=true
+What is the largest 3-digit number that divides by 13 with nothing left over?
+hint: Try multiples of 13 close to 1000, such as $13 \times 77$.
+solution: $13 \times 77 = 1001$ is too big. $13 \times 76 = 988$. So the largest is **988**.
+:::
